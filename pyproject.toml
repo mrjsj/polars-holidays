@@ -5,19 +5,26 @@ build-backend = "maturin"
 [project]
 name = "polars-holidays"
 version = "0.1.0"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
   "Programming Language :: Rust",
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "polars>=1.0.0",
-  "holidays>=0.12.0",
+  "polars-lts-cpu>=1.0.0 ; sys_platform == 'darwin'",
+  "polars>=1.0.0 ; sys_platform == 'win32' or sys_platform == 'linux'",
 ]
 
-[extra-dependencies]
-
+[project.optional-dependencies]
+dev = [
+  "holidays>=0.12.0",
+  "pytest>=6.2.5",
+  "ruff>=0.8.6",
+  "maturin>=1.8.1",
+  "mypy>=1.41.1",
+  "pytest",
+]
 
 [tool.maturin]
 module-name = "polars_holidays._internal"
@@ -25,3 +32,9 @@ module-name = "polars_holidays._internal"
 [[tool.mypy.overrides]]
 module = "polars.utils.udfs"
 ignore_missing_imports = true
+
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "polars_holidays",
+]
