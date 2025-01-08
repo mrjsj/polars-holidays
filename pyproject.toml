@@ -18,7 +18,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-  "holidays>=0.12.0",
+  "holidays==0.64.0",
   "pytest>=6.2.5",
   "ruff>=0.8.6",
   "maturin>=1.8.1",

@@ -1,5 +1,6 @@
 mod ad_holidays;
 mod ae_holidays;
+mod af_holidays;
 mod al_holidays;
 mod am_holidays;
 mod ao_holidays;
@@ -160,6 +161,7 @@ use phf::phf_map;
 mod constants;
 
 pub static HOLIDAYS: phf::Map<&'static str, &'static phf::Map<i32, &'static str>> = phf_map! {
+    "af" => &af_holidays::AF_HOLIDAYS,
     "al" => &al_holidays::AL_HOLIDAYS,
     "dz" => &dz_holidays::DZ_HOLIDAYS,
     "as" => &as_holidays::AS_HOLIDAYS,

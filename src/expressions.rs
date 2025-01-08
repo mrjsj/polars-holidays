@@ -24,7 +24,6 @@ impl HolidayChecker {
     }
 
     pub fn get_holiday(&self, date: &i32, country_code: &str) -> Result<Option<&str>, PolarsError> {
-        // println!("The date is {}", &date);
         match self.holidays.get(country_code) {
             Some(holidays) => match holidays.get(date) {
                 Some(holiday) => Ok(Some(*holiday)),
