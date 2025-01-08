@@ -24,6 +24,7 @@ pre-commit:
 	mypy polars_holidays tests
 
 test:
+	source .venv/bin/activate && \
 	pytest tests/* -v
 
 # run: install
