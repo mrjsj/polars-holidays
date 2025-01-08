@@ -190,3 +190,11 @@ jobs:
           command: upload
           args: --non-interactive --skip-existing wheels-*/*
 
+      - name: Create a Release
+        uses: elgohr/Github-Release-Action@v5
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          title: Release ${{ github.ref_name }}
+          tag: ${{ github.ref_name }}          
+
