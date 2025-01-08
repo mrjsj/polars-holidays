@@ -51,7 +51,7 @@ def test_fuzzy_is_holiday(country: str, n_rows: int):
 def test_fuzzy_get_holiday(country: str, n_rows: int):
     dates = generate_dates(n_rows)
 
-    country_holidays = holidays.country_holidays(country)
+    country_holidays = holidays.country_holidays(country, language="en_US")
 
     expected_get_holiday = pl.Series(
         "is_holiday", [country_holidays.get(date) or "" for date in dates]
@@ -77,3 +77,5 @@ def test_fuzzy_get_holiday(country: str, n_rows: int):
     expected_series = actual_df.get_column("expected_get_holiday")
 
     assert_series_equal(actual_series, expected_series, check_names=False)
+
+
