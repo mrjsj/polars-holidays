@@ -1,5 +1,5 @@
 import polars as pl
-from polars.testing import assert_series_equal
+from polars.testing import assert_series_equal, assert_frame_equal
 import polars_holidays as plh
 import holidays
 import random
@@ -79,3 +79,50 @@ def test_fuzzy_get_holiday(country: str, n_rows: int):
     assert_series_equal(actual_series, expected_series, check_names=False)
 
 
+def test_is_holiday_on_none_value():
+
+    df = pl.DataFrame(
+        {
+            "date": [None, date(2020,1,1)],
+            "country": ["us", "us"]
+        }
+    )
+
+    df = df.with_columns(
+        is_holiday=plh.is_holiday("date", "country")
+    )
+
+    expected_df = pl.DataFrame(
+        {
+            "date": [None, date(2020,1,1)],
+            "country": ["us", "us"],
+            "is_holiday": [None, True]
+        }
+    )
+
+    assert_frame_equal(df, expected_df, check_column_order=False)
+
+
+
+def test_get_holiday_on_none_value():
+
+    df = pl.DataFrame(
+        {
+            "date": [None, date(2020,1,1)],
+            "country": ["us", "us"]
+        }
+    )
+
+    df = df.with_columns(
+        get_holiday=plh.get_holiday("date", "country")
+    )
+
+    expected_df = pl.DataFrame(
+        {
+            "date": [None, date(2020,1,1)],
+            "country": ["us", "us"],
+            "get_holiday": [None, "New Year's Day"]
+        }
+    )
+
+    assert_frame_equal(df, expected_df, check_column_order=False)
