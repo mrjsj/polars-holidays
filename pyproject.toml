@@ -4,7 +4,7 @@ build-backend = "maturin"
 
 [project]
 name = "polars-holidays"
-version = "0.1.0"
+version = "0.1.2"
 requires-python = ">=3.9"
 classifiers = [
   "Programming Language :: Rust",
@@ -18,12 +18,11 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-  "holidays==0.64.0",
-  "pytest>=6.2.5",
-  "ruff>=0.8.6",
-  "maturin>=1.8.1",
-  "mypy>=1.14.1",
-  "pytest>=8.3.4",
+  "holidays==0.81.0",
+  "pytest==8.4.2",
+  "ruff==0.13.2",
+  "maturin==1.9.4",
+  "mypy==1.18.2",
 ]
 
 [tool.maturin]

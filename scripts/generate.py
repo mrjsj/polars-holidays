@@ -14,10 +14,10 @@ MOD_MOD_TEMPLATE = "mod {country_code}_holidays;"
 MOD_USE_TEMPLATE = "pub use {country_code}_holidays::{country_code_upper}_HOLIDAYS;"
 
 
-HOLIDAYS_START = """use phf::phf_map;
-use crate::countries::constants::*;
+HOLIDAYS_START = """use crate::countries::constants::*;
+use phf::phf_map;
 
-pub static {country_code}_HOLIDAYS: phf::Map<i32, &'static str> = phf_map!{{
+pub static {country_code}_HOLIDAYS: phf::Map<i32, &'static str> = phf_map! {{
 """
 
 HOLIDAYS_END = """};\n"""
@@ -28,7 +28,7 @@ distinct_holidays = {}
 
 def generate_holidays(country_code: str):
 
-    country_holidays = holidays.country_holidays(country_code)
+    country_holidays = holidays.country_holidays(country_code, language="en_US")
 
     holidays_map = {}
     current_date = START_DATE
@@ -59,7 +59,7 @@ def generate_holidays(country_code: str):
             if holiday_const not in distinct_holidays:
                 distinct_holidays[holiday_const] = holiday_name
 
-            f.write(f"\t{holiday_date}_i32 => {holiday_const},\n")
+            f.write(f"    {holiday_date}_i32 => {holiday_const},\n")
         f.write(HOLIDAYS_END)
 
 
