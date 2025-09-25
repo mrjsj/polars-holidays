@@ -15,9 +15,11 @@ install-release:
 	source .venv/bin/activate && \
 	maturin develop --release
 
+format:
+	rustup run nightly cargo fmt --all
+
 pre-commit:
 	source .venv/bin/activate && \
-	rustup run nightly cargo fmt --all && \
 	cargo clippy --all-features && \
 	ruff check . --fix --exit-non-zero-on-fix && \
 	ruff format polars_holidays tests && \
