@@ -1,253 +1,329 @@
 #![allow(non_upper_case_globals)]
-pub static _100TH_ANNIVERSARY_OF_THE_ADOPTION_OF_THE_DECLARATION_OF_THE_SLOVAK_NATION: &str =
-    "100th anniversary of the adoption of the Declaration of the Slovak Nation";
-pub static _2002_FIFA_WORLD_CUP_NATIONAL_TEAM_SEMI_FINALS_CELEBRATIONS: &str =
-    "2002 FIFA World Cup National Team Semi-Finals Celebrations";
+pub static _100TH_ANNIVERSARY_OF_THE_ADOPTION_OF_THE_DECLARATION_OF_THE_SLOVAK_NATION: &str = "100th anniversary of the adoption of the Declaration of the Slovak Nation";
+pub static _15_KHORDAD_UPRISING: &str = "15 Khordad Uprising";
+pub static _15_KHORDAD_UPRISING__BIRTHDAY_OF_IMAM_ALI: &str = "15 Khordad Uprising; Birthday of Imam Ali";
+pub static _15_KHORDAD_UPRISING__EID_AL_FITR: &str = "15 Khordad Uprising; Eid al-Fitr";
+pub static _2002_FIFA_WORLD_CUP_NATIONAL_TEAM_SEMI_FINALS_CELEBRATIONS: &str = "2002 FIFA World Cup National Team Semi-Finals Celebrations";
+pub static _2009_CAYMAN_ISLANDS_CONSTITUTION_DAY: &str = "2009 Cayman Islands Constitution Day";
+pub static _2024_AFRICAN_CUP_OF_NATIONS_VICTORY: &str = "2024 African Cup of Nations Victory";
 pub static _29_OF_LUNAR_NEW_YEAR: &str = "29 of Lunar New Year";
 pub static _40TH_INDEPENDENCE_ANNIVERSARY: &str = "40th Independence Anniversary";
 pub static _50TH_ANNIVERSARY_OF_CARICOM_HOLIDAY: &str = "50th Anniversary of CARICOM Holiday";
-pub static _50TH_ANNIVERSARY_OF_THE_ESTABLISHMENT_OF_THE_CARIBBEAN_COMMUNITY__CARICOM_: &str =
-    "50th Anniversary of the Establishment of the Caribbean Community (CARICOM)";
+pub static _50TH_ANNIVERSARY_OF_THE_ESTABLISHMENT_OF_THE_CARIBBEAN_COMMUNITY__CARICOM_: &str = "50th Anniversary of the Establishment of the Caribbean Community (CARICOM)";
 pub static _70TH_ANNIVERSARY_OF_THE_VICTORY_OF_THE_CHINESE_PEOPLE_S_WAR_OF_RESISTANCE_AGAINST_JAPANESE_AGGRESSION_AND_THE_WORLD_ANTI_FASCIST_WAR: &str = "70th Anniversary of the Victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War";
 pub static _75TH_ANNIVERSARY_OF_VE_DAY: &str = "75th Anniversary of VE Day";
-pub static _ADDITIONAL_DAY_OFF_BY_PRESIDENTIAL_DECREE: &str =
-    "Additional day off by Presidential decree";
-pub static _ADDITIONAL_HOLIDAY_IN_COMMEMORATION_OF_THE_2017_SEA_GAMES: &str =
-    "Additional holiday in commemoration of the 2017 SEA Games";
+pub static _ABOLITION_OF_SLAVERY: &str = "Abolition of Slavery";
+pub static _ABOLITION_OF_SLAVERY__ASCENSION_DAY: &str = "Abolition of Slavery; Ascension Day";
+pub static _ABOLITION_OF_SLAVERY__CHINESE_SPRING_FESTIVAL: &str = "Abolition of Slavery; Chinese Spring Festival";
+pub static _ABOLITION_OF_SLAVERY__WHIT_MONDAY: &str = "Abolition of Slavery; Whit Monday";
+pub static _ACT_OF_SELF_DETERMINATION_DAY: &str = "Act of Self Determination Day";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__EASTER_MONDAY: &str = "Act of Self Determination Day; Easter Monday";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__GOOD_FRIDAY: &str = "Act of Self Determination Day; Good Friday";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Act of Self Determination Day; Islamic New Year (estimated)";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__OBSERVED_: &str = "Act of Self Determination Day (observed)";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__OBSERVED___EASTER_MONDAY: &str = "Act of Self Determination Day (observed); Easter Monday";
+pub static _ACT_OF_SELF_DETERMINATION_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Act of Self Determination Day; Prophet's Birthday (estimated)";
+pub static _ADDITIONAL_DAY_OFF_BY_PRESIDENTIAL_DECREE: &str = "Additional day off by Presidential decree";
+pub static _ADDITIONAL_HOLIDAY_IN_COMMEMORATION_OF_THE_2017_SEA_GAMES: &str = "Additional holiday in commemoration of the 2017 SEA Games";
 pub static _ADDITIONAL_SPECIAL__NON_WORKING__DAY: &str = "Additional special (non-working) day";
+pub static _ADHI_BINARA_FULL_MOON_POYA_DAY: &str = "Adhi Binara Full Moon Poya Day";
+pub static _ADHI_ESALA_FULL_MOON_POYA_DAY: &str = "Adhi Esala Full Moon Poya Day";
+pub static _ADHI_POSON_FULL_MOON_POYA_DAY: &str = "Adhi Poson Full Moon Poya Day";
+pub static _ADHI_VAP_FULL_MOON_POYA_DAY: &str = "Adhi Vap Full Moon Poya Day";
+pub static _ADHI_VESAK_FULL_MON_POYA_DAY: &str = "Adhi Vesak Full Mon Poya Day";
 pub static _ADWA_VICTORY_DAY: &str = "Adwa Victory Day";
+pub static _AFCON_VICTORY_AGAINST_IVORY_COAST: &str = "AFCON Victory Against Ivory Coast";
 pub static _AFGHANISTAN_INDEPENDENCE_DAY: &str = "Afghanistan Independence Day";
-pub static _AFGHANISTAN_INDEPENDENCE_DAY__EID_AL_FITR__ESTIMATED_: &str =
-    "Afghanistan Independence Day; Eid al-Fitr (estimated)";
+pub static _AFGHANISTAN_INDEPENDENCE_DAY__ASHURA: &str = "Afghanistan Independence Day; Ashura";
+pub static _AFGHANISTAN_INDEPENDENCE_DAY__EID_AL_FITR__ESTIMATED_: &str = "Afghanistan Independence Day; Eid al-Fitr (estimated)";
+pub static _AFRICAN_EMANCIPATION_DAY: &str = "African Emancipation Day";
+pub static _AFRICAN_EMANCIPATION_DAY__OBSERVED_: &str = "African Emancipation Day (observed)";
+pub static _AFRICAN_LIBERATION_DAY: &str = "African Liberation Day";
 pub static _AFRICA_DAY: &str = "Africa Day";
 pub static _AFRICA_DAY__ASCENSION_DAY: &str = "Africa Day; Ascension Day";
 pub static _AFRICA_DAY__EID_AL_FITR__ESTIMATED_: &str = "Africa Day; Eid al-Fitr (estimated)";
-pub static _AFRICA_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str =
-    "Africa Day; Islamic New Year (estimated)";
+pub static _AFRICA_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Africa Day; Islamic New Year (estimated)";
 pub static _AFRICA_DAY__OBSERVED_: &str = "Africa Day (observed)";
 pub static _AFRICA_FREEDOM_DAY: &str = "Africa Freedom Day";
 pub static _AFRICA_FREEDOM_DAY__OBSERVED_: &str = "Africa Freedom Day (observed)";
 pub static _AFRICA_HEROES_DAY: &str = "Africa/Heroes Day";
 pub static _AFRICA_HEROES_DAY__ASCENSION_DAY: &str = "Africa/Heroes Day; Ascension Day";
+pub static _AFRICA_LIBERATION_DAY: &str = "Africa Liberation Day";
+pub static _AFRICA_LIBERATION_DAY__OBSERVED_: &str = "Africa Liberation Day (observed)";
+pub static _AGRICULTURAL_REFORM_DAY: &str = "Agricultural Reform Day";
+pub static _AGRICULTURAL_REFORM_DAY__OBSERVED_: &str = "Agricultural Reform Day (observed)";
 pub static _AGRICULTURE_AND_LABOR_DAY: &str = "Agriculture and Labor Day";
-pub static _ALL_SAINTS_DAY: &str = "All Saints Day";
-pub static _ALL_SAINTS_DAY__OBSERVED_: &str = "All Saints Day (observed)";
+pub static _AITUTAKI_GOSPEL_DAY: &str = "Aitutaki Gospel Day";
+pub static _AITUTAKI_GOSPEL_DAY__COOK_ISLANDS_GOSPEL_DAY__OBSERVED_: &str = "Aitutaki Gospel Day; Cook Islands Gospel Day (observed)";
+pub static _AITUTAKI_GOSPEL_DAY__OBSERVED_: &str = "Aitutaki Gospel Day (observed)";
+pub static _AITUTAKI_GOSPEL_DAY__OBSERVED___COOK_ISLANDS_GOSPEL_DAY__OBSERVED_: &str = "Aitutaki Gospel Day (observed); Cook Islands Gospel Day (observed)";
 pub static _ALL_SAINTS__DAY: &str = "All Saints' Day";
 pub static _ALL_SAINTS__DAY_EVE: &str = "All Saints' Day Eve";
-pub static _ALL_SAINTS__DAY__MARTYRS__DAY__OBSERVED_: &str =
-    "All Saints' Day; Martyrs' Day (observed)";
+pub static _ALL_SAINTS__DAY__DIWALI: &str = "All Saints' Day; Diwali";
+pub static _ALL_SAINTS__DAY__FIRST_DAY_OF_RAMADAN__ESTIMATED_: &str = "All Saints' Day; First Day of Ramadan (estimated)";
+pub static _ALL_SAINTS__DAY__MARTYRS__DAY__OBSERVED_: &str = "All Saints' Day; Martyrs' Day (observed)";
 pub static _ALL_SAINTS__DAY__OBSERVED_: &str = "All Saints' Day (observed)";
 pub static _ALL_SOULS__DAY: &str = "All Souls' Day";
 pub static _ALL_SOULS__DAY__OBSERVED_: &str = "All Souls' Day (observed)";
-pub static _ALL_SOULS__DAY__OBSERVED___INDEPENDENCE_OF_CUENCA__OBSERVED_: &str =
-    "All Souls' Day (observed); Independence of Cuenca (observed)";
+pub static _ALL_SOULS__DAY__OBSERVED___INDEPENDENCE_OF_CUENCA__OBSERVED_: &str = "All Souls' Day (observed); Independence of Cuenca (observed)";
 pub static _ALPHABET_DAY: &str = "Alphabet Day";
 pub static _ALPHABET_DAY__OBSERVED_: &str = "Alphabet Day (observed)";
-pub static _ALTERNATIVE_HOLIDAY_FOR_BUDDHA_S_BIRTHDAY: &str =
-    "Alternative holiday for Buddha's Birthday";
-pub static _ALTERNATIVE_HOLIDAY_FOR_BUDDHA_S_BIRTHDAY__ALTERNATIVE_HOLIDAY_FOR_CHILDREN_S_DAY:
-    &str = "Alternative holiday for Buddha's Birthday; Alternative holiday for Children's Day";
+pub static _ALTERNATIVE_HOLIDAY_FOR_BUDDHA_S_BIRTHDAY: &str = "Alternative holiday for Buddha's Birthday";
+pub static _ALTERNATIVE_HOLIDAY_FOR_BUDDHA_S_BIRTHDAY__ALTERNATIVE_HOLIDAY_FOR_CHILDREN_S_DAY: &str = "Alternative holiday for Buddha's Birthday; Alternative holiday for Children's Day";
 pub static _ALTERNATIVE_HOLIDAY_FOR_CHILDREN_S_DAY: &str = "Alternative holiday for Children's Day";
 pub static _ALTERNATIVE_HOLIDAY_FOR_CHRISTMAS_DAY: &str = "Alternative holiday for Christmas Day";
 pub static _ALTERNATIVE_HOLIDAY_FOR_CHUSEOK: &str = "Alternative holiday for Chuseok";
 pub static _ALTERNATIVE_HOLIDAY_FOR_HANGUL_DAY: &str = "Alternative holiday for Hangul Day";
-pub static _ALTERNATIVE_HOLIDAY_FOR_INDEPENDENCE_MOVEMENT_DAY: &str =
-    "Alternative holiday for Independence Movement Day";
-pub static _ALTERNATIVE_HOLIDAY_FOR_KOREAN_NEW_YEAR: &str =
-    "Alternative holiday for Korean New Year";
+pub static _ALTERNATIVE_HOLIDAY_FOR_INDEPENDENCE_MOVEMENT_DAY: &str = "Alternative holiday for Independence Movement Day";
+pub static _ALTERNATIVE_HOLIDAY_FOR_KOREAN_NEW_YEAR: &str = "Alternative holiday for Korean New Year";
 pub static _ALTERNATIVE_HOLIDAY_FOR_LIBERATION_DAY: &str = "Alternative holiday for Liberation Day";
-pub static _ALTERNATIVE_HOLIDAY_FOR_NATIONAL_FOUNDATION_DAY: &str =
-    "Alternative holiday for National Foundation Day";
+pub static _ALTERNATIVE_HOLIDAY_FOR_NATIONAL_FOUNDATION_DAY: &str = "Alternative holiday for National Foundation Day";
 pub static _AMAZIGH_NEW_YEAR: &str = "Amazigh New Year";
+pub static _AMERICAN_FORCES_EVACUATION_DAY: &str = "American Forces Evacuation Day";
 pub static _AMERICAN_SAMOA_FLAG_DAY: &str = "American Samoa Flag Day";
 pub static _AMERICAN_SAMOA_FLAG_DAY__OBSERVED_: &str = "American Samoa Flag Day (observed)";
 pub static _AMERICAN_WITHDRAWAL_DAY: &str = "American Withdrawal Day";
 pub static _ANCESTRY_DAY: &str = "Ancestry Day";
-pub static _ANNEXATION_OF_THE_PARTY_OF_NICOYA_TO_COSTA_RICA: &str =
-    "Annexation of the Party of Nicoya to Costa Rica";
-pub static _ANNEXATION_OF_THE_PARTY_OF_NICOYA_TO_COSTA_RICA__OBSERVED_: &str =
-    "Annexation of the Party of Nicoya to Costa Rica (observed)";
+pub static _ANGAM_DAY: &str = "Angam Day";
+pub static _ANGAM_DAY__OBSERVED_: &str = "Angam Day (observed)";
+pub static _ANGUILLA_DAY: &str = "Anguilla Day";
+pub static _ANGUILLA_DAY__OBSERVED_: &str = "Anguilla Day (observed)";
+pub static _ANGUILLA_DAY__WHIT_MONDAY: &str = "Anguilla Day; Whit Monday";
+pub static _ANNEXATION_DAY: &str = "Annexation Day";
+pub static _ANNEXATION_OF_THE_PARTY_OF_NICOYA_TO_COSTA_RICA: &str = "Annexation of the Party of Nicoya to Costa Rica";
+pub static _ANNEXATION_OF_THE_PARTY_OF_NICOYA_TO_COSTA_RICA__OBSERVED_: &str = "Annexation of the Party of Nicoya to Costa Rica (observed)";
 pub static _ANNIVERSARIO_DELL_UNIT__D_ITALIA: &str = "Anniversario dell'Unità d'Italia";
+pub static _ANNIVERSARY_OF_DEATH_OF_PRESIDENT_FELIX_HOUPHOUET_BOIGNY: &str = "Anniversary of death of President Felix Houphouet-Boigny";
 pub static _ANNIVERSARY_OF_THE_ARENGO: &str = "Anniversary of the Arengo";
-pub static _ANNIVERSARY_OF_THE_ARENGO__EASTER_SUNDAY: &str =
-    "Anniversary of the Arengo; Easter Sunday";
-pub static _ANNIVERSARY_OF_THE_CORONATION_DAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA: &str =
-    "Anniversary of the Coronation Day of the reigning Sovereign of Tonga";
-pub static _ANNIVERSARY_OF_THE_CORONATION_DAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA__OBSERVED_: &str =
-    "Anniversary of the Coronation Day of the reigning Sovereign of Tonga (observed)";
-pub static _ANNIVERSARY_OF_THE_CORONATION_OF_HM_KING_GEORGE_TUPOU_I: &str =
-    "Anniversary of the Coronation of HM King George Tupou I";
-pub static _ANNIVERSARY_OF_THE_CORONATION_OF_HM_KING_GEORGE_TUPOU_I__OBSERVED_: &str =
-    "Anniversary of the Coronation of HM King George Tupou I (observed)";
-pub static _ANNIVERSARY_OF_THE_ELECTION_OF_THE_HOLY_FATHER: &str =
-    "Anniversary of the Election of the Holy Father";
-pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN: &str =
-    "Anniversary of the revelation of the Quran";
-pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__ESTIMATED_: &str =
-    "Anniversary of the revelation of the Quran (estimated)";
-pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__OBSERVED_: &str =
-    "Anniversary of the revelation of the Quran (observed)";
-pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__OBSERVED__ESTIMATED_: &str =
-    "Anniversary of the revelation of the Quran (observed, estimated)";
-pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str =
-    "Anniversary of the revelation of the Quran; Sultan Hassanal Bolkiah's Birthday";
+pub static _ANNIVERSARY_OF_THE_ARENGO__EASTER_SUNDAY: &str = "Anniversary of the Arengo; Easter Sunday";
+pub static _ANNIVERSARY_OF_THE_CNSP_COUP: &str = "Anniversary of the CNSP Coup";
+pub static _ANNIVERSARY_OF_THE_CNSP_COUP__OBSERVED_: &str = "Anniversary of the CNSP Coup (observed)";
+pub static _ANNIVERSARY_OF_THE_CORONATION_DAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA: &str = "Anniversary of the Coronation Day of the reigning Sovereign of Tonga";
+pub static _ANNIVERSARY_OF_THE_CORONATION_DAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA__OBSERVED_: &str = "Anniversary of the Coronation Day of the reigning Sovereign of Tonga (observed)";
+pub static _ANNIVERSARY_OF_THE_CORONATION_OF_HM_KING_GEORGE_TUPOU_I: &str = "Anniversary of the Coronation of HM King George Tupou I";
+pub static _ANNIVERSARY_OF_THE_CORONATION_OF_HM_KING_GEORGE_TUPOU_I__OBSERVED_: &str = "Anniversary of the Coronation of HM King George Tupou I (observed)";
+pub static _ANNIVERSARY_OF_THE_COUNTRY_S_NAME_CHANGE: &str = "Anniversary of the Country's Name Change";
+pub static _ANNIVERSARY_OF_THE_COUNTRY_S_NAME_CHANGE__OBSERVED_: &str = "Anniversary of the Country's Name Change (observed)";
+pub static _ANNIVERSARY_OF_THE_ELECTION_OF_THE_HOLY_FATHER: &str = "Anniversary of the Election of the Holy Father";
+pub static _ANNIVERSARY_OF_THE_FALL_OF_FASCISM_AND_FREEDOM_DAY: &str = "Anniversary of the Fall of Fascism and Freedom Day";
+pub static _ANNIVERSARY_OF_THE_FEBRUARY_17_REVOLUTION: &str = "Anniversary of the February 17 Revolution";
+pub static _ANNIVERSARY_OF_THE_FEBRUARY_17_REVOLUTION__DAY_OF_ARAFAH__ESTIMATED_: &str = "Anniversary of the February 17 Revolution; Day of Arafah (estimated)";
+pub static _ANNIVERSARY_OF_THE_FOUNDATION_OF_VATICAN_CITY: &str = "Anniversary of the Foundation of Vatican City";
+pub static _ANNIVERSARY_OF_THE_LIBERATION_OF_THE_REPUBLIC_AND_FEAST_OF_SAINT_AGATHA: &str = "Anniversary of the Liberation of the Republic and Feast of Saint Agatha";
+pub static _ANNIVERSARY_OF_THE_NEW_REGIME: &str = "Anniversary of the New Regime";
+pub static _ANNIVERSARY_OF_THE_NEW_REGIME__OBSERVED_: &str = "Anniversary of the New Regime (observed)";
+pub static _ANNIVERSARY_OF_THE_NEW_REVOLUTIONARY_CONSTITUTION: &str = "Anniversary of the New Revolutionary Constitution";
+pub static _ANNIVERSARY_OF_THE_NEW_REVOLUTIONARY_CONSTITUTION__OBSERVED_: &str = "Anniversary of the New Revolutionary Constitution (observed)";
+pub static _ANNIVERSARY_OF_THE_POPULAR_MOVEMENT_OF_THE_REVOLUTION: &str = "Anniversary of the Popular Movement of the Revolution";
+pub static _ANNIVERSARY_OF_THE_POPULAR_MOVEMENT_OF_THE_REVOLUTION__OBSERVED_: &str = "Anniversary of the Popular Movement of the Revolution (observed)";
+pub static _ANNIVERSARY_OF_THE_PROCLAMATION_OF_INDEPENDENCE: &str = "Anniversary of the Proclamation of Independence";
+pub static _ANNIVERSARY_OF_THE_PROCLAMATION_OF_INDEPENDENCE__EID_AL_FITR__ESTIMATED_: &str = "Anniversary of the Proclamation of Independence; Eid al-Fitr (estimated)";
+pub static _ANNIVERSARY_OF_THE_PROCLAMATION_OF_INDEPENDENCE__OBSERVED_: &str = "Anniversary of the Proclamation of Independence (observed)";
+pub static _ANNIVERSARY_OF_THE_PROCLAMATION_OF_INDEPENDENCE__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Anniversary of the Proclamation of Independence; Prophet's Birthday (estimated)";
+pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN: &str = "Anniversary of the revelation of the Quran";
+pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__ESTIMATED_: &str = "Anniversary of the revelation of the Quran (estimated)";
+pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__OBSERVED_: &str = "Anniversary of the revelation of the Quran (observed)";
+pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__OBSERVED__ESTIMATED_: &str = "Anniversary of the revelation of the Quran (observed, estimated)";
+pub static _ANNIVERSARY_OF_THE_REVELATION_OF_THE_QURAN__SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str = "Anniversary of the revelation of the Quran; Sultan Hassanal Bolkiah's Birthday";
 pub static _ANTI_FASCIST_STRUGGLE_DAY: &str = "Anti-Fascist Struggle Day";
 pub static _ANZAC_DAY: &str = "ANZAC Day";
 pub static _ANZAC_DAY__EASTER_MONDAY: &str = "ANZAC Day; Easter Monday";
-pub static _ANZAC_DAY__OBSERVED_: &str = "Anzac Day (observed)";
-pub static _ANZAC_DAY__OBSERVED___EASTER_MONDAY: &str = "Anzac Day (observed); Easter Monday";
+pub static _ANZAC_DAY__OBSERVED_: &str = "ANZAC Day (observed)";
+pub static _ANZAC_DAY__OBSERVED___EASTER_MONDAY: &str = "ANZAC Day (observed); Easter Monday";
 pub static _APEC_LEADERS__SUMMIT_PUBLIC_HOLIDAY: &str = "APEC Leaders' Summit Public Holiday";
 pub static _ARAFAT_DAY: &str = "Arafat Day";
 pub static _ARAFAT_DAY__ESTIMATED_: &str = "Arafat Day (estimated)";
 pub static _ARAFAT_DAY__ESTIMATED___CHRISTMAS_DAY: &str = "Arafat Day (estimated); Christmas Day";
-pub static _ARAFAT_DAY__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Arafat Day (estimated); Independence Day";
-pub static _ARAFAT_DAY__ESTIMATED___JANUARY_25TH_REVOLUTION_DAY: &str =
-    "Arafat Day (estimated); January 25th Revolution Day";
+pub static _ARAFAT_DAY__ESTIMATED___INDEPENDENCE_DAY: &str = "Arafat Day (estimated); Independence Day";
+pub static _ARAFAT_DAY__ESTIMATED___LABOR_DAY__OBSERVED_: &str = "Arafat Day (estimated); Labor Day (observed)";
 pub static _ARAFAT_DAY__ESTIMATED___NATIONAL_DAY: &str = "Arafat Day (estimated); National Day";
+pub static _ARAFAT_DAY__NATIONAL_DAY_HOLIDAY: &str = "Arafat Day; National Day Holiday";
+pub static _ARBAEEN: &str = "Arbaeen";
 pub static _ARBAEEN__ESTIMATED_: &str = "Arbaeen (estimated)";
-pub static _ARBAEEN__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Arbaeen (estimated); Iranian Oil Industry Nationalization Day";
+pub static _ARBAEEN__NOWRUZ: &str = "Arbaeen; Nowruz";
+pub static _ARCHBISHOP_JANANI_LUWUM_DAY: &str = "Archbishop Janani Luwum Day";
 pub static _ARMED_FORCES_DAY: &str = "Armed Forces Day";
-pub static _ARMED_FORCES_DAY__COMMEMORATION_OF_THE_BATTLE_OF_VERTIERES: &str =
-    "Armed Forces Day; Commemoration of the Battle of Vertieres";
-pub static _ARMED_FORCES_DAY__EID_AL_ADHA_HOLIDAY__ESTIMATED_: &str =
-    "Armed Forces Day; Eid al-Adha Holiday (estimated)";
+pub static _ARMED_FORCES_DAY__COMMEMORATION_OF_THE_BATTLE_OF_VERTIERES: &str = "Armed Forces Day; Commemoration of the Battle of Vertieres";
+pub static _ARMED_FORCES_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Armed Forces Day; Eid al-Adha (estimated)";
 pub static _ARMED_FORCES_DAY__EID_AL_FITR: &str = "Armed Forces Day; Eid al-Fitr";
 pub static _ARMED_FORCES_DAY__OBSERVED_: &str = "Armed Forces Day (observed)";
+pub static _ARMED_FORCES_DAY__OBSERVED___EID_AL_ADHA__OBSERVED__ESTIMATED_: &str = "Armed Forces Day (observed); Eid al-Adha (observed, estimated)";
+pub static _ARMED_FORCES_DAY__PROPHET_S_BAPTISM__ESTIMATED_: &str = "Armed Forces Day; Prophet's Baptism (estimated)";
+pub static _ARMENIAN_ORTHODOX_CHRISTMAS_DAY: &str = "Armenian Orthodox Christmas Day";
+pub static _ARMENIAN_ORTHODOX_CHRISTMAS_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Armenian Orthodox Christmas Day; Eid al-Adha (estimated)";
 pub static _ARMISTICE_DAY: &str = "Armistice Day";
 pub static _ARMISTICE_DAY__OBSERVED_: &str = "Armistice Day (observed)";
 pub static _ARMY_DAY: &str = "Army Day";
+pub static _ARMY_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Army Day; Eid al-Adha (estimated)";
+pub static _ARRIVAL_DAY: &str = "Arrival Day";
+pub static _ARRIVAL_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Arrival Day; Eid al-Adha (estimated)";
+pub static _ARRIVAL_DAY__OBSERVED_: &str = "Arrival Day (observed)";
+pub static _ARRIVAL_OF_INDENTURED_LABORERS: &str = "Arrival of Indentured Laborers";
+pub static _ARRIVAL_OF_INDENTURED_LABORERS__DIWALI: &str = "Arrival of Indentured Laborers; Diwali";
 pub static _ASARNHA_BUCHA: &str = "Asarnha Bucha";
-pub static _ASARNHA_BUCHA__HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY: &str =
-    "Asarnha Bucha; HM King Maha Vajiralongkorn's Birthday";
+pub static _ASARNHA_BUCHA__HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY: &str = "Asarnha Bucha; HM King Maha Vajiralongkorn's Birthday";
 pub static _ASARNHA_BUCHA__IN_LIEU_: &str = "Asarnha Bucha (in lieu)";
 pub static _ASCENSION_DAY: &str = "Ascension Day";
 pub static _ASCENSION_DAY__CONSTITUTION_DAY: &str = "Ascension Day; Constitution Day";
 pub static _ASCENSION_DAY__EID_AL_FITR: &str = "Ascension Day; Eid al-Fitr";
-pub static _ASCENSION_DAY__EID_UL_FITR__ESTIMATED_: &str = "Ascension Day; Eid ul Fitr (estimated)";
+pub static _ASCENSION_DAY__EID_AL_FITR__ESTIMATED_: &str = "Ascension Day; Eid al-Fitr (estimated)";
 pub static _ASCENSION_DAY__EUROPE_DAY: &str = "Ascension Day; Europe Day";
-pub static _ASCENSION_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str =
-    "Ascension Day; Islamic New Year (estimated)";
+pub static _ASCENSION_DAY__INTERNATIONAL_LABOR_DAY: &str = "Ascension Day; International Labor Day";
+pub static _ASCENSION_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Ascension Day; Islamic New Year (estimated)";
 pub static _ASCENSION_DAY__LABOR_DAY: &str = "Ascension Day; Labor Day";
 pub static _ASCENSION_DAY__LABOUR_DAY: &str = "Ascension Day; Labour Day";
 pub static _ASCENSION_DAY__LIBERATION_DAY: &str = "Ascension Day; Liberation Day";
 pub static _ASCENSION_DAY__MAY_DAY: &str = "Ascension Day; May Day";
 pub static _ASCENSION_DAY__NATIONAL_DAY: &str = "Ascension Day; National Day";
 pub static _ASCENSION_DAY__OBSERVED_: &str = "Ascension Day (observed)";
+pub static _ASCENSION_DAY__SAINT_JOSEPH_THE_WORKER_S_DAY: &str = "Ascension Day; Saint Joseph the Worker's Day";
 pub static _ASCENSION_DAY__WORKERS__DAY: &str = "Ascension Day; Workers' Day";
 pub static _ASCENSION_DAY__WORKER_S_DAY: &str = "Ascension Day; Worker's Day";
-pub static _ASCENSION_OF_CHRIST: &str = "Ascension of Christ";
-pub static _ASCENSION_OF_CHRIST__SAINT_JOSEPH_THE_WORKER_S_DAY: &str =
-    "Ascension of Christ; Saint Joseph the Worker's Day";
 pub static _ASHURA: &str = "Ashura";
-pub static _ASHURA_EVE: &str = "Ashura Eve";
-pub static _ASHURA_EVE__ESTIMATED_: &str = "Ashura Eve (estimated)";
-pub static _ASHURA_EVE__ESTIMATED___LABOR_DAY: &str = "Ashura Eve (estimated); Labor Day";
-pub static _ASHURA_EVE__ESTIMATED___NEW_YEAR_S_DAY: &str = "Ashura Eve (estimated); New Year's Day";
 pub static _ASHURA__ESTIMATED_: &str = "Ashura (estimated)";
-pub static _ASHURA__ESTIMATED___DEATH_OF_KHOMEINI: &str = "Ashura (estimated); Death of Khomeini";
+pub static _ASHURA__ESTIMATED___DEATH_OF_IMAM_KHOMEINI: &str = "Ashura (estimated); Death of Imam Khomeini";
 pub static _ASHURA__ESTIMATED___INDEPENDENCE_DAY: &str = "Ashura (estimated); Independence Day";
 pub static _ASHURA__ESTIMATED___IQBAL_DAY: &str = "Ashura (estimated); Iqbal Day";
-pub static _ASHURA__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Ashura (estimated); Iranian Oil Industry Nationalization Day";
-pub static _ASHURA__ESTIMATED___LABOUR_DAY: &str = "Ashura (estimated); Labour Day";
-pub static _ASHURA__ESTIMATED___MARTYRS__DAY: &str = "Ashura (estimated); Martyrs' Day";
+pub static _ASHURA__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str = "Ashura (estimated); Iranian Oil Industry Nationalization Day";
+pub static _ASHURA__ESTIMATED___LABOR_DAY: &str = "Ashura (estimated); Labor Day";
 pub static _ASHURA__ESTIMATED___NATIONAL_DAY: &str = "Ashura (estimated); National Day";
+pub static _ASHURA__ESTIMATED___NEW_YEAR_S_DAY: &str = "Ashura (estimated); New Year's Day";
 pub static _ASHURA__ESTIMATED___PAKISTAN_DAY: &str = "Ashura (estimated); Pakistan Day";
-pub static _ASHURA__ESTIMATED___PERSIAN_NEW_YEAR: &str = "Ashura (estimated); Persian New Year";
+pub static _ASHURA__ESTIMATED___RESISTANCE_AND_LIBERATION_DAY: &str = "Ashura (estimated); Resistance and Liberation Day";
+pub static _ASHURA__OBSERVED_: &str = "Ashura (observed)";
+pub static _ASHURA__OBSERVED__ESTIMATED_: &str = "Ashura (observed, estimated)";
 pub static _ASHURA__QUAID_E_AZAM_DAY: &str = "Ashura; Quaid-e-Azam Day";
+pub static _ASHURA__SAINT_MARON_S_DAY: &str = "Ashura; Saint Maron's Day";
 pub static _ASH_WEDNESDAY: &str = "Ash Wednesday";
 pub static _ASSUMPTION_DAY: &str = "Assumption Day";
+pub static _ASSUMPTION_DAY__DAY_AFTER_NIGHT_OF_POWER: &str = "Assumption Day; Day after Night of Power";
+pub static _ASSUMPTION_DAY__DAY_AFTER_NIGHT_OF_POWER__ESTIMATED_: &str = "Assumption Day; Day after Night of Power (estimated)";
+pub static _ASSUMPTION_DAY__EID_AL_FITR__ESTIMATED_: &str = "Assumption Day; Eid al-Fitr (estimated)";
+pub static _ASSUMPTION_DAY__LAYLAT_AL_QADR__ESTIMATED_: &str = "Assumption Day; Laylat al-Qadr (estimated)";
 pub static _ASSUMPTION_DAY__OBSERVED_: &str = "Assumption Day (observed)";
-pub static _ASSUMPTION_OF_MARY: &str = "Assumption of Mary";
+pub static _ASSUMPTION_DAY__OBSERVED___PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "Assumption Day (observed); Prophet's Birthday (observed, estimated)";
+pub static _ASSUMPTION_OF_MARY_DAY: &str = "Assumption of Mary Day";
 pub static _ASSUNZIONE_DELLA_VERGINE: &str = "Assunzione della Vergine";
 pub static _ASUNCION_FOUNDATION_S_DAY: &str = "Asuncion Foundation's Day";
+pub static _ATIU_GOSPEL_DAY: &str = "Atiu Gospel Day";
+pub static _ATIU_GOSPEL_DAY__OBSERVED___MITIARO_GOSPEL_DAY: &str = "Atiu Gospel Day (observed); Mitiaro Gospel Day";
+pub static _ATIU_GOSPEL_DAY__OBSERVED___MITIARO_GOSPEL_DAY__OBSERVED_: &str = "Atiu Gospel Day (observed); Mitiaro Gospel Day (observed)";
 pub static _AUGUST_BANK_HOLIDAY: &str = "August Bank Holiday";
+pub static _AUGUST_MONDAY: &str = "August Monday";
+pub static _AUGUST_THURSDAY: &str = "August Thursday";
 pub static _AUSTRALIA_DAY: &str = "Australia Day";
+pub static _AUSTRALIA_DAY__CHINESE_NEW_YEAR: &str = "Australia Day; Chinese New Year";
+pub static _AUSTRALIA_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Australia Day; Eid al-Adha (estimated)";
+pub static _AUSTRALIA_DAY__OBSERVED_: &str = "Australia Day (observed)";
+pub static _AUSTRALIA_DAY__OBSERVED___CHINESE_NEW_YEAR: &str = "Australia Day (observed); Chinese New Year";
+pub static _AUSTRALIA_DAY__OBSERVED___CHINESE_NEW_YEAR__OBSERVED_: &str = "Australia Day (observed); Chinese New Year (observed)";
 pub static _AUTUMNAL_EQUINOX: &str = "Autumnal Equinox";
 pub static _AYMARA_NEW_YEAR: &str = "Aymara New Year";
 pub static _AYMARA_NEW_YEAR__OBSERVED_: &str = "Aymara New Year (observed)";
 pub static _A_HOLIDAY_OF_MOTHERHOOD_AND_BEAUTY: &str = "A Holiday of Motherhood and Beauty";
 pub static _A_NATIONAL_DAY: &str = "A National Day";
+pub static _BAKRID: &str = "Bakrid";
+pub static _BAKRID__ESTIMATED_: &str = "Bakrid (estimated)";
+pub static _BAK_FULL_MOON_POYA_DAY: &str = "Bak Full Moon Poya Day";
+pub static _BAK_FULL_MOON_POYA_DAY__DAY_BEFORE_SINHALA_AND_TAMIL_NEW_YEAR: &str = "Bak Full Moon Poya Day; Day Before Sinhala and Tamil New Year";
+pub static _BAK_FULL_MOON_POYA_DAY__GOOD_FRIDAY: &str = "Bak Full Moon Poya Day; Good Friday";
+pub static _BAK_FULL_MOON_POYA_DAY__SINHALA_AND_TAMIL_NEW_YEAR: &str = "Bak Full Moon Poya Day; Sinhala and Tamil New Year";
+pub static _BANK_HOLIDAY: &str = "Bank Holiday";
+pub static _BARTH_LEMY_BOGANDA_DAY: &str = "Barthélemy Boganda Day";
+pub static _BARTH_LEMY_BOGANDA_DAY__EASTER_MONDAY: &str = "Barthélemy Boganda Day; Easter Monday";
 pub static _BATTLE_OF_ANGAMOS_DAY: &str = "Battle of Angamos Day";
+pub static _BATTLE_OF_ARICA_AND_FLAG_DAY: &str = "Battle of Arica and Flag Day";
 pub static _BATTLE_OF_AYACUCHO_DAY: &str = "Battle of Ayacucho Day";
 pub static _BATTLE_OF_BOYAC_: &str = "Battle of Boyacá";
 pub static _BATTLE_OF_CARABOBO: &str = "Battle of Carabobo";
 pub static _BATTLE_OF_JUN_N_DAY: &str = "Battle of Junín Day";
 pub static _BATTLE_OF_SAN_JACINTO_DAY: &str = "Battle of San Jacinto Day";
 pub static _BEGINNING_OF_RAMADAN__ESTIMATED_: &str = "Beginning of Ramadan (estimated)";
-pub static _BEGINNING_OF_RAMADAN__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Beginning of Ramadan (estimated); Independence Day";
+pub static _BEGINNING_OF_RAMADAN__ESTIMATED___INDEPENDENCE_DAY: &str = "Beginning of Ramadan (estimated); Independence Day";
 pub static _BENGALI_NEW_YEAR_S_DAY: &str = "Bengali New Year's Day";
 pub static _BENITO_JU_REZ_S_BIRTHDAY: &str = "Benito Juárez's birthday";
+pub static _BERMUDA_DAY: &str = "Bermuda Day";
+pub static _BERMUDA_DAY__OBSERVED_: &str = "Bermuda Day (observed)";
 pub static _BETICO_DAY: &str = "Betico Day";
+pub static _BHAI_TIKA: &str = "Bhai Tika";
 pub static _BICENTENARY_OF_THE_BATTLE_OF_SALTA: &str = "Bicentenary of the Battle of Salta";
 pub static _BICENTENARY_OF_THE_BATTLE_OF_TUCUM_N: &str = "Bicentenary of the Battle of Tucumán";
-pub static _BICENTENARY_OF_THE_CREATION_AND_FIRST_OATH_OF_THE_NATIONAL_FLAG: &str =
-    "Bicentenary of the creation and first oath of the national flag";
+pub static _BICENTENARY_OF_THE_CREATION_AND_FIRST_OATH_OF_THE_NATIONAL_FLAG: &str = "Bicentenary of the creation and first oath of the national flag";
 pub static _BICENTENARY_OF_THE_INAUGURAL_SESSION_OF_THE_NATIONAL_CONSTITUENT_ASSEMBLY_OF_THE_YEAR_1813: &str = "Bicentenary of the inaugural session of the National Constituent Assembly of the year 1813";
-pub static _BIRTHDAY_OF_ALI__ESTIMATED_: &str = "Birthday of Ali (estimated)";
-pub static _BIRTHDAY_OF_ALI__ESTIMATED___DEATH_OF_KHOMEINI: &str =
-    "Birthday of Ali (estimated); Death of Khomeini";
-pub static _BIRTHDAY_OF_ALI__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Birthday of Ali (estimated); Iranian Oil Industry Nationalization Day";
+pub static _BICENTENARY_OF_THE_MAY_REVOLUTION: &str = "Bicentenary of the May Revolution";
+pub static _BIJAYA_DASHAMI: &str = "Bijaya Dashami";
+pub static _BINARA_FULL_MOON_POYA_DAY: &str = "Binara Full Moon Poya Day";
 pub static _BIRTHDAY_OF_HM_YANG_DI_PERTUAN_AGONG: &str = "Birthday of HM Yang di-Pertuan Agong";
-pub static _BIRTHDAY_OF_HM_YANG_DI_PERTUAN_AGONG__OBSERVED_: &str =
-    "Birthday of HM Yang di-Pertuan Agong (observed)";
+pub static _BIRTHDAY_OF_HM_YANG_DI_PERTUAN_AGONG__OBSERVED_: &str = "Birthday of HM Yang di-Pertuan Agong (observed)";
+pub static _BIRTHDAY_OF_IMAM_ALI: &str = "Birthday of Imam Ali";
+pub static _BIRTHDAY_OF_IMAM_ALI__ESTIMATED_: &str = "Birthday of Imam Ali (estimated)";
+pub static _BIRTHDAY_OF_IMAM_ALI__IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str = "Birthday of Imam Ali; Iranian Oil Industry Nationalization Day";
 pub static _BIRTHDAY_OF_LATE_KING_SOBHUZA: &str = "Birthday of Late King Sobhuza";
-pub static _BIRTHDAY_OF_LATE_KING_SOBHUZA__OBSERVED_: &str =
-    "Birthday of Late King Sobhuza (observed)";
+pub static _BIRTHDAY_OF_LATE_KING_SOBHUZA__OBSERVED_: &str = "Birthday of Late King Sobhuza (observed)";
+pub static _BIRTHDAY_OF_MAHDI: &str = "Birthday of Mahdi";
 pub static _BIRTHDAY_OF_MAHDI__ESTIMATED_: &str = "Birthday of Mahdi (estimated)";
-pub static _BIRTHDAY_OF_MUHAMMAD_AND_JA_FAR_AL_SADIQ__ESTIMATED_: &str =
-    "Birthday of Muhammad and Ja'far al-Sadiq (estimated)";
-pub static _BIRTHDAY_OF_MUHAMMAD_AND_JA_FAR_AL_SADIQ__ESTIMATED___DEATH_OF_KHOMEINI: &str =
-    "Birthday of Muhammad and Ja'far al-Sadiq (estimated); Death of Khomeini";
-pub static _BIRTHDAY_OF_MUHAMMAD_AND_JA_FAR_AL_SADIQ__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Birthday of Muhammad and Ja'far al-Sadiq (estimated); Persian New Year";
+pub static _BIRTHDAY_OF_MUHAMMAD_AND_IMAM_JA_FAR_AL_SADIQ: &str = "Birthday of Muhammad and Imam Ja'far al-Sadiq";
+pub static _BIRTHDAY_OF_MUHAMMAD_AND_IMAM_JA_FAR_AL_SADIQ__ESTIMATED_: &str = "Birthday of Muhammad and Imam Ja'far al-Sadiq (estimated)";
+pub static _BIRTHDAY_OF_MUHAMMAD_AND_IMAM_JA_FAR_AL_SADIQ__ESTIMATED___DEATH_OF_IMAM_KHOMEINI: &str = "Birthday of Muhammad and Imam Ja'far al-Sadiq (estimated); Death of Imam Khomeini";
+pub static _BIRTHDAY_OF_MUHAMMAD_AND_IMAM_JA_FAR_AL_SADIQ__ESTIMATED___NOWRUZ: &str = "Birthday of Muhammad and Imam Ja'far al-Sadiq (estimated); Nowruz";
 pub static _BIRTHDAY_OF_SIMON_BOLIVAR: &str = "Birthday of Simon Bolivar";
-pub static _BIRTHDAY_OF_THE_HEIR_TO_THE_CROWN_OF_TONGA: &str =
-    "Birthday of the Heir to the Crown of Tonga";
-pub static _BIRTHDAY_OF_THE_HEIR_TO_THE_CROWN_OF_TONGA__OBSERVED_: &str =
-    "Birthday of the Heir to the Crown of Tonga (observed)";
-pub static _BIRTHDAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA: &str =
-    "Birthday of the Reigning Sovereign of Tonga";
-pub static _BIRTHDAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA__OBSERVED_: &str =
-    "Birthday of the Reigning Sovereign of Tonga (observed)";
+pub static _BIRTHDAY_OF_THE_HEIR_TO_THE_CROWN_OF_TONGA: &str = "Birthday of the Heir to the Crown of Tonga";
+pub static _BIRTHDAY_OF_THE_HEIR_TO_THE_CROWN_OF_TONGA__OBSERVED_: &str = "Birthday of the Heir to the Crown of Tonga (observed)";
+pub static _BIRTHDAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA: &str = "Birthday of the Reigning Sovereign of Tonga";
+pub static _BIRTHDAY_OF_THE_REIGNING_SOVEREIGN_OF_TONGA__OBSERVED_: &str = "Birthday of the Reigning Sovereign of Tonga (observed)";
+pub static _BIRTH_ANNIVERSARY_OF_GURU_RINPOCHE: &str = "Birth Anniversary of Guru Rinpoche";
+pub static _BIRTH_ANNIVERSARY_OF_HIS_MAJESTY_THE_KING: &str = "Birth Anniversary of His Majesty the King";
+pub static _BIRTH_ANNIVERSARY_OF_HIS_MAJESTY_THE_KING__LOSAR: &str = "Birth Anniversary of His Majesty the King; Losar";
+pub static _BIRTH_ANNIVERSARY_OF_THE_3RD_DRUK_GYALPO: &str = "Birth Anniversary of the 3rd Druk Gyalpo";
+pub static _BIRTH_ANNIVERSARY_OF_THE_3RD_DRUK_GYALPO__DEATH_ANNIVERSARY_OF_ZHABDRUNG: &str = "Birth Anniversary of the 3rd Druk Gyalpo; Death Anniversary of Zhabdrung";
+pub static _BIRTH_ANNIVERSARY_OF_THE_4TH_DRUK_GYALPO___CONSTITUTION_DAY: &str = "Birth Anniversary of the 4th Druk Gyalpo - Constitution Day";
+pub static _BIRTH_ANNIVERSARY_OF_THE_4TH_DRUK_GYALPO___CONSTITUTION_DAY__DESCENDING_DAY_OF_LORD_BUDDHA: &str = "Birth Anniversary of the 4th Druk Gyalpo - Constitution Day; Descending Day of Lord Buddha";
 pub static _BLACK_SATURDAY: &str = "Black Saturday";
 pub static _BLACK_SATURDAY__DAY_OF_VALOR: &str = "Black Saturday; Day of Valor";
+pub static _BLESSED_RAINY_DAY: &str = "Blessed Rainy Day";
 pub static _BONIFACIO_DAY: &str = "Bonifacio Day";
 pub static _BOQUERON_BATTLE_DAY: &str = "Boqueron Battle Day";
 pub static _BOTSWANA_DAY: &str = "Botswana Day";
 pub static _BOTSWANA_DAY_HOLIDAY: &str = "Botswana Day Holiday";
 pub static _BOTSWANA_DAY_HOLIDAY__OBSERVED_: &str = "Botswana Day Holiday (observed)";
 pub static _BOTSWANA_DAY__OBSERVED_: &str = "Botswana Day (observed)";
+pub static _BOUNTY_DAY: &str = "Bounty Day";
+pub static _BOUNTY_DAY__OBSERVED_: &str = "Bounty Day (observed)";
 pub static _BOXING_DAY: &str = "Boxing Day";
 pub static _BOXING_DAY_HOLIDAY: &str = "Boxing Day Holiday";
+pub static _BOXING_DAY__CHRISTMAS_DAY__OBSERVED_: &str = "Boxing Day; Christmas Day (observed)";
+pub static _BOXING_DAY__CHRISTMAS_DAY__OBSERVED___EID_AL_ADHA__ESTIMATED_: &str = "Boxing Day; Christmas Day (observed); Eid al-Adha (estimated)";
 pub static _BOXING_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Boxing Day; Eid al-Adha (estimated)";
-pub static _BOXING_DAY__EID_EL_KABIR__ESTIMATED_: &str = "Boxing Day; Eid-el-Kabir (estimated)";
+pub static _BOXING_DAY__EID_AL_FITR: &str = "Boxing Day; Eid al-Fitr";
+pub static _BOXING_DAY__EID_AL_FITR__OBSERVED__ESTIMATED_: &str = "Boxing Day; Eid al-Fitr (observed, estimated)";
 pub static _BOXING_DAY__EID_UL_ADHA__ESTIMATED_: &str = "Boxing Day; Eid ul-Adha (estimated)";
 pub static _BOXING_DAY__OBSERVED_: &str = "Boxing Day (observed)";
+pub static _BOXING_DAY__OBSERVED___CHRISTMAS_DAY__OBSERVED_: &str = "Boxing Day (observed); Christmas Day (observed)";
 pub static _BOXING_DAY__SUBSTITUTE_DAY_: &str = "Boxing Day (substitute day)";
 pub static _BRIDGE_PUBLIC_HOLIDAY: &str = "Bridge Public Holiday";
+pub static _BUDDHA_JAYANTI: &str = "Buddha Jayanti";
+pub static _BUDDHA_JAYANTI__INTERNATIONAL_LABOUR_DAY: &str = "Buddha Jayanti; International Labour Day";
+pub static _BUDDHA_PURNIMA: &str = "Buddha Purnima";
 pub static _BUDDHA_S_BIRTHDAY: &str = "Buddha's Birthday";
 pub static _BUDDHA_S_BIRTHDAY__CHILDREN_S_DAY: &str = "Buddha's Birthday; Children's Day";
 pub static _BUDDHIST_LENT_DAY: &str = "Buddhist Lent Day";
-pub static _BUDDHIST_LENT_DAY__HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY: &str =
-    "Buddhist Lent Day; HM King Maha Vajiralongkorn's Birthday";
+pub static _BUDDHIST_LENT_DAY__HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY: &str = "Buddhist Lent Day; HM King Maha Vajiralongkorn's Birthday";
 pub static _BUDDHIST_LENT_DAY__IN_LIEU_: &str = "Buddhist Lent Day (in lieu)";
-pub static _BUDDHIST_LENT_DAY__IN_LIEU___HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY__IN_LIEU_: &str =
-    "Buddhist Lent Day (in lieu); HM King Maha Vajiralongkorn's Birthday (in lieu)";
+pub static _BUDDHIST_LENT_DAY__IN_LIEU___HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY__IN_LIEU_: &str = "Buddhist Lent Day (in lieu); HM King Maha Vajiralongkorn's Birthday (in lieu)";
+pub static _BURIAL_CEREMONY_OF_DR__HAGE_GOTTFRIED_GEINGOB: &str = "Burial ceremony of Dr. Hage Gottfried Geingob";
+pub static _BURIAL_CEREMONY_OF_DR__SAM_SHAFIISHUNA_NUJOMA: &str = "Burial ceremony of Dr. Sam Shafiishuna Nujoma";
 pub static _CAACUPE_VIRGIN_DAY: &str = "Caacupe Virgin Day";
 pub static _CANADA_DAY: &str = "Canada Day";
 pub static _CANDLEMAS: &str = "Candlemas";
 pub static _CAPITAL_DAY: &str = "Capital Day";
 pub static _CAPITAL_DAY__OBSERVED_: &str = "Capital Day (observed)";
 pub static _CAPODANNO: &str = "Capodanno";
+pub static _CARIBBEAN_COMMUNITY__CARICOM__DAY: &str = "Caribbean Community (Caricom) Day";
+pub static _CARICOM_DAY: &str = "CARICOM Day";
+pub static _CARICOM_S_50TH_ANNIVERSARY: &str = "CARICOM's 50th Anniversary";
 pub static _CARNIVAL: &str = "Carnival";
 pub static _CARNIVAL_DAY: &str = "Carnival Day";
-pub static _CARNIVAL_DAY__INTERNATIONAL_WOMEN_S_DAY: &str =
-    "Carnival Day; International Women's Day";
+pub static _CARNIVAL_DAY__INTERNATIONAL_WOMEN_S_DAY: &str = "Carnival Day; International Women's Day";
 pub static _CARNIVAL_DAY__OBSERVED_: &str = "Carnival Day (observed)";
 pub static _CARNIVAL_DAY___LAST_LAP: &str = "Carnival Day - Last Lap";
 pub static _CARNIVAL_DAY___LAST_LAP__OBSERVED_: &str = "Carnival Day - Last Lap (observed)";
@@ -256,143 +332,154 @@ pub static _CARNIVAL_TUESDAY: &str = "Carnival Tuesday";
 pub static _CASSINGA_DAY: &str = "Cassinga Day";
 pub static _CASSINGA_DAY__OBSERVED_: &str = "Cassinga Day (observed)";
 pub static _CATHOLIC_CHRISTMAS_DAY: &str = "Catholic Christmas Day";
+pub static _CATHOLIC_CHRISTMAS_DAY__EID_AL_FITR: &str = "Catholic Christmas Day; Eid al-Fitr";
+pub static _CATHOLIC_CHRISTMAS_DAY__ISRA__AND_MI_RAJ: &str = "Catholic Christmas Day; Isra' and Mi'raj";
 pub static _CATHOLIC_EASTER: &str = "Catholic Easter";
 pub static _CATHOLIC_EASTER_MONDAY: &str = "Catholic Easter Monday";
 pub static _CATHOLIC_EASTER_SUNDAY: &str = "Catholic Easter Sunday";
 pub static _CATHOLIC_EASTER_SUNDAY__OBSERVED_: &str = "Catholic Easter Sunday (observed)";
-pub static _CATHOLIC_EASTER_SUNDAY__OBSERVED___ORTHODOX_EASTER_SUNDAY__OBSERVED_: &str =
-    "Catholic Easter Sunday (observed); Orthodox Easter Sunday (observed)";
-pub static _CATHOLIC_EASTER_SUNDAY__ORTHODOX_EASTER_SUNDAY: &str =
-    "Catholic Easter Sunday; Orthodox Easter Sunday";
+pub static _CATHOLIC_EASTER_SUNDAY__OBSERVED___ORTHODOX_EASTER_SUNDAY__OBSERVED_: &str = "Catholic Easter Sunday (observed); Orthodox Easter Sunday (observed)";
+pub static _CATHOLIC_EASTER_SUNDAY__ORTHODOX_EASTER_SUNDAY: &str = "Catholic Easter Sunday; Orthodox Easter Sunday";
 pub static _CATHOLIC_EASTER__ORTHODOX_EASTER: &str = "Catholic Easter; Orthodox Easter";
+pub static _CATHOLIC_GOOD_FRIDAY: &str = "Catholic Good Friday";
+pub static _CATHOLIC_GOOD_FRIDAY__FEAST_OF_THE_ANNUNCIATION: &str = "Catholic Good Friday; Feast of the Annunciation";
+pub static _CATHOLIC_GOOD_FRIDAY__ORTHODOX_GOOD_FRIDAY: &str = "Catholic Good Friday; Orthodox Good Friday";
 pub static _CELEBRATIONS_OF_SAN_SALVADOR: &str = "Celebrations of San Salvador";
 pub static _CHACO_ARMISTICE_DAY: &str = "Chaco Armistice Day";
 pub static _CHAKRI_MEMORIAL_DAY: &str = "Chakri Memorial Day";
 pub static _CHAKRI_MEMORIAL_DAY__IN_LIEU_: &str = "Chakri Memorial Day (in lieu)";
 pub static _CHANGE_OF_FEDERAL_GOVERNMENT: &str = "Change of Federal Government";
+pub static _CHEIKH_AL_MAAROUF_DAY: &str = "Cheikh al Maarouf Day";
+pub static _CHHATH_PARVA: &str = "Chhath Parva";
 pub static _CHILDREN_S_DAY: &str = "Children's Day";
 pub static _CHILDREN_S_DAY__OBSERVED_: &str = "Children's Day (observed)";
 pub static _CHILDREN_S_DAY__PENTECOST: &str = "Children's Day; Pentecost";
-pub static _CHILDREN_S_DAY__TOMB_SWEEPING_DAY: &str = "Children's Day; Tomb Sweeping Day";
-pub static _CHINESE_MID_AUTUMN_FESTIVAL: &str = "Chinese Mid-Autumn Festival";
+pub static _CHILDREN_S_DAY__TOMB_SWEEPING_DAY: &str = "Children's Day; Tomb-Sweeping Day";
 pub static _CHINESE_NEW_YEAR: &str = "Chinese New Year";
 pub static _CHINESE_NEW_YEAR_EXTENDED_HOLIDAY: &str = "Chinese New Year Extended Holiday";
+pub static _CHINESE_NEW_YEAR_S_DAY: &str = "Chinese New Year's Day";
 pub static _CHINESE_NEW_YEAR_S_EVE: &str = "Chinese New Year's Eve";
 pub static _CHINESE_NEW_YEAR_S_EVE__OBSERVED_: &str = "Chinese New Year's Eve (observed)";
+pub static _CHINESE_NEW_YEAR__EID_AL_FITR__ESTIMATED_: &str = "Chinese New Year; Eid al-Fitr (estimated)";
 pub static _CHINESE_NEW_YEAR__ESTIMATED_: &str = "Chinese New Year (estimated)";
-pub static _CHINESE_NEW_YEAR__ESTIMATED___EID_AL_FITR__ESTIMATED_: &str =
-    "Chinese New Year (estimated); Eid al-Fitr (estimated)";
-pub static _CHINESE_NEW_YEAR__ESTIMATED___OBSERVED_: &str =
-    "Chinese New Year (estimated) (observed)";
+pub static _CHINESE_NEW_YEAR__ESTIMATED___EID_AL_FITR__ESTIMATED_: &str = "Chinese New Year (estimated); Eid al-Fitr (estimated)";
 pub static _CHINESE_NEW_YEAR__OBSERVED_: &str = "Chinese New Year (observed)";
 pub static _CHINESE_NEW_YEAR__OBSERVED__ESTIMATED_: &str = "Chinese New Year (observed, estimated)";
 pub static _CHINESE_NEW_YEAR__SECOND_DAY_: &str = "Chinese New Year (Second Day)";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED_: &str =
-    "Chinese New Year (Second Day) (estimated)";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED___EID_AL_FITR__ESTIMATED_: &str =
-    "Chinese New Year (Second Day) (estimated); Eid al-Fitr (estimated)";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED___ISLAMIC_NEW_YEAR__ESTIMATED_: &str =
-    "Chinese New Year (Second Day) (estimated); Islamic New Year (estimated)";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___ISLAMIC_NEW_YEAR: &str =
-    "Chinese New Year (Second Day); Islamic New Year";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___OBSERVED_: &str =
-    "Chinese New Year (Second Day) (observed)";
-pub static _CHINESE_NEW_YEAR__SECOND_DAY___OBSERVED__ESTIMATED_: &str =
-    "Chinese New Year (Second Day) (observed, estimated)";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED_: &str = "Chinese New Year (Second Day) (estimated)";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED___EID_AL_FITR__ESTIMATED_: &str = "Chinese New Year (Second Day) (estimated); Eid al-Fitr (estimated)";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___ESTIMATED___ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Chinese New Year (Second Day) (estimated); Islamic New Year (estimated)";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___ISLAMIC_NEW_YEAR: &str = "Chinese New Year (Second Day); Islamic New Year";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___OBSERVED_: &str = "Chinese New Year (Second Day) (observed)";
+pub static _CHINESE_NEW_YEAR__SECOND_DAY___OBSERVED__ESTIMATED_: &str = "Chinese New Year (Second Day) (observed, estimated)";
 pub static _CHINESE_NEW_YEAR__SPRING_FESTIVAL_: &str = "Chinese New Year (Spring Festival)";
-pub static _CHINESE_NEW_YEAR__SPRING_FESTIVAL___OBSERVED_: &str =
-    "Chinese New Year (Spring Festival) (observed)";
-pub static _CHING_MING_FESTIVAL: &str = "Ching Ming Festival";
-pub static _CHING_MING_FESTIVAL__OBSERVED_: &str = "Ching Ming Festival (observed)";
-pub static _CHING_MING_FESTIVAL__THE_DAY_FOLLOWING_GOOD_FRIDAY: &str =
-    "Ching Ming Festival; The day following Good Friday";
+pub static _CHINESE_NEW_YEAR__SPRING_FESTIVAL___OBSERVED_: &str = "Chinese New Year (Spring Festival) (observed)";
+pub static _CHINESE_SPRING_FESTIVAL: &str = "Chinese Spring Festival";
+pub static _CHRISTMAS: &str = "Christmas";
 pub static _CHRISTMAS_AND_EPIPHANY_DAY: &str = "Christmas and Epiphany Day";
 pub static _CHRISTMAS_AND_FAMILY_DAY: &str = "Christmas and Family Day";
 pub static _CHRISTMAS_DAY: &str = "Christmas Day";
 pub static _CHRISTMAS_DAY_HOLIDAY: &str = "Christmas Day Holiday";
 pub static _CHRISTMAS_DAY__BY_NEW_STYLE_: &str = "Christmas Day (by new style)";
 pub static _CHRISTMAS_DAY__BY_OLD_STYLE_: &str = "Christmas Day (by old style)";
-pub static _CHRISTMAS_DAY__EID_AL_FITR_HOLIDAY__ESTIMATED_: &str =
-    "Christmas Day; Eid al-Fitr Holiday (estimated)";
+pub static _CHRISTMAS_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Christmas Day; Eid al-Adha (estimated)";
+pub static _CHRISTMAS_DAY__EID_AL_FITR_HOLIDAY__ESTIMATED_: &str = "Christmas Day; Eid al-Fitr Holiday (estimated)";
 pub static _CHRISTMAS_DAY__EID_AL_FITR__ESTIMATED_: &str = "Christmas Day; Eid al-Fitr (estimated)";
-pub static _CHRISTMAS_DAY__ISRA__AND_MI_RAJ__ESTIMATED_: &str =
-    "Christmas Day; Isra' and Mi'raj (estimated)";
+pub static _CHRISTMAS_DAY__ISRA__AND_MI_RAJ__ESTIMATED_: &str = "Christmas Day; Isra' and Mi'raj (estimated)";
+pub static _CHRISTMAS_DAY__LAYLAT_AL_QADR__OBSERVED_: &str = "Christmas Day; Laylat al-Qadr (observed)";
 pub static _CHRISTMAS_DAY__OBSERVED_: &str = "Christmas Day (observed)";
-pub static _CHRISTMAS_DAY__OBSERVED___CHRISTMAS_SECOND_DAY: &str =
-    "Christmas Day (observed); Christmas Second Day";
-pub static _CHRISTMAS_DAY__OBSERVED___EID_AL_ADHA__ESTIMATED_: &str =
-    "Christmas Day (observed); Eid al-Adha (estimated)";
-pub static _CHRISTMAS_DAY__OBSERVED___EID_AL_FITR__OBSERVED__ESTIMATED_: &str =
-    "Christmas Day (observed); Eid al-Fitr (observed, estimated)";
-pub static _CHRISTMAS_DAY__ORTHODOX_: &str = "Christmas Day (Orthodox)";
+pub static _CHRISTMAS_DAY__OBSERVED___CHRISTMAS_SECOND_DAY: &str = "Christmas Day (observed); Christmas Second Day";
+pub static _CHRISTMAS_DAY__OBSERVED___EID_AL_ADHA__ESTIMATED_: &str = "Christmas Day (observed); Eid al-Adha (estimated)";
+pub static _CHRISTMAS_DAY__OBSERVED___EID_AL_FITR__OBSERVED__ESTIMATED_: &str = "Christmas Day (observed); Eid al-Fitr (observed, estimated)";
+pub static _CHRISTMAS_DAY__PROPHET_S_BAPTISM__ESTIMATED_: &str = "Christmas Day; Prophet's Baptism (estimated)";
 pub static _CHRISTMAS_DAY__SUBSTITUTE_DAY_: &str = "Christmas Day (substitute day)";
 pub static _CHRISTMAS_DAY__SUNDAY: &str = "Christmas Day; Sunday";
 pub static _CHRISTMAS_EVE: &str = "Christmas Eve";
 pub static _CHRISTMAS_EVE__OBSERVED_: &str = "Christmas Eve (observed)";
 pub static _CHRISTMAS_EVE__SUNDAY: &str = "Christmas Eve; Sunday";
+pub static _CHRISTMAS_HOLIDAY: &str = "Christmas Holiday";
 pub static _CHRISTMAS_HOLIDAYS: &str = "Christmas Holidays";
+pub static _CHRISTMAS_HOLIDAY__OBSERVED_: &str = "Christmas Holiday (observed)";
 pub static _CHRISTMAS_SECOND_DAY: &str = "Christmas Second Day";
-pub static _CHUNG_YEUNG_FESTIVAL: &str = "Chung Yeung Festival";
-pub static _CHUNG_YEUNG_FESTIVAL__NATIONAL_DAY: &str = "Chung Yeung Festival; National Day";
-pub static _CHUNG_YEUNG_FESTIVAL__OBSERVED_: &str = "Chung Yeung Festival (observed)";
+pub static _CHRISTMAS__PROPHET_S_BIRTHDAY: &str = "Christmas; Prophet's Birthday";
 pub static _CHUSEOK: &str = "Chuseok";
 pub static _CHUSEOK__NATIONAL_FOUNDATION_DAY: &str = "Chuseok; National Foundation Day";
 pub static _CITIZENSHIP_DAY: &str = "Citizenship Day";
 pub static _CITIZENSHIP_DAY__ELECTION_DAY: &str = "Citizenship Day; Election Day";
 pub static _CITIZENSHIP_DAY__OBSERVED_: &str = "Citizenship Day (observed)";
 pub static _COLON_DAY: &str = "Colon Day";
+pub static _COLON_DAY__OBSERVED_: &str = "Colon Day (observed)";
 pub static _COLUMBUS_DAY: &str = "Columbus Day";
-pub static _COLUMBUS_DAY_AND_PUERTO_RICO_FRIENDSHIP_DAY: &str =
-    "Columbus Day and Puerto Rico Friendship Day";
+pub static _COLUMBUS_DAY_AND_PUERTO_RICO_FRIENDSHIP_DAY: &str = "Columbus Day and Puerto Rico Friendship Day";
 pub static _COLUMBUS_DAY__OBSERVED_: &str = "Columbus Day (observed)";
 pub static _COMING_OF_AGE_DAY: &str = "Coming of Age Day";
 pub static _COMMEMORATION_DAY: &str = "Commemoration Day";
 pub static _COMMEMORATION_DAY__PROPHET_S_BIRTHDAY: &str = "Commemoration Day; Prophet's Birthday";
-pub static _COMMEMORATION_OF_ATAT_RK__YOUTH_AND_SPORTS_DAY: &str =
-    "Commemoration of Atatürk, Youth and Sports Day";
-pub static _COMMEMORATION_OF_ATAT_RK__YOUTH_AND_SPORTS_DAY__EID_AL_ADHA: &str =
-    "Commemoration of Atatürk, Youth and Sports Day; Eid al-Adha";
-pub static _COMMEMORATION_OF_THE_ASSAULT_OF_THE_MONCADA_GARRISON: &str =
-    "Commemoration of the Assault of the Moncada garrison";
+pub static _COMMEMORATION_OF_ATAT_RK__YOUTH_AND_SPORTS_DAY: &str = "Commemoration of Atatürk, Youth and Sports Day";
+pub static _COMMEMORATION_OF_ATAT_RK__YOUTH_AND_SPORTS_DAY__EID_AL_ADHA: &str = "Commemoration of Atatürk, Youth and Sports Day; Eid al-Adha";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_NATIONAL_HERO__PRINCE_LOUIS_RWAGASORE: &str = "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_NATIONAL_HERO__PRINCE_LOUIS_RWAGASORE__EID_AL_FITR__ESTIMATED_: &str = "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore; Eid al-Fitr (estimated)";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_NATIONAL_HERO__PRINCE_LOUIS_RWAGASORE__OBSERVED_: &str = "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore (observed)";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_PRESIDENT_CYPRIEN_NTARYAMIRA: &str = "Commemoration of the Assassination of President Cyprien Ntaryamira";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_PRESIDENT_CYPRIEN_NTARYAMIRA__OBSERVED_: &str = "Commemoration of the Assassination of President Cyprien Ntaryamira (observed)";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_PRESIDENT_MELCHIOR_NDADAYE: &str = "Commemoration of the Assassination of President Melchior Ndadaye";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_PRESIDENT_MELCHIOR_NDADAYE__EID_AL_ADHA__ESTIMATED_: &str = "Commemoration of the Assassination of President Melchior Ndadaye; Eid al-Adha (estimated)";
+pub static _COMMEMORATION_OF_THE_ASSASSINATION_OF_PRESIDENT_MELCHIOR_NDADAYE__OBSERVED_: &str = "Commemoration of the Assassination of President Melchior Ndadaye (observed)";
+pub static _COMMEMORATION_OF_THE_ASSAULT_OF_THE_MONCADA_GARRISON: &str = "Commemoration of the Assault of the Moncada garrison";
 pub static _COMMEMORATION_OF_THE_DEAD: &str = "Commemoration of the Dead";
+pub static _COMMEMORATION_OF_THE_SADDAM_BAATH_CRIMES_AGAINST_THE_IRAQI_PEOPLE: &str = "Commemoration of the Saddam Baath crimes against the Iraqi people";
 pub static _COMMERCE_DAY: &str = "Commerce Day";
 pub static _COMMONWEALTH_COVENANT_DAY: &str = "Commonwealth Covenant Day";
 pub static _COMMONWEALTH_COVENANT_DAY__OBSERVED_: &str = "Commonwealth Covenant Day (observed)";
-pub static _COMMONWEALTH_COVENANT_DAY__OBSERVED___GOOD_FRIDAY: &str =
-    "Commonwealth Covenant Day (observed); Good Friday";
+pub static _COMMONWEALTH_COVENANT_DAY__OBSERVED___GOOD_FRIDAY: &str = "Commonwealth Covenant Day (observed); Good Friday";
 pub static _COMMONWEALTH_CULTURAL_DAY: &str = "Commonwealth Cultural Day";
 pub static _COMMONWEALTH_DAY: &str = "Commonwealth Day";
 pub static _COMMONWEALTH_DAY__OBSERVED_: &str = "Commonwealth Day (observed)";
+pub static _CONFUCIUS__BIRTHDAY: &str = "Confucius' Birthday";
+pub static _CONFUCIUS__BIRTHDAY__MID_AUTUMN_FESTIVAL: &str = "Confucius' Birthday; Mid-Autumn Festival";
+pub static _CONFUCIUS__BIRTHDAY__OBSERVED_: &str = "Confucius' Birthday (observed)";
+pub static _CONGOLESE_GENOCIDE_MEMORIAL_DAY: &str = "Congolese Genocide Memorial Day";
+pub static _CONGOLESE_GENOCIDE_MEMORIAL_DAY__OBSERVED___PARENTS__DAY: &str = "Congolese Genocide Memorial Day (observed); Parents' Day";
+pub static _CONSTITUTION_AND_STATE_FLAG_DAY: &str = "Constitution and State Flag Day";
+pub static _CONSTITUTION_AND_STATE_FLAG_DAY__OBSERVED_: &str = "Constitution and State Flag Day (observed)";
 pub static _CONSTITUTION_DAY: &str = "Constitution Day";
 pub static _CONSTITUTION_DAY_HOLIDAY: &str = "Constitution Day Holiday";
+pub static _CONSTITUTION_DAY_HOLIDAY__OBSERVED_: &str = "Constitution Day Holiday (observed)";
+pub static _CONSTITUTION_DAY_HOLIDAY__OBSERVED___PENIAMINA_GOSPEL_DAY: &str = "Constitution Day Holiday (observed); Peniamina Gospel Day";
 pub static _CONSTITUTION_DAY__EID_AL_ADHA: &str = "Constitution Day; Eid al-Adha";
 pub static _CONSTITUTION_DAY__IN_LIEU_: &str = "Constitution Day (in lieu)";
-pub static _CONSTITUTION_DAY__KURMAN_AIT__ESTIMATED_: &str =
-    "Constitution Day; Kurman Ait (estimated)";
+pub static _CONSTITUTION_DAY__KURMAN_AIT__ESTIMATED_: &str = "Constitution Day; Kurman Ait (estimated)";
 pub static _CONSTITUTION_DAY__OBSERVED_: &str = "Constitution Day (observed)";
 pub static _CONSTITUTION_DAY__PCHUM_BEN_DAY: &str = "Constitution Day; Pchum Ben Day";
 pub static _CONSTITUTION_DAY__WHIT_MONDAY: &str = "Constitution Day; Whit Monday";
 pub static _CONSTITUTION_DAY__WHIT_SUNDAY: &str = "Constitution Day; Whit Sunday";
+pub static _COOK_ISLANDS_GOSPEL_DAY: &str = "Cook Islands Gospel Day";
+pub static _COOK_ISLANDS_GOSPEL_DAY__OBSERVED_: &str = "Cook Islands Gospel Day (observed)";
+pub static _COPTIC_CHRISTMAS: &str = "Coptic Christmas";
 pub static _COPTIC_CHRISTMAS_DAY: &str = "Coptic Christmas Day";
-pub static _COPTIC_CHRISTMAS_DAY__EID_AL_ADHA_HOLIDAY__ESTIMATED_: &str =
-    "Coptic Christmas Day; Eid al-Adha Holiday (estimated)";
+pub static _COPTIC_CHRISTMAS_DAY__EID_AL_ADHA__ESTIMATED_: &str = "Coptic Christmas Day; Eid al-Adha (estimated)";
+pub static _COPTIC_CHRISTMAS_DAY__OBSERVED_: &str = "Coptic Christmas Day (observed)";
+pub static _COPTIC_CHRISTMAS__EID_AL_ADHA__ESTIMATED_: &str = "Coptic Christmas; Eid al-Adha (estimated)";
 pub static _COPTIC_EASTER: &str = "Coptic Easter";
-pub static _COPTIC_EASTER__LABOR_DAY: &str = "Coptic Easter; Labor Day";
-pub static _COPTIC_EASTER__SINAI_LIBERATION_DAY: &str = "Coptic Easter; Sinai Liberation Day";
 pub static _CORN_RIOTS_ANNIVERSARY: &str = "Corn Riots Anniversary";
 pub static _CORONATION_DAY: &str = "Coronation Day";
 pub static _CORONATION_DAY__IN_LIEU_: &str = "Coronation Day (in lieu)";
-pub static _CORONATION_DAY__IN_LIEU___VISAKHA_BUCHA: &str =
-    "Coronation Day (in lieu); Visakha Bucha";
+pub static _CORONATION_DAY__IN_LIEU___VISAKHA_BUCHA: &str = "Coronation Day (in lieu); Visakha Bucha";
 pub static _CORONATION_OF_CHARLES_III: &str = "Coronation of Charles III";
-pub static _CORONATION_OF_HIS_MAJESTY_KING_CHARLES_III: &str =
-    "Coronation of His Majesty King Charles III";
+pub static _CORONATION_OF_HIS_MAJESTY_KING_CHARLES_III: &str = "Coronation of His Majesty King Charles III";
+pub static _CORONATION_OF_HIS_MAJESTY_THE_KING: &str = "Coronation of His Majesty the King";
+pub static _CORONATION_OF_HIS_MAJESTY_THE_KING__DESCENDING_DAY_OF_LORD_BUDDHA: &str = "Coronation of His Majesty the King; Descending Day of Lord Buddha";
+pub static _CORONATION_OF_KING_CHARLES_III: &str = "Coronation of King Charles III";
 pub static _CORPUS_CHRISTI: &str = "Corpus Christi";
-pub static _CORPUS_CHRISTI__DAY_OF_PORTUGAL__CAM_ES__AND_THE_PORTUGUESE_COMMUNITIES: &str =
-    "Corpus Christi; Day of Portugal, Camões, and the Portuguese Communities";
+pub static _CORPUS_CHRISTI__DAY_OF_PORTUGAL__CAM_ES__AND_THE_PORTUGUESE_COMMUNITIES: &str = "Corpus Christi; Day of Portugal, Camões, and the Portuguese Communities";
+pub static _CORPUS_CHRISTI__INDIAN_ARRIVAL_DAY: &str = "Corpus Christi; Indian Arrival Day";
+pub static _CORPUS_CHRISTI__LABOR_DAY: &str = "Corpus Christi; Labor Day";
 pub static _CORPUS_CHRISTI__OBSERVED_: &str = "Corpus Christi (observed)";
+pub static _CORPUS_CHRISTI__OBSERVED___INDIAN_ARRIVAL_DAY__OBSERVED_: &str = "Corpus Christi (observed); Indian Arrival Day (observed)";
+pub static _CORPUS_CHRISTI__OBSERVED___LABOR_DAY__OBSERVED_: &str = "Corpus Christi (observed); Labor Day (observed)";
+pub static _CORPUS_CHRISTI__PRESIDENT_S_DAY: &str = "Corpus Christi; President's Day";
 pub static _CORPUS_CHRISTI__STATEHOOD_DAY: &str = "Corpus Christi; Statehood Day";
-pub static _CORPUS_CRISTI: &str = "Corpus Cristi";
+pub static _CORPUS_DOMINI: &str = "Corpus Domini";
 pub static _COUNTING_IN_GENERAL_ELECTIONS: &str = "Counting in general elections";
 pub static _CULTURAMA_DAY___LAST_LAP: &str = "Culturama Day - Last Lap";
 pub static _CULTURES_DAY: &str = "Cultures Day";
@@ -404,35 +491,66 @@ pub static _CUSTOM_CHIEF_S_DAY__OBSERVED_: &str = "Custom Chief's Day (observed)
 pub static _CUTI_PERISTIWA: &str = "Cuti Peristiwa";
 pub static _CYPRUS_INDEPENDENCE_DAY: &str = "Cyprus Independence Day";
 pub static _CYPRUS_NATIONAL_DAY: &str = "Cyprus National Day";
-pub static _DAYS_OF_HISTORY_AND_COMMEMORATION_OF_ANCESTORS: &str =
-    "Days of History and Commemoration of Ancestors";
-pub static _DAYS_OF_HISTORY_AND_COMMEMORATION_OF_ANCESTORS__OROZO_AIT__ESTIMATED_: &str =
-    "Days of History and Commemoration of Ancestors; Orozo Ait (estimated)";
+pub static _DASSAIN: &str = "Dassain";
+pub static _DASSAIN__ESTIMATED_: &str = "Dassain (estimated)";
+pub static _DAYS_OF_HISTORY_AND_COMMEMORATION_OF_ANCESTORS: &str = "Days of History and Commemoration of Ancestors";
+pub static _DAYS_OF_HISTORY_AND_COMMEMORATION_OF_ANCESTORS__OROZO_AIT__ESTIMATED_: &str = "Days of History and Commemoration of Ancestors; Orozo Ait (estimated)";
+pub static _DAY_AFTER_ASSUMPTION_OF_MARY: &str = "Day After Assumption of Mary";
 pub static _DAY_AFTER_CHRISTMAS: &str = "Day After Christmas";
+pub static _DAY_AFTER_CHRISTMAS__EID_AL_ADHA__ESTIMATED_: &str = "Day after Christmas; Eid al-Adha (estimated)";
+pub static _DAY_AFTER_CHRISTMAS__OBSERVED_: &str = "Day after Christmas (observed)";
+pub static _DAY_AFTER_EID_AL_ADHA: &str = "Day after Eid al-Adha";
+pub static _DAY_AFTER_EID_AL_ADHA__ESTIMATED_: &str = "Day after Eid al-Adha (estimated)";
+pub static _DAY_AFTER_EID_AL_ADHA__NEW_YEAR_S_DAY: &str = "Day after Eid al-Adha; New Year's Day";
+pub static _DAY_AFTER_EID_AL_ADHA__OBSERVED_: &str = "Day after Eid al-Adha (observed)";
+pub static _DAY_AFTER_EID_AL_ADHA__OBSERVED__ESTIMATED_: &str = "Day after Eid al-Adha (observed, estimated)";
 pub static _DAY_AFTER_GOOD_FRIDAY: &str = "Day After Good Friday";
 pub static _DAY_AFTER_NEW_YEAR_S_DAY: &str = "Day after New Year's Day";
+pub static _DAY_AFTER_NEW_YEAR_S_DAY__EID_AL_FITR__ESTIMATED_: &str = "Day after New Year's Day; Eid al-Fitr (estimated)";
 pub static _DAY_AFTER_NEW_YEAR_S_DAY__OBSERVED_: &str = "Day after New Year's Day (observed)";
+pub static _DAY_AFTER_NIGHT_OF_POWER: &str = "Day after Night of Power";
+pub static _DAY_AFTER_NIGHT_OF_POWER__ESTIMATED_: &str = "Day after Night of Power (estimated)";
+pub static _DAY_AFTER_NIGHT_OF_POWER__NATIONAL_PEACE_DAY: &str = "Day after Night of Power; National Peace Day";
+pub static _DAY_AFTER_PROPHET_S_BIRTHDAY: &str = "Day after Prophet's Birthday";
+pub static _DAY_AFTER_PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Day after Prophet's Birthday (estimated)";
+pub static _DAY_AFTER_PROPHET_S_BIRTHDAY__ESTIMATED___LABOR_DAY: &str = "Day after Prophet's Birthday (estimated); Labor Day";
+pub static _DAY_AFTER_PROPHET_S_BIRTHDAY__LABOR_DAY: &str = "Day after Prophet's Birthday; Labor Day";
+pub static _DAY_AFTER_PROPHET_S_BIRTHDAY__WHIT_MONDAY: &str = "Day after Prophet's Birthday; Whit Monday";
+pub static _DAY_AFTER_THE_CHRISTMAS_DAY: &str = "Day after the Christmas Day";
+pub static _DAY_AFTER_THE_CHRISTMAS_DAY__EID_AL_ADHA: &str = "Day after the Christmas Day; Eid al-Adha";
+pub static _DAY_AFTER_THE_EID_AL_ADHA: &str = "Day after the Eid al-Adha";
+pub static _DAY_AFTER_THE_EID_AL_ADHA__WHIT_MONDAY: &str = "Day after the Eid al-Adha; Whit Monday";
+pub static _DAY_AFTER_THE_EID_AL_FITR: &str = "Day after the Eid al-Fitr";
+pub static _DAY_AFTER_THE_EID_AL_FITR__ESTIMATED_: &str = "Day after the Eid al-Fitr (estimated)";
+pub static _DAY_AFTER_THE_GENERAL_ELECTION: &str = "Day after the General Election";
+pub static _DAY_AFTER_THE_INDEPENDENCE_DAY: &str = "Day after the Independence Day";
+pub static _DAY_AFTER_THE_LABOR_DAY: &str = "Day after the Labor Day";
+pub static _DAY_AFTER_THE_LABOR_DAY__EID_AL_FITR: &str = "Day after the Labor Day; Eid al-Fitr";
+pub static _DAY_AFTER_THE_NEW_YEAR_S_DAY: &str = "Day after the New Year's Day";
+pub static _DAY_BEFORE_ASSUMPTION_OF_MARY: &str = "Day Before Assumption of Mary";
+pub static _DAY_BEFORE_SINHALA_AND_TAMIL_NEW_YEAR: &str = "Day Before Sinhala and Tamil New Year";
+pub static _DAY_BEFORE_SINHALA_AND_TAMIL_NEW_YEAR__GOOD_FRIDAY: &str = "Day Before Sinhala and Tamil New Year; Good Friday";
+pub static _DAY_FOLLOWING_CHRISTMAS: &str = "Day following Christmas";
+pub static _DAY_FOLLOWING_CHRISTMAS__OBSERVED_: &str = "Day following Christmas (observed)";
+pub static _DAY_FOLLOWING_INDEPENDENCE_DAY: &str = "Day following Independence Day";
+pub static _DAY_FOLLOWING_INDEPENDENCE_DAY__OBSERVED_: &str = "Day following Independence Day (observed)";
+pub static _DAY_FOLLOWING_VESAK_FULL_MOON_POYA_DAY: &str = "Day Following Vesak Full Moon Poya Day";
 pub static _DAY_OFF_FOR_AFRICA_DAY: &str = "Day off for Africa Day";
 pub static _DAY_OFF_FOR_ALL_SOULS__DAY: &str = "Day off for All Souls' Day";
 pub static _DAY_OFF_FOR_CARNIVAL_DAY: &str = "Day off for Carnival Day";
-pub static _DAY_OFF_FOR_CARNIVAL_DAY__INTERNATIONAL_WOMEN_S_DAY: &str =
-    "Day off for Carnival Day; International Women's Day";
+pub static _DAY_OFF_FOR_CARNIVAL_DAY__INTERNATIONAL_WOMEN_S_DAY: &str = "Day off for Carnival Day; International Women's Day";
 pub static _DAY_OFF_FOR_CHRISTMAS_AND_FAMILY_DAY: &str = "Day off for Christmas and Family Day";
 pub static _DAY_OFF_FOR_CHRISTMAS_DAY: &str = "Day off for Christmas Day";
-pub static _DAY_OFF_FOR_INTERNATIONAL_CHILDREN_S_DAY: &str =
-    "Day off for International Children's Day";
+pub static _DAY_OFF_FOR_INTERNATIONAL_CHILDREN_S_DAY: &str = "Day off for International Children's Day";
 pub static _DAY_OFF_FOR_INTERNATIONAL_WOMEN_S_DAY: &str = "Day off for International Women's Day";
 pub static _DAY_OFF_FOR_INTERNATIONAL_WORKER_S_DAY: &str = "Day off for International Worker's Day";
 pub static _DAY_OFF_FOR_LIBERATION_MOVEMENT_DAY: &str = "Day off for Liberation Movement Day";
-pub static _DAY_OFF_FOR_MARTYRS_OF_COLONIAL_REPRESSION_DAY: &str =
-    "Day off for Martyrs of Colonial Repression Day";
+pub static _DAY_OFF_FOR_MARTYRS_OF_COLONIAL_REPRESSION_DAY: &str = "Day off for Martyrs of Colonial Repression Day";
 pub static _DAY_OFF_FOR_NATIONAL_HEROES__DAY: &str = "Day off for National Heroes' Day";
 pub static _DAY_OFF_FOR_NATIONAL_INDEPENDENCE_DAY: &str = "Day off for National Independence Day";
 pub static _DAY_OFF_FOR_NEW_YEAR_S_DAY: &str = "Day off for New Year's Day";
-pub static _DAY_OFF_FOR_PEACE_AND_NATIONAL_RECONCILIATION_DAY: &str =
-    "Day off for Peace and National Reconciliation Day";
-pub static _DAY_OFF_FOR_SOUTHERN_AFRICA_LIBERATION_DAY: &str =
-    "Day off for Southern Africa Liberation Day";
+pub static _DAY_OFF_FOR_PEACE_AND_NATIONAL_RECONCILIATION_DAY: &str = "Day off for Peace and National Reconciliation Day";
+pub static _DAY_OFF_FOR_SOUTHERN_AFRICA_LIBERATION_DAY: &str = "Day off for Southern Africa Liberation Day";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_01_2000_: &str = "Day off (substituted from 01/01/2000)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_01_2005_: &str = "Day off (substituted from 01/01/2005)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_01_2006_: &str = "Day off (substituted from 01/01/2006)";
@@ -485,6 +603,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_01_10_2004_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_10_2009_: &str = "Day off (substituted from 01/10/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_10_2010_: &str = "Day off (substituted from 01/10/2010)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_10_2015_: &str = "Day off (substituted from 01/10/2015)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_01_10_2026_: &str = "Day off (substituted from 01/10/2026)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_11_2009_: &str = "Day off (substituted from 01/11/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_11_2014_: &str = "Day off (substituted from 01/11/2014)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_11_2020_: &str = "Day off (substituted from 01/11/2020)";
@@ -494,6 +613,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_01_14_2006_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_16_2016_: &str = "Day off (substituted from 01/16/2016)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_16_2021_: &str = "Day off (substituted from 01/16/2021)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_17_2004_: &str = "Day off (substituted from 01/17/2004)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_01_17_2009_: &str = "Day off (substituted from 01/17/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_17_2015_: &str = "Day off (substituted from 01/17/2015)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_18_2004_: &str = "Day off (substituted from 01/18/2004)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_01_19_2019_: &str = "Day off (substituted from 01/19/2019)";
@@ -599,6 +719,8 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_03_08_2014_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_08_2015_: &str = "Day off (substituted from 03/08/2015)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_08_2020_: &str = "Day off (substituted from 03/08/2020)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_08_2025_: &str = "Day off (substituted from 03/08/2025)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_03_10_2001_: &str = "Day off (substituted from 03/10/2001)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_03_10_2007_: &str = "Day off (substituted from 03/10/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_10_2018_: &str = "Day off (substituted from 03/10/2018)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_11_2001_: &str = "Day off (substituted from 03/11/2001)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_11_2006_: &str = "Day off (substituted from 03/11/2006)";
@@ -622,6 +744,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_03_25_2007_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_25_2023_: &str = "Day off (substituted from 03/25/2023)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_26_2022_: &str = "Day off (substituted from 03/26/2022)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_27_2021_: &str = "Day off (substituted from 03/27/2021)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_03_28_2009_: &str = "Day off (substituted from 03/28/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_29_2020_: &str = "Day off (substituted from 03/29/2020)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_31_2012_: &str = "Day off (substituted from 03/31/2012)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_03_31_2018_: &str = "Day off (substituted from 03/31/2018)";
@@ -633,6 +756,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_04_04_2020_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_06_2024_: &str = "Day off (substituted from 04/06/2024)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_07_2013_: &str = "Day off (substituted from 04/07/2013)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_07_2024_: &str = "Day off (substituted from 04/07/2024)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_04_08_2000_: &str = "Day off (substituted from 04/08/2000)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_08_2018_: &str = "Day off (substituted from 04/08/2018)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_13_2024_: &str = "Day off (substituted from 04/13/2024)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_14_2007_: &str = "Day off (substituted from 04/14/2007)";
@@ -640,6 +764,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_04_14_2018_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_17_2004_: &str = "Day off (substituted from 04/17/2004)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_17_2010_: &str = "Day off (substituted from 04/17/2010)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_21_2001_: &str = "Day off (substituted from 04/21/2001)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_04_21_2007_: &str = "Day off (substituted from 04/21/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_21_2012_: &str = "Day off (substituted from 04/21/2012)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_21_2018_: &str = "Day off (substituted from 04/21/2018)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_23_2023_: &str = "Day off (substituted from 04/23/2023)";
@@ -648,6 +773,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_04_25_2009_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_25_2015_: &str = "Day off (substituted from 04/25/2015)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_25_2021_: &str = "Day off (substituted from 04/25/2021)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_26_2003_: &str = "Day off (substituted from 04/26/2003)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_04_26_2008_: &str = "Day off (substituted from 04/26/2008)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_26_2014_: &str = "Day off (substituted from 04/26/2014)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_26_2020_: &str = "Day off (substituted from 04/26/2020)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_04_26_2025_: &str = "Day off (substituted from 04/26/2025)";
@@ -735,6 +861,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_06_01_2013_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_01_2019_: &str = "Day off (substituted from 06/01/2019)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_03_2017_: &str = "Day off (substituted from 06/03/2017)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_04_2016_: &str = "Day off (substituted from 06/04/2016)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_06_06_2009_: &str = "Day off (substituted from 06/06/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_07_2008_: &str = "Day off (substituted from 06/07/2008)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_08_2013_: &str = "Day off (substituted from 06/08/2013)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_09_2001_: &str = "Day off (substituted from 06/09/2001)";
@@ -755,6 +882,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_06_17_2023_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_20_2020_: &str = "Day off (substituted from 06/20/2020)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_21_2003_: &str = "Day off (substituted from 06/21/2003)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_23_2001_: &str = "Day off (substituted from 06/23/2001)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_06_23_2007_: &str = "Day off (substituted from 06/23/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_23_2018_: &str = "Day off (substituted from 06/23/2018)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_24_2023_: &str = "Day off (substituted from 06/24/2023)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_06_25_2005_: &str = "Day off (substituted from 06/25/2005)";
@@ -779,6 +907,8 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_07_17_2021_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_07_24_2021_: &str = "Day off (substituted from 07/24/2021)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_03_2024_: &str = "Day off (substituted from 08/03/2024)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_08_2015_: &str = "Day off (substituted from 08/08/2015)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_08_08_2026_: &str = "Day off (substituted from 08/08/2026)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_08_10_2002_: &str = "Day off (substituted from 08/10/2002)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_10_2019_: &str = "Day off (substituted from 08/10/2019)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_19_2017_: &str = "Day off (substituted from 08/19/2017)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_21_2004_: &str = "Day off (substituted from 08/21/2004)";
@@ -791,6 +921,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_08_27_2005_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_27_2011_: &str = "Day off (substituted from 08/27/2011)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_27_2022_: &str = "Day off (substituted from 08/27/2022)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_28_2021_: &str = "Day off (substituted from 08/28/2021)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_08_29_2009_: &str = "Day off (substituted from 08/29/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_08_29_2020_: &str = "Day off (substituted from 08/29/2020)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_09_02_2007_: &str = "Day off (substituted from 09/02/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_09_06_2014_: &str = "Day off (substituted from 09/06/2014)";
@@ -859,13 +990,20 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_10_12_2013_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_12_2019_: &str = "Day off (substituted from 10/12/2019)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_12_2024_: &str = "Day off (substituted from 10/12/2024)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_13_2018_: &str = "Day off (substituted from 10/13/2018)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_14_2006_: &str = "Day off (substituted from 10/14/2006)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_15_2016_: &str = "Day off (substituted from 10/15/2016)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_15_2022_: &str = "Day off (substituted from 10/15/2022)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_18_2003_: &str = "Day off (substituted from 10/18/2003)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_18_2008_: &str = "Day off (substituted from 10/18/2008)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_18_2014_: &str = "Day off (substituted from 10/18/2014)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_18_2025_: &str = "Day off (substituted from 10/18/2025)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_20_2001_: &str = "Day off (substituted from 10/20/2001)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_20_2007_: &str = "Day off (substituted from 10/20/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_22_2005_: &str = "Day off (substituted from 10/22/2005)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_22_2022_: &str = "Day off (substituted from 10/22/2022)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_23_2021_: &str = "Day off (substituted from 10/23/2021)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_27_2001_: &str = "Day off (substituted from 10/27/2001)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_10_27_2007_: &str = "Day off (substituted from 10/27/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_27_2012_: &str = "Day off (substituted from 10/27/2012)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_10_28_2007_: &str = "Day off (substituted from 10/28/2007)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_01_2008_: &str = "Day off (substituted from 11/01/2008)";
@@ -878,6 +1016,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_11_04_2012_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_04_2017_: &str = "Day off (substituted from 11/04/2017)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_04_2018_: &str = "Day off (substituted from 11/04/2018)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_04_2023_: &str = "Day off (substituted from 11/04/2023)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_11_05_2005_: &str = "Day off (substituted from 11/05/2005)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_05_2011_: &str = "Day off (substituted from 11/05/2011)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_05_2022_: &str = "Day off (substituted from 11/05/2022)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_11_07_2004_: &str = "Day off (substituted from 11/07/2004)";
@@ -902,6 +1041,7 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_12_11_2021_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_12_2004_: &str = "Day off (substituted from 12/12/2004)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_12_2015_: &str = "Day off (substituted from 12/12/2015)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_12_2020_: &str = "Day off (substituted from 12/12/2020)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_12_12_2026_: &str = "Day off (substituted from 12/12/2026)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_13_2003_: &str = "Day off (substituted from 12/13/2003)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_13_2014_: &str = "Day off (substituted from 12/13/2014)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_13_2025_: &str = "Day off (substituted from 12/13/2025)";
@@ -910,6 +1050,8 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_12_14_2024_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_15_2002_: &str = "Day off (substituted from 12/15/2002)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_15_2012_: &str = "Day off (substituted from 12/15/2012)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_15_2018_: &str = "Day off (substituted from 12/15/2018)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_12_18_2004_: &str = "Day off (substituted from 12/18/2004)";
+pub static _DAY_OFF__SUBSTITUTED_FROM_12_19_2009_: &str = "Day off (substituted from 12/19/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_20_2008_: &str = "Day off (substituted from 12/20/2008)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_20_2009_: &str = "Day off (substituted from 12/20/2009)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_20_2014_: &str = "Day off (substituted from 12/20/2014)";
@@ -941,443 +1083,419 @@ pub static _DAY_OFF__SUBSTITUTED_FROM_12_30_2023_: &str = "Day off (substituted 
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_31_2005_: &str = "Day off (substituted from 12/31/2005)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_31_2006_: &str = "Day off (substituted from 12/31/2006)";
 pub static _DAY_OFF__SUBSTITUTED_FROM_12_31_2011_: &str = "Day off (substituted from 12/31/2011)";
+pub static _DAY_OF_AFFIRMATION_OF_ARGENTINE_RIGHTS_OVER_THE_MALVINAS__ISLANDS_AND_ANTARCTIC_SECTOR: &str = "Day of Affirmation of Argentine Rights over the Malvinas, Islands and Antarctic Sector";
+pub static _DAY_OF_ARAFAH: &str = "Day of Arafah";
 pub static _DAY_OF_ARAFAH__ESTIMATED_: &str = "Day of Arafah (estimated)";
-pub static _DAY_OF_ARGENTINE_SOVEREIGNTY_OVER_THE_MALVINAS__SANDWICH_AND_SOUTH_ATLANTIC_ISLANDS:
-    &str = "Day of Argentine Sovereignty over the Malvinas, Sandwich and South Atlantic Islands";
-pub static _DAY_OF_ASHURA__ESTIMATED_: &str = "Day of Ashura (estimated)";
-pub static _DAY_OF_ASHURA__ESTIMATED___PALM_SUNDAY: &str = "Day of Ashura (estimated); Palm Sunday";
+pub static _DAY_OF_ARAFAH__ESTIMATED___NOWRUZ: &str = "Day of Arafah (estimated); Nowruz";
 pub static _DAY_OF_CONSENT_AND_RECONCILIATION: &str = "Day of consent and reconciliation";
 pub static _DAY_OF_DEFENDERS_OF_UKRAINE: &str = "Day of defenders of Ukraine";
 pub static _DAY_OF_DEW_AND_SAINT_JOHN: &str = "Day of Dew and Saint John";
+pub static _DAY_OF_FAMILY_SANCTITY_AND_RESPECT_FOR_PARENTS: &str = "Day of Family Sanctity and Respect for Parents";
+pub static _DAY_OF_FREEDOMS: &str = "Day of Freedoms";
+pub static _DAY_OF_FREEDOMS__EID_AL_FITR__ESTIMATED_: &str = "Day of Freedoms; Eid al-Fitr (estimated)";
 pub static _DAY_OF_GOODWILL: &str = "Day of Goodwill";
 pub static _DAY_OF_GOODWILL__OBSERVED_: &str = "Day of Goodwill (observed)";
-pub static _DAY_OF_HIS_HOLINESS_POPE_FRANCIS__PASTORAL_VISIT_TO_LATVIA: &str =
-    "Day of His Holiness Pope Francis' pastoral visit to Latvia";
+pub static _DAY_OF_HIS_HOLINESS_POPE_FRANCIS__PASTORAL_VISIT_TO_LATVIA: &str = "Day of His Holiness Pope Francis' pastoral visit to Latvia";
 pub static _DAY_OF_INDIGENOUS_RESISTANCE: &str = "Day of Indigenous Resistance";
-pub static _DAY_OF_INSTALLATION_OF_THE_15TH_YANG_DI_PERTUAN_AGONG: &str =
-    "Day of Installation of the 15th Yang di-Pertuan Agong";
-pub static _DAY_OF_INSTALLATION_OF_THE_16TH_YANG_DI_PERTUAN_AGONG: &str =
-    "Day of Installation of the 16th Yang di-Pertuan Agong";
-pub static _DAY_OF_MACEDONIAN_UPRISING_IN_1941: &str = "Day of Macedonian Uprising in 1941";
+pub static _DAY_OF_INSTALLATION_OF_THE_15TH_YANG_DI_PERTUAN_AGONG: &str = "Day of Installation of the 15th Yang di-Pertuan Agong";
+pub static _DAY_OF_INSTALLATION_OF_THE_16TH_YANG_DI_PERTUAN_AGONG: &str = "Day of Installation of the 16th Yang di-Pertuan Agong";
+pub static _DAY_OF_KING_AMADOR: &str = "Day of King Amador";
+pub static _DAY_OF_KING_AMADOR__OBSERVED_: &str = "Day of King Amador (observed)";
+pub static _DAY_OF_LIBERATION_AND_RENEWAL: &str = "Day of Liberation and Renewal";
+pub static _DAY_OF_LIBERATION_FROM_FASCISM: &str = "Day of liberation from Fascism";
 pub static _DAY_OF_MEMORY_AND_HONOR: &str = "Day of Memory and Honor";
 pub static _DAY_OF_MEMORY_AND_HONOR__OBSERVED_: &str = "Day of Memory and Honor (observed)";
-pub static _DAY_OF_MOURNING_FOR_HM_KING_BHUMIBOL_ADULYADEJ: &str =
-    "Day of Mourning for HM King Bhumibol Adulyadej";
+pub static _DAY_OF_MOURNING_FOR_HM_KING_BHUMIBOL_ADULYADEJ: &str = "Day of Mourning for HM King Bhumibol Adulyadej";
+pub static _DAY_OF_MOURNING_FOR_PRESIDENT_MUHAMMADU_BUHARI: &str = "Day of Mourning for President Muhammadu Buhari";
+pub static _DAY_OF_MOURNING_FOR_PRESIDENT_UMARU_YAR_ADUA: &str = "Day of Mourning for President Umaru Yar'Adua";
 pub static _DAY_OF_MOURNING_FOR_QUEEN_ELIZABETH_II: &str = "Day of Mourning for Queen Elizabeth II";
+pub static _DAY_OF_NATIONAL_MOURNING: &str = "Day of National Mourning";
 pub static _DAY_OF_NATIONAL_UNITY: &str = "Day of National Unity";
-pub static _DAY_OF_OUR_LADY_OF_IMMACULATE_CONCEPTION_AND_TIMOR_LESTE_PATRONESS: &str =
-    "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness";
+pub static _DAY_OF_OUR_LADY_OF_IMMACULATE_CONCEPTION_AND_TIMOR_LESTE_PATRONESS: &str = "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness";
 pub static _DAY_OF_OUR_LADY_OF_IMMACULATE_CONCEPTION_AND_TIMOR_LESTE_PATRONESS__EID_AL_ADHA__ESTIMATED_: &str = "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness; Eid al-Adha (estimated)";
 pub static _DAY_OF_OUR_LADY_OF_THE_SEVEN_SORROWS: &str = "Day of Our Lady of the Seven Sorrows";
-pub static _DAY_OF_PORTUGAL__CAM_ES__AND_THE_PORTUGUESE_COMMUNITIES: &str =
-    "Day of Portugal, Camões, and the Portuguese Communities";
+pub static _DAY_OF_PORTUGAL__CAM_ES__AND_THE_PORTUGUESE_COMMUNITIES: &str = "Day of Portugal, Camões, and the Portuguese Communities";
+pub static _DAY_OF_PRAYER_AND_THANKSGIVING: &str = "Day of Prayer and Thanksgiving";
 pub static _DAY_OF_RECONCILIATION: &str = "Day of Reconciliation";
 pub static _DAY_OF_RECONCILIATION__OBSERVED_: &str = "Day of Reconciliation (observed)";
 pub static _DAY_OF_REJOICING: &str = "Day of Rejoicing";
-pub static _DAY_OF_REJOICING__INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Day of Rejoicing; International Workers' Solidarity Day";
+pub static _DAY_OF_REJOICING__INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Day of Rejoicing; International Workers' Solidarity Day";
 pub static _DAY_OF_REJOICING__VICTORY_DAY_AND_COMMEMORATION_OF_THE_HEROES_FALLEN_FOR_INDEPENDENCE_OF_FATHERLAND: &str = "Day of Rejoicing; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland";
 pub static _DAY_OF_REMEMBRANCE_AND_RECOGNITION: &str = "Day of Remembrance and Recognition";
-pub static _DAY_OF_RESTORATION_OF_INDEPENDENCE_OF_LITHUANIA: &str =
-    "Day of Restoration of Independence of Lithuania";
-pub static _DAY_OF_RESTORATION_OF_THE_STATE_OF_LITHUANIA: &str =
-    "Day of Restoration of the State of Lithuania";
+pub static _DAY_OF_REMEMBRANCE_FOR_THE_DEAD: &str = "Day of Remembrance for the Dead";
+pub static _DAY_OF_RESTORATION_OF_INDEPENDENCE_OF_LITHUANIA: &str = "Day of Restoration of Independence of Lithuania";
+pub static _DAY_OF_RESTORATION_OF_THE_STATE_OF_LITHUANIA: &str = "Day of Restoration of the State of Lithuania";
+pub static _DAY_OF_REVIVAL__UNITY_AND_POETRY_OF_MAGTYMGULY_PYRAGY: &str = "Day of Revival, Unity and Poetry of Magtymguly Pyragy";
+pub static _DAY_OF_REVIVAL__UNITY_AND_POETRY_OF_MAGTYMGULY_PYRAGY__OBSERVED_: &str = "Day of Revival, Unity and Poetry of Magtymguly Pyragy (observed)";
 pub static _DAY_OF_SILENCE: &str = "Day of Silence";
-pub static _DAY_OF_SLAVONIC_ALPHABET__BULGARIAN_ENLIGHTENMENT_AND_CULTURE: &str =
-    "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture";
-pub static _DAY_OF_SLAVONIC_ALPHABET__BULGARIAN_ENLIGHTENMENT_AND_CULTURE__OBSERVED_: &str =
-    "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture (observed)";
-pub static _DAY_OF_THE_ADOPTION_OF_THE_DECLARATION_OF_SOVEREIGNTY_OF_THE_RUSSIAN_FEDERATION: &str =
-    "Day of the Adoption of the Declaration of Sovereignty of the Russian Federation";
+pub static _DAY_OF_SLAVONIC_ALPHABET__BULGARIAN_ENLIGHTENMENT_AND_CULTURE: &str = "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture";
+pub static _DAY_OF_SLAVONIC_ALPHABET__BULGARIAN_ENLIGHTENMENT_AND_CULTURE__OBSERVED_: &str = "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture (observed)";
+pub static _DAY_OF_THE_ADOPTION_OF_THE_DECLARATION_OF_SOVEREIGNTY_OF_THE_RUSSIAN_FEDERATION: &str = "Day of the Adoption of the Declaration of Sovereignty of the Russian Federation";
+pub static _DAY_OF_THE_BEGINNING_OF_THE_ARMED_STRUGGLE: &str = "Day of the Beginning of the Armed Struggle";
+pub static _DAY_OF_THE_CONSTITUTION_OF_TURKMENISTAN_AND_POETRY_OF_MAGTYMGULY_PYRAGY: &str = "Day of the Constitution of Turkmenistan and Poetry of Magtymguly Pyragy";
 pub static _DAY_OF_THE_CONSTITUTION_OF_UKRAINE: &str = "Day of the Constitution of Ukraine";
-pub static _DAY_OF_THE_CONSTITUTION_OF_UKRAINE__OBSERVED_: &str =
-    "Day of the Constitution of Ukraine (observed)";
+pub static _DAY_OF_THE_CONSTITUTION_OF_UKRAINE__OBSERVED_: &str = "Day of the Constitution of Ukraine (observed)";
 pub static _DAY_OF_THE_DEAD: &str = "Day of the Dead";
-pub static _DAY_OF_THE_ESTABLISHMENT_OF_THE_SLOVAK_REPUBLIC: &str =
-    "Day of the Establishment of the Slovak Republic";
+pub static _DAY_OF_THE_ESTABLISHMENT_OF_THE_SLOVAK_REPUBLIC: &str = "Day of the Establishment of the Slovak Republic";
 pub static _DAY_OF_THE_FAMILY: &str = "Day of the Family";
-pub static _DAY_OF_THE_MACEDONIAN_REVOLUTIONARY_STRUGGLE: &str =
-    "Day of the Macedonian Revolutionary Struggle";
-pub static _DAY_OF_THE_MACEDONIAN_REVOLUTIONARY_STRUGGLE__EID_AL_FITR__ESTIMATED_: &str =
-    "Day of the Macedonian Revolutionary Struggle; Eid al-Fitr (estimated)";
-pub static _DAY_OF_THE_NAMIBIAN_WOMEN_AND_INTERNATIONAL_HUMAN_RIGHTS_DAY: &str =
-    "Day of the Namibian Women and International Human Rights Day";
-pub static _DAY_OF_THE_NAMIBIAN_WOMEN_AND_INTERNATIONAL_HUMAN_RIGHTS_DAY__OBSERVED_: &str =
-    "Day of the Namibian Women and International Human Rights Day (observed)";
+pub static _DAY_OF_THE_HOUSE_OF_ARIKI: &str = "Day of the House of Ariki";
+pub static _DAY_OF_THE_MAROONS: &str = "Day of the Maroons";
+pub static _DAY_OF_THE_MAROONS__EID_AL_ADHA__ESTIMATED_: &str = "Day of the Maroons; Eid al-Adha (estimated)";
+pub static _DAY_OF_THE_NAMIBIAN_WOMEN_AND_INTERNATIONAL_HUMAN_RIGHTS_DAY: &str = "Day of the Namibian Women and International Human Rights Day";
+pub static _DAY_OF_THE_NAMIBIAN_WOMEN_AND_INTERNATIONAL_HUMAN_RIGHTS_DAY__OBSERVED_: &str = "Day of the Namibian Women and International Human Rights Day (observed)";
 pub static _DAY_OF_THE_NATIONAL_REBELLION: &str = "Day of the National Rebellion";
 pub static _DAY_OF_THE_PEOPLE_S_APRIL_REVOLUTION: &str = "Day of the People's April Revolution";
+pub static _DAY_OF_THE_STRUGGLE_OF_SIMON_KIMBANGU_AND_AFRICAN_CONSCIOUSNESS: &str = "Day of the Struggle of Simon Kimbangu and African Consciousness";
+pub static _DAY_OF_THE_STRUGGLE_OF_SIMON_KIMBANGU_AND_AFRICAN_CONSCIOUSNESS__OBSERVED_: &str = "Day of the Struggle of Simon Kimbangu and African Consciousness (observed)";
 pub static _DAY_OF_UPRISING_AGAINST_OCCUPATION: &str = "Day of Uprising Against Occupation";
 pub static _DAY_OF_VALOR: &str = "Day of Valor";
 pub static _DAY_OF_VALOR__GOOD_FRIDAY: &str = "Day of Valor; Good Friday";
 pub static _DAY_OF_VALOR__MAUNDY_THURSDAY: &str = "Day of Valor; Maundy Thursday";
 pub static _DAY_OF_VICTORY_OVER_FASCISM: &str = "Day of Victory over Fascism";
-pub static _DAY_OF_VICTORY_OVER_NAZISM_IN_WORLD_WAR_II__VICTORY_DAY_: &str =
-    "Day of Victory over Nazism in World War II (Victory Day)";
-pub static _DAY_OF_VICTORY_OVER_NAZISM_IN_WORLD_WAR_II__VICTORY_DAY___OBSERVED_: &str =
-    "Day of Victory over Nazism in World War II (Victory Day) (observed)";
-pub static _DAY_OF_VICTORY_OVER_THE_GENOCIDAL_REGIME: &str =
-    "Day of Victory over the Genocidal Regime";
+pub static _DAY_OF_VICTORY_OVER_NAZISM_IN_WORLD_WAR_II__VICTORY_DAY_: &str = "Day of Victory over Nazism in World War II (Victory Day)";
+pub static _DAY_OF_VICTORY_OVER_NAZISM_IN_WORLD_WAR_II__VICTORY_DAY___OBSERVED_: &str = "Day of Victory over Nazism in World War II (Victory Day) (observed)";
+pub static _DAY_OF_VICTORY_OVER_THE_GENOCIDAL_REGIME: &str = "Day of Victory over the Genocidal Regime";
 pub static _DAY_THE_LATVIAN_HOCKEY_TEAM_WON_THE_BRONZE_MEDAL_AT_THE_2023_WORLD_ICE_HOCKEY_CHAMPIONSHIP: &str = "Day the Latvian hockey team won the bronze medal at the 2023 World Ice Hockey Championship";
+pub static _DEATH_ANNIVERSARY_OF_ZHABDRUNG: &str = "Death Anniversary of Zhabdrung";
 pub static _DEATH_OF_DESSALINES: &str = "Death of Dessalines";
-pub static _DEATH_OF_KHOMEINI: &str = "Death of Khomeini";
-pub static _DEATH_OF_KHOMEINI__EID_AL_FITR__ESTIMATED_: &str =
-    "Death of Khomeini; Eid al-Fitr (estimated)";
-pub static _DEATH_OF_KHOMEINI__EID_AL_GHADEER__ESTIMATED_: &str =
-    "Death of Khomeini; Eid al-Ghadeer (estimated)";
+pub static _DEATH_OF_IMAM_KHOMEINI: &str = "Death of Imam Khomeini";
+pub static _DEATH_OF_IMAM_KHOMEINI__EID_AL_GHADEER__ESTIMATED_: &str = "Death of Imam Khomeini; Eid al-Ghadeer (estimated)";
+pub static _DEATH_OF_PROPHET_MUHAMMAD_AND_MARTYRDOM_OF_HASAN_IBN_ALI: &str = "Death of Prophet Muhammad and Martyrdom of Hasan ibn Ali";
+pub static _DEATH_OF_PROPHET_MUHAMMAD_AND_MARTYRDOM_OF_HASAN_IBN_ALI__ESTIMATED_: &str = "Death of Prophet Muhammad and Martyrdom of Hasan ibn Ali (estimated)";
+pub static _DEATH_OF_PROPHET_MUHAMMAD_AND_MARTYRDOM_OF_HASAN_IBN_ALI__ESTIMATED___NOWRUZ_HOLIDAY: &str = "Death of Prophet Muhammad and Martyrdom of Hasan ibn Ali (estimated); Nowruz Holiday";
+pub static _DEATH_OF_SHEIKH_KHALIFA_BIN_ZAYED_AL_NAHYAN: &str = "Death of Sheikh Khalifa bin Zayed Al Nahyan";
 pub static _DECLARATION_OF_INDEPENDENCE: &str = "Declaration of Independence";
 pub static _DECLARATION_OF_INDEPENDENCE_OF_QUITO: &str = "Declaration of Independence of Quito";
-pub static _DECLARATION_OF_INDEPENDENCE_OF_QUITO__OBSERVED_: &str =
-    "Declaration of Independence of Quito (observed)";
-pub static _DECLARATION_OF_INDEPENDENCE__GOOD_FRIDAY: &str =
-    "Declaration of Independence; Good Friday";
+pub static _DECLARATION_OF_INDEPENDENCE_OF_QUITO__OBSERVED_: &str = "Declaration of Independence of Quito (observed)";
+pub static _DECLARATION_OF_INDEPENDENCE__GOOD_FRIDAY: &str = "Declaration of Independence; Good Friday";
+pub static _DECORATION_DAY: &str = "Decoration Day";
 pub static _DEEPAVALI: &str = "Deepavali";
+pub static _DEEPAVALI_FESTIVAL_DAY: &str = "Deepavali Festival Day";
 pub static _DEEPAVALI__OBSERVED_: &str = "Deepavali (observed)";
 pub static _DEFENDER_OF_THE_FATHERLAND_DAY: &str = "Defender of the Fatherland Day";
-pub static _DEFENDER_OF_THE_FATHERLAND_DAY__OBSERVED_: &str =
-    "Defender of the Fatherland Day (observed)";
+pub static _DEFENDER_OF_THE_FATHERLAND_DAY__OBSERVED_: &str = "Defender of the Fatherland Day (observed)";
 pub static _DEFENDER_OF_UKRAINE_DAY: &str = "Defender of Ukraine Day";
 pub static _DEFENDER_OF_UKRAINE_DAY__OBSERVED_: &str = "Defender of Ukraine Day (observed)";
 pub static _DEFENSE_FORCES_DAY: &str = "Defense Forces Day";
-pub static _DEMISE_OF_PROPHET_MUHAMMAD_AND_HASAN_IBN_ALI__ESTIMATED_: &str =
-    "Demise of Prophet Muhammad and Hasan ibn Ali (estimated)";
-pub static _DEMISE_OF_PROPHET_MUHAMMAD_AND_HASAN_IBN_ALI__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Demise of Prophet Muhammad and Hasan ibn Ali (estimated); Persian New Year";
+pub static _DEMOCRACY_AND_FREEDOM_DAY: &str = "Democracy and Freedom Day";
 pub static _DEMOCRACY_AND_NATIONAL_UNITY_DAY: &str = "Democracy and National Unity Day";
 pub static _DEMOCRACY_DAY: &str = "Democracy Day";
 pub static _DEMOCRACY_DAY__OBSERVED_: &str = "Democracy Day (observed)";
+pub static _DEMOCRACY_DAY__OBSERVED___PRESIDENTIAL_INAUGURATION_DAY__OBSERVED_: &str = "Democracy Day (observed); Presidential Inauguration Day (observed)";
+pub static _DEMOCRACY_DAY__PRESIDENTIAL_INAUGURATION_DAY: &str = "Democracy Day; Presidential Inauguration Day";
+pub static _DESCENDING_DAY_OF_LORD_BUDDHA: &str = "Descending Day of Lord Buddha";
+pub static _DIAMOND_JUBILEE_CELEBRATION_OF_HER_MAJESTY_THE_QUEEN: &str = "Diamond Jubilee Celebration of Her Majesty The Queen";
 pub static _DIAMOND_JUBILEE_OF_ELIZABETH_II: &str = "Diamond Jubilee of Elizabeth II";
 pub static _DISCOVERY_DAY: &str = "Discovery Day";
 pub static _DISCOVERY_DAY__OBSERVED_: &str = "Discovery Day (observed)";
 pub static _DIWALI: &str = "Diwali";
+pub static _DIWALI__ESTIMATED_: &str = "Diwali (estimated)";
+pub static _DIWALI__OBSERVED_: &str = "Diwali (observed)";
+pub static _DIWALI__OBSERVED__ESTIMATED_: &str = "Diwali (observed, estimated)";
 pub static _DORMITION_OF_THE_MOTHER_OF_GOD: &str = "Dormition of the Mother of God";
-pub static _DOWNFALL_OF_DERGUE_REGIME_DAY: &str = "Downfall of Dergue Regime Day";
+pub static _DOUBLE_NINTH_FESTIVAL: &str = "Double Ninth Festival";
+pub static _DOUBLE_NINTH_FESTIVAL__NATIONAL_DAY: &str = "Double Ninth Festival; National Day";
+pub static _DOUBLE_NINTH_FESTIVAL__NATIONAL_DAY_OF_THE_PEOPLE_S_REPUBLIC_OF_CHINA: &str = "Double Ninth Festival; National Day of the People's Republic of China";
+pub static _DOUBLE_NINTH_FESTIVAL__OBSERVED_: &str = "Double Ninth Festival (observed)";
+pub static _DOWNFALL_OF_THE_DERGUE_REGIME_DAY: &str = "Downfall of the Dergue Regime Day";
 pub static _DRAGON_BOAT_FESTIVAL: &str = "Dragon Boat Festival";
 pub static _DRAGON_BOAT_FESTIVAL__OBSERVED_: &str = "Dragon Boat Festival (observed)";
 pub static _DRI_JERBAL_DAY: &str = "Dri-jerbal Day";
+pub static _DURUTHU_FULL_MOON_POYA_DAY: &str = "Duruthu Full Moon Poya Day";
+pub static _DURUTHU_FULL_MOON_POYA_DAY__PROPHET_S_BIRTHDAY: &str = "Duruthu Full Moon Poya Day; Prophet's Birthday";
+pub static _DUSSEHRA: &str = "Dussehra";
+pub static _DUSSEHRA__GANDHI_JAYANTI: &str = "Dussehra; Gandhi Jayanti";
+pub static _DUWADASHI__DASHAIN_: &str = "Duwadashi (Dashain)";
 pub static _EARLY_MAY_BANK_HOLIDAY: &str = "Early May Bank Holiday";
 pub static _EASTER: &str = "Easter";
 pub static _EASTER_MONDAY: &str = "Easter Monday";
 pub static _EASTER_MONDAY__INDEPENDENCE_DAY: &str = "Easter Monday; Independence Day";
+pub static _EASTER_MONDAY__INVESTITURE_OF_CAPTAINS_REGENT: &str = "Easter Monday; Investiture of Captains Regent";
 pub static _EASTER_MONDAY__KING_S_BIRTHDAY: &str = "Easter Monday; King's Birthday";
 pub static _EASTER_MONDAY__LABOR_DAY: &str = "Easter Monday; Labor Day";
+pub static _EASTER_MONDAY__LABOR_DAY__OBSERVED_: &str = "Easter Monday; Labor Day (observed)";
 pub static _EASTER_MONDAY__MARTYRS__DAY: &str = "Easter Monday; Martyrs' Day";
+pub static _EASTER_MONDAY__MEMORIAL_DAY_OF_GENOCIDE_PERPETRATED_AGAINST_THE_TUTSI_IN_1994: &str = "Easter Monday; Memorial Day of Genocide perpetrated against the Tutsi in 1994";
+pub static _EASTER_MONDAY__NATIONAL_CONCORD_DAY: &str = "Easter Monday; National Concord Day";
+pub static _EASTER_MONDAY__NATIONAL_CONCORD_DAY__OBSERVED_: &str = "Easter Monday; National Concord Day (observed)";
 pub static _EASTER_MONDAY__NATIONAL_FLAG_DAY: &str = "Easter Monday; National Flag Day";
+pub static _EASTER_MONDAY__NATIONAL_HEALTH_DAY: &str = "Easter Monday; National Health Day";
+pub static _EASTER_MONDAY__NATIONAL_HEALTH_DAY__OBSERVED_: &str = "Easter Monday; National Health Day (observed)";
 pub static _EASTER_MONDAY__NATIONAL_UNITY_DAY: &str = "Easter Monday; National Unity Day";
-pub static _EASTER_MONDAY__ORTHODOX_: &str = "Easter Monday (Orthodox)";
-pub static _EASTER_MONDAY__ORTHODOX___LABOUR_DAY: &str = "Easter Monday (Orthodox); Labour Day";
-pub static _EASTER_MONDAY__THE_SHEIKH_ABEID_AMANI_KARUME_DAY: &str =
-    "Easter Monday; The Sheikh Abeid Amani Karume Day";
+pub static _EASTER_MONDAY__OBSERVED___SPIRITUAL_BAPTIST_LIBERATION_DAY__OBSERVED_: &str = "Easter Monday (observed); Spiritual Baptist Liberation Day (observed)";
+pub static _EASTER_MONDAY__PROPHET_S_BAPTISM__ESTIMATED_: &str = "Easter Monday; Prophet's Baptism (estimated)";
+pub static _EASTER_MONDAY__SPIRITUAL_BAPTIST_LIBERATION_DAY: &str = "Easter Monday; Spiritual Baptist Liberation Day";
+pub static _EASTER_MONDAY__THE_SHEIKH_ABEID_AMANI_KARUME_DAY: &str = "Easter Monday; The Sheikh Abeid Amani Karume Day";
 pub static _EASTER_MONDAY__UNION_CELEBRATIONS: &str = "Easter Monday; Union Celebrations";
 pub static _EASTER_MONDAY__WOMEN_S_RIGHTS_DAY: &str = "Easter Monday; Women's Rights Day";
 pub static _EASTER_SATURDAY: &str = "Easter Saturday";
 pub static _EASTER_SUNDAY: &str = "Easter Sunday";
+pub static _EASTER_SUNDAY__ETHIOPIAN_PATRIOTS__VICTORY_DAY: &str = "Easter Sunday; Ethiopian Patriots' Victory Day";
 pub static _EASTER_SUNDAY__FREEDOM_DAY: &str = "Easter Sunday; Freedom Day";
+pub static _EASTER_SUNDAY__INTERNATIONAL_WORKERS__DAY: &str = "Easter Sunday; International Workers' Day";
+pub static _EASTER_SUNDAY__INVESTITURE_OF_CAPTAINS_REGENT: &str = "Easter Sunday; Investiture of Captains Regent";
 pub static _EASTER_SUNDAY__LABOR_DAY: &str = "Easter Sunday; Labor Day";
 pub static _EASTER_SUNDAY__MARTYRS__DAY: &str = "Easter Sunday; Martyrs' Day";
 pub static _EASTER_SUNDAY__NATIONAL_UNITY_DAY: &str = "Easter Sunday; National Unity Day";
 pub static _EASTER_SUNDAY__PASCHA_: &str = "Easter Sunday (Pascha)";
-pub static _EASTER_SUNDAY__PASCHA___INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Easter Sunday (Pascha); International Workers' Solidarity Day";
+pub static _EASTER_SUNDAY__PASCHA___INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Easter Sunday (Pascha); International Workers' Solidarity Day";
 pub static _EASTER_SUNDAY__PASCHA___OBSERVED_: &str = "Easter Sunday (Pascha) (observed)";
-pub static _EASTER_SUNDAY__PASCHA___OBSERVED___INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_:
-    &str = "Easter Sunday (Pascha) (observed); International Workers' Solidarity Day (observed)";
-pub static _EASTER_SUNDAY__PATRIOTS__DAY: &str = "Easter Sunday; Patriots' Day";
+pub static _EASTER_SUNDAY__PASCHA___OBSERVED___INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_: &str = "Easter Sunday (Pascha) (observed); International Workers' Solidarity Day (observed)";
 pub static _EASTER_SUNDAY__SUNDAY: &str = "Easter Sunday; Sunday";
-pub static _EASTER_SUNDAY__WORKERS__DAY: &str = "Easter Sunday; Workers' Day";
-pub static _EASTER__INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Easter; International Workers' Solidarity Day";
+pub static _EASTER_TUESDAY: &str = "Easter Tuesday";
+pub static _EASTER_TUESDAY__NAME_DAY_OF_THE_HOLY_FATHER: &str = "Easter Tuesday; Name Day of the Holy Father";
+pub static _EASTER__INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Easter; International Workers' Solidarity Day";
 pub static _EASTER__LABOR_DAY: &str = "Easter; Labor Day";
-pub static _EASTER__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Easter; Labor Day and International Workers' Solidarity Day";
-pub static _EASTER__SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY_: &str =
-    "Easter; Saint George's Day (Day of the Bulgarian Army)";
-pub static _EDSA_PEOPLE_POWER_REVOLUTION_ANNIVERSARY: &str =
-    "EDSA People Power Revolution Anniversary";
+pub static _EASTER__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Easter; Labor Day and International Workers' Solidarity Day";
+pub static _EASTER__SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY_: &str = "Easter; Saint George's Day (Day of the Bulgarian Army)";
+pub static _EDSA_PEOPLE_POWER_REVOLUTION_ANNIVERSARY: &str = "EDSA People Power Revolution Anniversary";
 pub static _EID_AL_ADHA: &str = "Eid al-Adha";
 pub static _EID_AL_ADHA_HOLIDAY: &str = "Eid al-Adha Holiday";
 pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED_: &str = "Eid al-Adha Holiday (estimated)";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___JUNE_30_REVOLUTION_DAY: &str =
-    "Eid al-Adha Holiday (estimated); June 30 Revolution Day";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___NATIONAL_DAY: &str =
-    "Eid al-Adha Holiday (estimated); National Day";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___NEW_YEAR_S_DAY: &str =
-    "Eid al-Adha Holiday (estimated); New Year's Day";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___REVOLUTION_DAY: &str =
-    "Eid al-Adha Holiday (estimated); Revolution Day";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___SINAI_LIBERATION_DAY: &str =
-    "Eid al-Adha Holiday (estimated); Sinai Liberation Day";
-pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___WOMEN_S_DAY: &str =
-    "Eid al-Adha Holiday (estimated); Women's Day";
-pub static _EID_AL_ADHA_HOLIDAY__OBSERVED__ESTIMATED_: &str =
-    "Eid al-Adha Holiday (observed, estimated)";
+pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___NATIONAL_DAY: &str = "Eid al-Adha Holiday (estimated); National Day";
+pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___NEW_YEAR_S_DAY: &str = "Eid al-Adha Holiday (estimated); New Year's Day";
+pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___REVOLUTION_DAY: &str = "Eid al-Adha Holiday (estimated); Revolution Day";
+pub static _EID_AL_ADHA_HOLIDAY__ESTIMATED___WOMEN_S_DAY: &str = "Eid al-Adha Holiday (estimated); Women's Day";
+pub static _EID_AL_ADHA_HOLIDAY__NEW_YEAR_S_DAY: &str = "Eid al-Adha Holiday; New Year's Day";
+pub static _EID_AL_ADHA_HOLIDAY__OBSERVED_: &str = "Eid al-Adha Holiday (observed)";
+pub static _EID_AL_ADHA_HOLIDAY__OBSERVED__ESTIMATED_: &str = "Eid al-Adha Holiday (observed, estimated)";
+pub static _EID_AL_ADHA_HOLIDAY__OBSERVED___NATIONAL_DAY_HOLIDAY: &str = "Eid al-Adha Holiday (observed); National Day Holiday";
 pub static _EID_AL_ADHA__ESTIMATED_: &str = "Eid al-Adha (estimated)";
-pub static _EID_AL_ADHA__ESTIMATED___ETHIOPIAN_NEW_YEAR: &str =
-    "Eid al-Adha (estimated); Ethiopian New Year";
-pub static _EID_AL_ADHA__ESTIMATED___EVACUATION_DAY: &str =
-    "Eid al-Adha (estimated); Evacuation Day";
-pub static _EID_AL_ADHA__ESTIMATED___FEAST_OF_PENTECOST: &str =
-    "Eid al-Adha (estimated); Feast of Pentecost";
+pub static _EID_AL_ADHA__ESTIMATED___ETHIOPIAN_NEW_YEAR: &str = "Eid al-Adha (estimated); Ethiopian New Year";
+pub static _EID_AL_ADHA__ESTIMATED___ETHIOPIAN_PATRIOTS__VICTORY_DAY: &str = "Eid al-Adha (estimated); Ethiopian Patriots' Victory Day";
+pub static _EID_AL_ADHA__ESTIMATED___EVACUATION_DAY: &str = "Eid al-Adha (estimated); Evacuation Day";
 pub static _EID_AL_ADHA__ESTIMATED___GREEN_MARCH: &str = "Eid al-Adha (estimated); Green March";
-pub static _EID_AL_ADHA__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid al-Adha (estimated); Independence Day";
-pub static _EID_AL_ADHA__ESTIMATED___INDEPENDENCE_DAY_HOLIDAY: &str =
-    "Eid al-Adha (estimated); Independence Day Holiday";
-pub static _EID_AL_ADHA__ESTIMATED___ISLAMIC_REVOLUTION_DAY: &str =
-    "Eid al-Adha (estimated); Islamic Revolution Day";
+pub static _EID_AL_ADHA__ESTIMATED___INDEPENDENCE_DAY: &str = "Eid al-Adha (estimated); Independence Day";
+pub static _EID_AL_ADHA__ESTIMATED___INDEPENDENCE_DAY_HOLIDAY: &str = "Eid al-Adha (estimated); Independence Day Holiday";
+pub static _EID_AL_ADHA__ESTIMATED___INDEPENDENCE_DAY__OBSERVED_: &str = "Eid al-Adha (estimated); Independence Day (observed)";
+pub static _EID_AL_ADHA__ESTIMATED___INTERNATIONAL_NOWRUZ_DAY: &str = "Eid al-Adha (estimated); International Nowruz Day";
+pub static _EID_AL_ADHA__ESTIMATED___LIBERATION_DAY: &str = "Eid al-Adha (estimated); Liberation Day";
+pub static _EID_AL_ADHA__ESTIMATED___MAORE_DAY: &str = "Eid al-Adha (estimated); Maore Day";
 pub static _EID_AL_ADHA__ESTIMATED___MARTYRS__DAY: &str = "Eid al-Adha (estimated); Martyrs' Day";
-pub static _EID_AL_ADHA__ESTIMATED___NATIONAL_YOUTH_DAY: &str =
-    "Eid al-Adha (estimated); National Youth Day";
+pub static _EID_AL_ADHA__ESTIMATED___MOTHER_S_DAY: &str = "Eid al-Adha (estimated); Mother's Day";
+pub static _EID_AL_ADHA__ESTIMATED___NATIONAL_CONCORD_DAY: &str = "Eid al-Adha (estimated); National Concord Day";
+pub static _EID_AL_ADHA__ESTIMATED___NATIONAL_DAY: &str = "Eid al-Adha (estimated); National Day";
+pub static _EID_AL_ADHA__ESTIMATED___NATIONAL_YOUTH_DAY: &str = "Eid al-Adha (estimated); National Youth Day";
 pub static _EID_AL_ADHA__ESTIMATED___NATURE_S_DAY: &str = "Eid al-Adha (estimated); Nature's Day";
-pub static _EID_AL_ADHA__ESTIMATED___NEW_YEAR_S_DAY: &str =
-    "Eid al-Adha (estimated); New Year's Day";
+pub static _EID_AL_ADHA__ESTIMATED___NEW_YEAR_S_DAY: &str = "Eid al-Adha (estimated); New Year's Day";
 pub static _EID_AL_ADHA__ESTIMATED___NOWRUZ_DAY: &str = "Eid al-Adha (estimated); Nowruz Day";
-pub static _EID_AL_ADHA__ESTIMATED___NOWRUZ_HOLIDAY: &str =
-    "Eid al-Adha (estimated); Nowruz holiday";
-pub static _EID_AL_ADHA__ESTIMATED___OBSERVED_: &str = "Eid al Adha (estimated) (observed)";
-pub static _EID_AL_ADHA__ESTIMATED___PALM_SUNDAY: &str = "Eid al-Adha (estimated); Palm Sunday";
-pub static _EID_AL_ADHA__ESTIMATED___PATRIOTS__DAY: &str = "Eid al-Adha (estimated); Patriots' Day";
-pub static _EID_AL_ADHA__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Eid al-Adha (estimated); Persian New Year";
-pub static _EID_AL_ADHA__ESTIMATED___PRESIDENT_NDADAYE_S_DAY: &str =
-    "Eid al Adha (estimated); President Ndadaye's Day";
-pub static _EID_AL_ADHA__ESTIMATED___PROCLAMATION_OF_INDEPENDENCE_DAY: &str =
-    "Eid al-Adha (estimated); Proclamation of Independence Day";
+pub static _EID_AL_ADHA__ESTIMATED___NOWRUZ_HOLIDAY: &str = "Eid al-Adha (estimated); Nowruz Holiday";
+pub static _EID_AL_ADHA__ESTIMATED___NRM_LIBERATION_DAY: &str = "Eid al-Adha (estimated); NRM Liberation Day";
+pub static _EID_AL_ADHA__ESTIMATED___PAKISTAN_DAY: &str = "Eid al-Adha (estimated); Pakistan Day";
+pub static _EID_AL_ADHA__ESTIMATED___PROCLAMATION_OF_INDEPENDENCE_DAY: &str = "Eid al-Adha (estimated); Proclamation of Independence Day";
 pub static _EID_AL_ADHA__ESTIMATED___REPUBLIC_DAY: &str = "Eid al-Adha (estimated); Republic Day";
-pub static _EID_AL_ADHA__ESTIMATED___SPRING_FESTIVAL: &str =
-    "Eid al-Adha (estimated); Spring Festival";
+pub static _EID_AL_ADHA__ESTIMATED___REVOLUTION_DAY: &str = "Eid al-Adha (estimated); Revolution Day";
+pub static _EID_AL_ADHA__ESTIMATED___SECOND_DAY_OF_CHRISTMAS: &str = "Eid al-Adha (estimated); Second Day of Christmas";
+pub static _EID_AL_ADHA__ESTIMATED___SINAI_LIBERATION_DAY__OBSERVED_: &str = "Eid al-Adha (estimated); Sinai Liberation Day (observed)";
+pub static _EID_AL_ADHA__ESTIMATED___SPLA_DAY: &str = "Eid al-Adha (estimated); SPLA Day";
+pub static _EID_AL_ADHA__ESTIMATED___SPRING_FESTIVAL: &str = "Eid al-Adha (estimated); Spring Festival";
+pub static _EID_AL_ADHA__ESTIMATED___TISHREEN_LIBERATION_WAR_DAY: &str = "Eid al-Adha (estimated); Tishreen Liberation War Day";
 pub static _EID_AL_ADHA__ESTIMATED___VICTORY_DAY: &str = "Eid al-Adha (estimated); Victory Day";
+pub static _EID_AL_ADHA__ESTIMATED___VODOUN_FESTIVAL: &str = "Eid al-Adha (estimated); Vodoun Festival";
+pub static _EID_AL_ADHA__ESTIMATED___YOUM_E_TAKBEER: &str = "Eid al-Adha (estimated); Youm-e-Takbeer";
 pub static _EID_AL_ADHA__ESTIMATED___YOUTH_DAY: &str = "Eid al-Adha (estimated); Youth Day";
 pub static _EID_AL_ADHA__INDEPENDENCE_DAY: &str = "Eid al-Adha; Independence Day";
-pub static _EID_AL_ADHA__INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY: &str =
-    "Eid al-Adha; International Azerbaijanis Solidarity Day";
+pub static _EID_AL_ADHA__INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY: &str = "Eid al-Adha; International Azerbaijanis Solidarity Day";
+pub static _EID_AL_ADHA__INTERNATIONAL_WOMEN_S_DAY: &str = "Eid al-Adha; International Women's Day";
+pub static _EID_AL_ADHA__IQBAL_DAY: &str = "Eid al-Adha; Iqbal Day";
+pub static _EID_AL_ADHA__JUNE_30_REVOLUTION_DAY: &str = "Eid al-Adha; June 30 Revolution Day";
 pub static _EID_AL_ADHA__NATIONAL_DAY: &str = "Eid al-Adha; National Day";
 pub static _EID_AL_ADHA__NEW_YEAR_S_DAY: &str = "Eid al-Adha; New Year's Day";
 pub static _EID_AL_ADHA__NINOY_AQUINO_DAY: &str = "Eid al-Adha; Ninoy Aquino Day";
 pub static _EID_AL_ADHA__OBSERVED_: &str = "Eid al-Adha (observed)";
 pub static _EID_AL_ADHA__OBSERVED__ESTIMATED_: &str = "Eid al-Adha (observed, estimated)";
-pub static _EID_AL_ADHA__OBSERVED___INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY__OBSERVED_: &str =
-    "Eid al-Adha (observed); International Azerbaijanis Solidarity Day (observed)";
+pub static _EID_AL_ADHA__OBSERVED__ESTIMATED___WHIT_MONDAY: &str = "Eid al-Adha (observed, estimated); Whit Monday";
+pub static _EID_AL_ADHA__OBSERVED___INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY__OBSERVED_: &str = "Eid al-Adha (observed); International Azerbaijanis Solidarity Day (observed)";
+pub static _EID_AL_ADHA__ORTHODOX_CHRISTMAS_DAY: &str = "Eid al-Adha; Orthodox Christmas Day";
+pub static _EID_AL_ADHA__REPUBLIC_DAY: &str = "Eid al-Adha; Republic Day";
 pub static _EID_AL_FITR: &str = "Eid al-Fitr";
 pub static _EID_AL_FITR_HOLIDAY: &str = "Eid al-Fitr Holiday";
 pub static _EID_AL_FITR_HOLIDAY__ESTIMATED_: &str = "Eid al-Fitr Holiday (estimated)";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___EVACUATION_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); Evacuation Day";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); Independence Day";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___JANUARY_25TH_REVOLUTION_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); January 25th Revolution Day";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___NATIONAL_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); National Day";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___NEW_YEAR_S_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); New Year's Day";
-pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___REPUBLIC_DAY: &str =
-    "Eid al-Fitr Holiday (estimated); Republic Day";
+pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___EVACUATION_DAY: &str = "Eid al-Fitr Holiday (estimated); Evacuation Day";
+pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___INDEPENDENCE_DAY: &str = "Eid al-Fitr Holiday (estimated); Independence Day";
+pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___NATIONAL_DAY: &str = "Eid al-Fitr Holiday (estimated); National Day";
+pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___NOWRUZ: &str = "Eid al-Fitr Holiday (estimated); Nowruz";
+pub static _EID_AL_FITR_HOLIDAY__ESTIMATED___REPUBLIC_DAY: &str = "Eid al-Fitr Holiday (estimated); Republic Day";
+pub static _EID_AL_FITR_HOLIDAY__ISLAMIC_REPUBLIC_DAY: &str = "Eid al-Fitr Holiday; Islamic Republic Day";
+pub static _EID_AL_FITR_HOLIDAY__NATIONAL_DAY_HOLIDAY: &str = "Eid al-Fitr Holiday; National Day Holiday";
 pub static _EID_AL_FITR_HOLIDAY__OBSERVED_: &str = "Eid al-Fitr Holiday (observed)";
-pub static _EID_AL_FITR_HOLIDAY__OBSERVED__ESTIMATED_: &str =
-    "Eid al-Fitr Holiday (observed, estimated)";
+pub static _EID_AL_FITR_HOLIDAY__OBSERVED__ESTIMATED_: &str = "Eid al-Fitr Holiday (observed, estimated)";
 pub static _EID_AL_FITR_SECOND_DAY: &str = "Eid al-Fitr Second Day";
 pub static _EID_AL_FITR_SECOND_DAY__ESTIMATED_: &str = "Eid al-Fitr Second Day (estimated)";
 pub static _EID_AL_FITR__ADDITIONAL_HOLIDAY_: &str = "Eid al-Fitr (additional holiday)";
 pub static _EID_AL_FITR__ESTIMATED_: &str = "Eid al-Fitr (estimated)";
-pub static _EID_AL_FITR__ESTIMATED___FREEDOM_AND_DEMOCRACY_DAY: &str =
-    "Eid al-Fitr (estimated); Freedom and Democracy Day";
-pub static _EID_AL_FITR__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid al-Fitr (estimated); Independence Day";
-pub static _EID_AL_FITR__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Eid al-Fitr (estimated); Iranian Oil Industry Nationalization Day";
-pub static _EID_AL_FITR__ESTIMATED___KHORDAD_NATIONAL_UPRISING: &str =
-    "Eid al-Fitr (estimated); Khordad National Uprising";
-pub static _EID_AL_FITR__ESTIMATED___LIBERATION_DAY: &str =
-    "Eid al-Fitr (estimated); Liberation Day";
-pub static _EID_AL_FITR__ESTIMATED___LUNAR_NEW_YEAR__OBSERVED_: &str =
-    "Eid al-Fitr (estimated); Lunar New Year (observed)";
+pub static _EID_AL_FITR__ESTIMATED___FREEDOM_AND_DEMOCRACY_DAY: &str = "Eid al-Fitr (estimated); Freedom and Democracy Day";
+pub static _EID_AL_FITR__ESTIMATED___GREAT_AL_FATEH_REVOLUTION_DAY: &str = "Eid al-Fitr (estimated); Great Al-Fateh Revolution Day";
+pub static _EID_AL_FITR__ESTIMATED___INDEPENDENCE_DAY: &str = "Eid al-Fitr (estimated); Independence Day";
+pub static _EID_AL_FITR__ESTIMATED___INTERNATIONAL_NEUTRALITY_DAY: &str = "Eid al-Fitr (estimated); International Neutrality Day";
+pub static _EID_AL_FITR__ESTIMATED___IQBAL_DAY: &str = "Eid al-Fitr (estimated); Iqbal Day";
+pub static _EID_AL_FITR__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str = "Eid al-Fitr (estimated); Iranian Oil Industry Nationalization Day";
+pub static _EID_AL_FITR__ESTIMATED___ISLAMIC_EMIRATE_VICTORY_DAY: &str = "Eid al-Fitr (estimated); Islamic Emirate Victory Day";
+pub static _EID_AL_FITR__ESTIMATED___JAMHURI_DAY: &str = "Eid-al-Fitr (estimated); Jamhuri Day";
+pub static _EID_AL_FITR__ESTIMATED___JANUARY_25TH_REVOLUTION_AND_NATIONAL_POLICE_DAY: &str = "Eid al-Fitr (estimated); January 25th Revolution and National Police Day";
+pub static _EID_AL_FITR__ESTIMATED___JULY_23_REVOLUTION_DAY__OBSERVED_: &str = "Eid al-Fitr (estimated); July 23 Revolution Day (observed)";
+pub static _EID_AL_FITR__ESTIMATED___JUNE_30_REVOLUTION_DAY__OBSERVED_: &str = "Eid al-Fitr (estimated); June 30 Revolution Day (observed)";
+pub static _EID_AL_FITR__ESTIMATED___KASHMIR_SOLIDARITY_DAY: &str = "Eid al-Fitr (estimated); Kashmir Solidarity Day";
+pub static _EID_AL_FITR__ESTIMATED___LIBERATION_DAY: &str = "Eid al-Fitr (estimated); Liberation Day";
+pub static _EID_AL_FITR__ESTIMATED___LUNAR_NEW_YEAR__OBSERVED_: &str = "Eid al-Fitr (estimated); Lunar New Year (observed)";
+pub static _EID_AL_FITR__ESTIMATED___MARTYRS__DAY: &str = "Eid al-Fitr (estimated); Martyrs' Day";
+pub static _EID_AL_FITR__ESTIMATED___MOTHER_S_DAY: &str = "Eid al-Fitr (estimated); Mother's Day";
 pub static _EID_AL_FITR__ESTIMATED___NATIONAL_DAY: &str = "Eid al-Fitr (estimated); National Day";
-pub static _EID_AL_FITR__ESTIMATED___NATIONAL_FLAG_DAY: &str =
-    "Eid al-Fitr (estimated); National Flag Day";
-pub static _EID_AL_FITR__ESTIMATED___NEW_YEAR_S_DAY: &str =
-    "Eid al-Fitr (estimated); New Year's Day";
-pub static _EID_AL_FITR__ESTIMATED___OBSERVED_: &str = "Eid al-Fitr (estimated) (observed)";
-pub static _EID_AL_FITR__ESTIMATED___OUED_ED_DAHAB_DAY: &str =
-    "Eid al-Fitr (estimated); Oued Ed-Dahab Day";
-pub static _EID_AL_FITR__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Eid al-Fitr (estimated); Persian New Year";
+pub static _EID_AL_FITR__ESTIMATED___NATIONAL_ENVIRONMENTAL_SANITATION_DAY: &str = "Eid al-Fitr (estimated); National Environmental Sanitation Day";
+pub static _EID_AL_FITR__ESTIMATED___NATIONAL_FLAG_DAY: &str = "Eid al-Fitr (estimated); National Flag Day";
+pub static _EID_AL_FITR__ESTIMATED___NEW_YEAR_S_DAY: &str = "Eid al-Fitr (estimated); New Year's Day";
+pub static _EID_AL_FITR__ESTIMATED___NEW_YEAR_S_DAY__OBSERVED_: &str = "Eid al-Fitr (estimated); New Year's Day (observed)";
+pub static _EID_AL_FITR__ESTIMATED___NOWRUZ: &str = "Eid al-Fitr (estimated); Nowruz";
+pub static _EID_AL_FITR__ESTIMATED___OUED_ED_DAHAB_DAY: &str = "Eid al-Fitr (estimated); Oued Ed-Dahab Day";
+pub static _EID_AL_FITR__ESTIMATED___PIDJIGUITI_DAY: &str = "Eid al-Fitr (estimated); Pidjiguiti Day";
+pub static _EID_AL_FITR__ESTIMATED___QUAID_E_AZAM_DAY: &str = "Eid al-Fitr (estimated); Quaid-e-Azam Day";
 pub static _EID_AL_FITR__ESTIMATED___REPUBLIC_DAY: &str = "Eid al-Fitr (estimated); Republic Day";
-pub static _EID_AL_FITR__ESTIMATED___REVOLUTION_AND_YOUTH_DAY: &str =
-    "Eid al-Fitr (estimated); Revolution and Youth Day";
-pub static _EID_AL_FITR__ESTIMATED___REVOLUTION_DAY: &str =
-    "Eid al-Fitr (estimated); Revolution Day";
-pub static _EID_AL_FITR__ESTIMATED___SAINTS_CYRIL_AND_METHODIUS_DAY: &str =
-    "Eid al-Fitr (estimated); Saints Cyril and Methodius Day";
-pub static _EID_AL_FITR__ESTIMATED___SPRING_FESTIVAL: &str =
-    "Eid al-Fitr (estimated); Spring Festival";
+pub static _EID_AL_FITR__ESTIMATED___REVOLUTION_AND_YOUTH_DAY: &str = "Eid al-Fitr (estimated); Revolution and Youth Day";
+pub static _EID_AL_FITR__ESTIMATED___REVOLUTION_DAY: &str = "Eid al-Fitr (estimated); Revolution Day";
+pub static _EID_AL_FITR__ESTIMATED___SPRING_FESTIVAL: &str = "Eid al-Fitr (estimated); Spring Festival";
+pub static _EID_AL_FITR__ESTIMATED___UMUGANURA_DAY: &str = "Eid al-Fitr (estimated); Umuganura Day";
+pub static _EID_AL_FITR__ESTIMATED___UNITY_DAY: &str = "Eid al-Fitr (estimated); Unity Day";
 pub static _EID_AL_FITR__ESTIMATED___VICTORY_DAY: &str = "Eid al-Fitr (estimated); Victory Day";
+pub static _EID_AL_FITR__GANDHI_JAYANTI: &str = "Eid al-Fitr; Gandhi Jayanti";
+pub static _EID_AL_FITR__INDEPENDENCE_DAY: &str = "Eid al-Fitr; Independence Day";
 pub static _EID_AL_FITR__INTERNATIONAL_LABOR_DAY: &str = "Eid al-Fitr; International Labor Day";
+pub static _EID_AL_FITR__INTERNATIONAL_LABOR_DAY__OBSERVED_: &str = "Eid al-Fitr; International Labor Day (observed)";
 pub static _EID_AL_FITR__INTERNATIONAL_TRADE_FAIR: &str = "Eid al-Fitr; International Trade Fair";
+pub static _EID_AL_FITR__LABOR_DAY: &str = "Eid al-Fitr; Labor Day";
+pub static _EID_AL_FITR__LABOR_DAY__OBSERVED_: &str = "Eid al-Fitr; Labor Day (observed)";
 pub static _EID_AL_FITR__LABOUR_DAY__OBSERVED_: &str = "Eid al-Fitr; Labour Day (observed)";
 pub static _EID_AL_FITR__NATIONAL_DAY: &str = "Eid al-Fitr; National Day";
 pub static _EID_AL_FITR__NATIONAL_LIBERATION_DAY: &str = "Eid al-Fitr; National Liberation Day";
-pub static _EID_AL_FITR__NATIONAL_SOVEREIGNTY_AND_CHILDREN_S_DAY: &str =
-    "Eid al-Fitr; National Sovereignty and Children's Day";
+pub static _EID_AL_FITR__NATIONAL_SOVEREIGNTY_AND_CHILDREN_S_DAY: &str = "Eid al-Fitr; National Sovereignty and Children's Day";
 pub static _EID_AL_FITR__OBSERVED_: &str = "Eid al-Fitr (observed)";
 pub static _EID_AL_FITR__OBSERVED__ESTIMATED_: &str = "Eid al-Fitr (observed, estimated)";
-pub static _EID_AL_FITR__OBSERVED__ESTIMATED___NEW_YEAR_S_DAY__OBSERVED_: &str =
-    "Eid al-Fitr (observed, estimated); New Year's Day (observed)";
-pub static _EID_AL_FITR__OBSERVED__ESTIMATED___SPRING_FESTIVAL__OBSERVED_: &str =
-    "Eid al-Fitr (observed, estimated); Spring Festival (observed)";
-pub static _EID_AL_FITR__OBSERVED__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str =
-    "Eid al-Fitr (observed, estimated); Sultan Hassanal Bolkiah's Birthday";
-pub static _EID_AL_FITR__OBSERVED__ESTIMATED___VICTORY_DAY__OBSERVED_: &str =
-    "Eid al-Fitr (observed, estimated); Victory Day (observed)";
-pub static _EID_AL_FITR__PEASANTS_DAY: &str = "Eid al-Fitr; Peasants Day";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___INDEPENDENCE_DAY__OBSERVED_: &str = "Eid al-Fitr (observed, estimated); Independence Day (observed)";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___NEW_YEAR_S_DAY__OBSERVED_: &str = "Eid al-Fitr (observed, estimated); New Year's Day (observed)";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___SPRING_FESTIVAL__OBSERVED_: &str = "Eid al-Fitr (observed, estimated); Spring Festival (observed)";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str = "Eid al-Fitr (observed, estimated); Sultan Hassanal Bolkiah's Birthday";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___UNITY_DAY__OBSERVED_: &str = "Eid al-Fitr (observed, estimated); Unity Day (observed)";
+pub static _EID_AL_FITR__OBSERVED__ESTIMATED___VICTORY_DAY__OBSERVED_: &str = "Eid al-Fitr (observed, estimated); Victory Day (observed)";
+pub static _EID_AL_FITR__OBSERVED___INTERNATIONAL_LABOR_DAY__OBSERVED_: &str = "Eid al-Fitr (observed); International Labor Day (observed)";
+pub static _EID_AL_FITR__OBSERVED___SAINTS_CYRIL_AND_METHODIUS_DAY__OBSERVED_: &str = "Eid al-Fitr (observed); Saints Cyril and Methodius Day (observed)";
+pub static _EID_AL_FITR__OBSERVED___THE_MWALIMU_NYERERE_DAY_AND_CLIMAX_OF_THE_UHURU_TORCH_RACE__OBSERVED_: &str = "Eid al-Fitr (observed); The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race (observed)";
+pub static _EID_AL_FITR__PEASANTS__DAY: &str = "Eid al-Fitr; Peasants' Day";
+pub static _EID_AL_FITR__SAINTS_CYRIL_AND_METHODIUS_DAY: &str = "Eid al-Fitr; Saints Cyril and Methodius Day";
 pub static _EID_AL_FITR__SECOND_DAY_: &str = "Eid al-Fitr (Second Day)";
 pub static _EID_AL_FITR__SECOND_DAY___ESTIMATED_: &str = "Eid al-Fitr (Second Day) (estimated)";
-pub static _EID_AL_FITR__SECOND_DAY___ESTIMATED___MALAYSIA_DAY: &str =
-    "Eid al-Fitr (Second Day) (estimated); Malaysia Day";
+pub static _EID_AL_FITR__SECOND_DAY___ESTIMATED___MALAYSIA_DAY: &str = "Eid al-Fitr (Second Day) (estimated); Malaysia Day";
 pub static _EID_AL_FITR__SECOND_DAY___OBSERVED_: &str = "Eid al-Fitr (Second Day) (observed)";
-pub static _EID_AL_FITR__SECOND_DAY___OBSERVED__ESTIMATED_: &str =
-    "Eid al-Fitr (Second Day) (observed, estimated)";
-pub static _EID_AL_FITR__TEACHERS_AND_INSTRUCTORS_DAY: &str =
-    "Eid al-Fitr; Teachers and Instructors Day";
+pub static _EID_AL_FITR__SECOND_DAY___OBSERVED__ESTIMATED_: &str = "Eid al-Fitr (Second Day) (observed, estimated)";
+pub static _EID_AL_FITR__TEACHERS_AND_INSTRUCTORS_DAY: &str = "Eid al-Fitr; Teachers and Instructors Day";
+pub static _EID_AL_FITR__THE_MWALIMU_NYERERE_DAY_AND_CLIMAX_OF_THE_UHURU_TORCH_RACE: &str = "Eid al-Fitr; The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race";
 pub static _EID_AL_FITR__VICTORY_DAY: &str = "Eid al-Fitr; Victory Day";
+pub static _EID_AL_GHADEER: &str = "Eid al-Ghadeer";
 pub static _EID_AL_GHADEER__ESTIMATED_: &str = "Eid al-Ghadeer (estimated)";
-pub static _EID_AL_GHADEER__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Eid al-Ghadeer (estimated); Iranian Oil Industry Nationalization Day";
-pub static _EID_EL_FITR_HOLIDAY__ESTIMATED_: &str = "Eid-el-Fitr Holiday (estimated)";
-pub static _EID_EL_FITR_HOLIDAY__ESTIMATED___OBSERVED_: &str =
-    "Eid-el-Fitr Holiday (estimated) (observed)";
-pub static _EID_EL_FITR__ESTIMATED_: &str = "Eid-el-Fitr (estimated)";
-pub static _EID_EL_FITR__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid-el-Fitr (estimated); Independence Day";
-pub static _EID_EL_FITR__ESTIMATED___OBSERVED_: &str = "Eid-el-Fitr (estimated) (observed)";
-pub static _EID_EL_KABIR_HOLIDAY__ESTIMATED_: &str = "Eid-el-Kabir Holiday (estimated)";
-pub static _EID_EL_KABIR_HOLIDAY__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid-el-Kabir Holiday (estimated); Independence Day";
-pub static _EID_EL_KABIR_HOLIDAY__ESTIMATED___NEW_YEAR_S_DAY: &str =
-    "Eid-el-Kabir Holiday (estimated); New Year's Day";
-pub static _EID_EL_KABIR_HOLIDAY__ESTIMATED___OBSERVED_: &str =
-    "Eid-el-Kabir Holiday (estimated) (observed)";
-pub static _EID_EL_KABIR__ESTIMATED_: &str = "Eid-el-Kabir (estimated)";
-pub static _EID_EL_KABIR__ESTIMATED___OBSERVED_: &str = "Eid-el-Kabir (estimated) (observed)";
-pub static _EID_EL_MAWLID__ESTIMATED_: &str = "Eid-el-Mawlid (estimated)";
-pub static _EID_EL_MAWLID__ESTIMATED___OBSERVED_: &str = "Eid-el-Mawlid (estimated) (observed)";
-pub static _EID_EL_MAWLID__ESTIMATED___WORKERS__DAY: &str =
-    "Eid-el-Mawlid (estimated); Workers' Day";
-pub static _EID_MILAD_UN_NABI: &str = "Eid Milad-un-Nabi";
-pub static _EID_MILAD_UN_NABI__ESTIMATED_: &str = "Eid Milad-un-Nabi (estimated)";
-pub static _EID_MILAD_UN_NABI__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid Milad-un-Nabi (estimated); Independence Day";
-pub static _EID_MILAD_UN_NABI__ESTIMATED___LABOUR_DAY: &str =
-    "Eid Milad-un-Nabi (estimated); Labour Day";
-pub static _EID_MILAD_UN_NABI__KASHMIR_SOLIDARITY_DAY: &str =
-    "Eid Milad-un-Nabi; Kashmir Solidarity Day";
-pub static _EID_UL_ADHA: &str = "Eid-ul-Adha";
+pub static _EID_AL_GHADEER__ESTIMATED___IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str = "Eid al-Ghadeer (estimated); Iranian Oil Industry Nationalization Day";
+pub static _EID_AL_GHADIR: &str = "Eid al-Ghadir";
+pub static _EID_AL_GHADIR__ESTIMATED_: &str = "Eid al-Ghadir (estimated)";
 pub static _EID_UL_ADHA__ESTIMATED_: &str = "Eid ul-Adha (estimated)";
-pub static _EID_UL_ADHA__ESTIMATED___PAKISTAN_DAY: &str = "Eid-ul-Adha (estimated); Pakistan Day";
-pub static _EID_UL_ADHA__INDEPENDENCE_DAY: &str = "Eid-ul-Adha; Independence Day";
-pub static _EID_UL_ADHA__IQBAL_DAY: &str = "Eid-ul-Adha; Iqbal Day";
 pub static _EID_UL_ADHA__OBSERVED__ESTIMATED_: &str = "Eid ul-Adha (observed, estimated)";
-pub static _EID_UL_ADHA__OBSERVED__ESTIMATED___KWAME_NKRUMAH_MEMORIAL_DAY: &str =
-    "Eid ul-Adha (observed, estimated); Kwame Nkrumah Memorial Day";
-pub static _EID_UL_FITR: &str = "Eid-ul-Fitr";
-pub static _EID_UL_FITR__ESTIMATED_: &str = "Eid ul Fitr (estimated)";
-pub static _EID_UL_FITR__ESTIMATED___GANDHI_JAYANTI: &str =
-    "Eid ul-Fitr (estimated); Gandhi Jayanti";
-pub static _EID_UL_FITR__ESTIMATED___INDEPENDENCE_DAY: &str =
-    "Eid ul Fitr (estimated); Independence Day";
-pub static _EID_UL_FITR__ESTIMATED___IQBAL_DAY: &str = "Eid-ul-Fitr (estimated); Iqbal Day";
-pub static _EID_UL_FITR__ESTIMATED___KASHMIR_SOLIDARITY_DAY: &str =
-    "Eid-ul-Fitr (estimated); Kashmir Solidarity Day";
-pub static _EID_UL_FITR__ESTIMATED___LABOUR_DAY__OBSERVED_: &str =
-    "Eid ul Fitr (estimated); Labour Day (observed)";
-pub static _EID_UL_FITR__ESTIMATED___MAKAR_SANKRANTI___PONGAL: &str =
-    "Eid ul-Fitr (estimated); Makar Sankranti / Pongal";
-pub static _EID_UL_FITR__ESTIMATED___MAY_DAY__OBSERVED_: &str =
-    "Eid ul-Fitr (estimated); May Day (observed)";
-pub static _EID_UL_FITR__ESTIMATED___OBSERVED_: &str = "Eid ul Fitr (estimated) (observed)";
-pub static _EID_UL_FITR__ESTIMATED___PRINCE_LOUIS_RWAGASORE_DAY: &str =
-    "Eid ul Fitr (estimated); Prince Louis Rwagasore Day";
-pub static _EID_UL_FITR__ESTIMATED___QUAID_E_AZAM_DAY: &str =
-    "Eid-ul-Fitr (estimated); Quaid-e-Azam Day";
+pub static _EID_UL_ADHA__OBSERVED__ESTIMATED___KWAME_NKRUMAH_MEMORIAL_DAY: &str = "Eid ul-Adha (observed, estimated); Kwame Nkrumah Memorial Day";
+pub static _EID_UL_FITR__ESTIMATED_: &str = "Eid ul-Fitr (estimated)";
+pub static _EID_UL_FITR__ESTIMATED___MAY_DAY__OBSERVED_: &str = "Eid ul-Fitr (estimated); May Day (observed)";
 pub static _EID_UL_FITR__OBSERVED__ESTIMATED_: &str = "Eid ul-Fitr (observed, estimated)";
-pub static _EID_UL_FITR__OBSERVED__ESTIMATED___FOUNDER_S_DAY: &str =
-    "Eid ul-Fitr (observed, estimated); Founder's Day";
-pub static _EID_UL_FITR__OBSERVED__ESTIMATED___NEW_YEAR_S_DAY__OBSERVED_: &str =
-    "Eid ul-Fitr (observed, estimated); New Year's Day (observed)";
+pub static _EID_UL_FITR__OBSERVED__ESTIMATED___FOUNDER_S_DAY: &str = "Eid ul-Fitr (observed, estimated); Founder's Day";
+pub static _EID_UL_FITR__OBSERVED__ESTIMATED___NEW_YEAR_S_DAY__OBSERVED_: &str = "Eid ul-Fitr (observed, estimated); New Year's Day (observed)";
+pub static _EKADASHI__DASHAIN_: &str = "Ekadashi (Dashain)";
 pub static _ELECTIONS_SPECIAL__NON_WORKING__DAY: &str = "Elections special (non-working) day";
 pub static _ELECTION_DAY: &str = "Election Day";
+pub static _ELECTION_PARTIAL_DAY_HOLIDAY: &str = "Election Partial Day Holiday";
 pub static _EMANCIPATION_DAY: &str = "Emancipation Day";
-pub static _EMANCIPATION_DAY__INDEPENDENCE_DAY__OBSERVED_: &str =
-    "Emancipation Day; Independence Day (observed)";
+pub static _EMANCIPATION_DAY__INDEPENDENCE_DAY__OBSERVED_: &str = "Emancipation Day; Independence Day (observed)";
 pub static _EMANCIPATION_DAY__KADOOMENT_DAY: &str = "Emancipation Day; Kadooment Day";
 pub static _EMANCIPATION_DAY__OBSERVED_: &str = "Emancipation Day (observed)";
-pub static _EMERGENCY_LOCKDOWN__2011_THAILAND_FLOODS_: &str =
-    "Emergency Lockdown (2011 Thailand Floods)";
-pub static _EMERGENCY_LOCKDOWN__THAI_MILITARY_COUP_D__TAT_: &str =
-    "Emergency Lockdown (Thai Military Coup d'état)";
-pub static _EMERGENCY_LOCKDOWN__THAI_POLITICAL_UNREST_: &str =
-    "Emergency Lockdown (Thai Political Unrest)";
+pub static _EMANCIPATION_MONDAY: &str = "Emancipation Monday";
+pub static _EMANCIPATION_TUESDAY: &str = "Emancipation Tuesday";
+pub static _EMANCIPATION_WEDNESDAY: &str = "Emancipation Wednesday";
+pub static _EMERGENCY_LOCKDOWN__2011_THAILAND_FLOODS_: &str = "Emergency Lockdown (2011 Thailand Floods)";
+pub static _EMERGENCY_LOCKDOWN__THAI_MILITARY_COUP_D__TAT_: &str = "Emergency Lockdown (Thai Military Coup d'état)";
+pub static _EMERGENCY_LOCKDOWN__THAI_POLITICAL_UNREST_: &str = "Emergency Lockdown (Thai Political Unrest)";
 pub static _EMPEROR_S_BIRTHDAY: &str = "Emperor's Birthday";
 pub static _EMPEROR_S_ENTHRONEMENT_DAY: &str = "Emperor's Enthronement Day";
+pub static _ENVIRONMENT_DAY: &str = "Environment Day";
+pub static _ENVIRONMENT_DAY__OBSERVED_: &str = "Environment Day (observed)";
 pub static _EPIFANIA_DEL_SIGNORE: &str = "Epifania del Signore";
 pub static _EPIPHANY: &str = "Epiphany";
-pub static _EPIPHANY_DAY: &str = "Epiphany Day";
-pub static _EPIPHANY_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Epiphany Day; Prophet's Birthday (estimated)";
 pub static _EPIPHANY__OBSERVED_: &str = "Epiphany (observed)";
+pub static _EPIPHANY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Epiphany; Prophet's Birthday (estimated)";
 pub static _EPIPHANY__SUNDAY: &str = "Epiphany; Sunday";
-pub static _EPIPHANY__THREE_KINGS__DAY_AND_ORTHODOX_CHRISTMAS_: &str =
-    "Epiphany (Three Kings' Day and Orthodox Christmas)";
+pub static _EPIPHANY__THREE_KINGS__DAY_AND_ORTHODOX_CHRISTMAS_: &str = "Epiphany (Three Kings' Day and Orthodox Christmas)";
 pub static _ERROL_BARROW_DAY: &str = "Errol Barrow Day";
 pub static _ERROL_BARROW_DAY__OBSERVED_: &str = "Errol Barrow Day (observed)";
+pub static _ESALA_FULL_MOON_POYA_DAY: &str = "Esala Full Moon Poya Day";
 pub static _ETHIOPIAN_NEW_YEAR: &str = "Ethiopian New Year";
+pub static _ETHIOPIAN_PATRIOTS__VICTORY_DAY: &str = "Ethiopian Patriots' Victory Day";
 pub static _EUROPE_DAY: &str = "Europe Day";
 pub static _EUROPE_DAY__VICTORY_DAY_AND_COMMEMORATION_OF_THE_HEROES_FALLEN_FOR_INDEPENDENCE_OF_FATHERLAND: &str = "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland";
+pub static _EVACUATION_COMMEMORATION_DAY: &str = "Evacuation Commemoration Day";
 pub static _EVACUATION_DAY: &str = "Evacuation Day";
-pub static _EXTRA_PUBLIC_HOLIDAY_FOR_THE_CORONATION_OF_KING_CHARLES_III: &str =
-    "Extra Public Holiday for the Coronation of King Charles III";
+pub static _EXTRA_PUBLIC_HOLIDAY_FOR_THE_CORONATION_OF_KING_CHARLES_III: &str = "Extra Public Holiday for the Coronation of King Charles III";
+pub static _FAGU_POORNIMA: &str = "Fagu Poornima";
+pub static _FAGU_POORNIMA__INTERNATIONAL_WOMEN_S_DAY: &str = "Fagu Poornima; International Women's Day";
+pub static _FAGU_POORNIMA__TERAI_: &str = "Fagu Poornima (Terai)";
+pub static _FAGU_POORNIMA__TERAI___INTERNATIONAL_WOMEN_S_DAY: &str = "Fagu Poornima (Terai); International Women's Day";
+pub static _FALKLAND_DAY: &str = "Falkland Day";
 pub static _FAMILY_DAY: &str = "Family Day";
 pub static _FAMILY_DAY__OBSERVED_: &str = "Family Day (observed)";
 pub static _FARMERS__DAY: &str = "Farmers' Day";
 pub static _FARMER_S_DAY: &str = "Farmer's Day";
+pub static _FASTING_AND_PRAYER_DAY: &str = "Fasting and Prayer Day";
 pub static _FATHERLAND_DEFENDER_S_DAY: &str = "Fatherland Defender's Day";
 pub static _FATHER_LINI_DAY: &str = "Father Lini Day";
 pub static _FATHER_LINI_DAY__OBSERVED_: &str = "Father Lini Day (observed)";
 pub static _FATHER_S_DAY: &str = "Father's Day";
 pub static _FAT_TUESDAY: &str = "Fat Tuesday";
 pub static _FEAST_OF_OUR_LADY_OF_VICTORIES: &str = "Feast of Our Lady of Victories";
-pub static _FEAST_OF_PENTECOST: &str = "Feast of Pentecost";
-pub static _FEAST_OF_SAINT_AGATHA: &str = "Feast of Saint Agatha";
 pub static _FEAST_OF_SAINT_JOSEPH: &str = "Feast of Saint Joseph";
 pub static _FEAST_OF_SAINT_PAUL_S_SHIPWRECK: &str = "Feast of Saint Paul's Shipwreck";
 pub static _FEAST_OF_SAINT_PETER_AND_SAINT_PAUL: &str = "Feast of Saint Peter and Saint Paul";
+pub static _FEAST_OF_SAINT_PETER_CHANEL: &str = "Feast of Saint Peter Chanel";
+pub static _FEAST_OF_THE_ANNUNCIATION: &str = "Feast of the Annunciation";
+pub static _FEAST_OF_THE_ANNUNCIATION__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Feast of the Annunciation; Prophet's Birthday (estimated)";
 pub static _FEAST_OF_THE_ASSUMPTION: &str = "Feast of the Assumption";
 pub static _FEAST_OF_THE_IMMACULATE_CONCEPTION: &str = "Feast of the Immaculate Conception";
+pub static _FEBRUARY_8_REVOLUTION: &str = "February 8 Revolution";
 pub static _FEDERAL_ELECTION_VICTORY_DAY: &str = "Federal Election Victory Day";
+pub static _FEDERATED_STATES_OF_MICRONESIA_DAY: &str = "Federated States of Micronesia Day";
+pub static _FEDERATED_STATES_OF_MICRONESIA_DAY__OBSERVED_: &str = "Federated States of Micronesia Day (observed)";
 pub static _FESTA_DEI_LAVORATORI: &str = "Festa dei Lavoratori";
 pub static _FESTA_DELLA_LIBERAZIONE: &str = "Festa della Liberazione";
-pub static _FESTA_DELLA_LIBERAZIONE__LUNED__DELL_ANGELO: &str =
-    "Festa della Liberazione; Lunedì dell'Angelo";
-pub static _FESTA_DELLA_LIBERAZIONE__PASQUA_DI_RESURREZIONE: &str =
-    "Festa della Liberazione; Pasqua di Resurrezione";
+pub static _FESTA_DELLA_LIBERAZIONE__LUNED__DELL_ANGELO: &str = "Festa della Liberazione; Lunedì dell'Angelo";
+pub static _FESTA_DELLA_LIBERAZIONE__PASQUA_DI_RESURREZIONE: &str = "Festa della Liberazione; Pasqua di Resurrezione";
 pub static _FESTA_DELLA_REPUBBLICA: &str = "Festa della Repubblica";
+pub static _FESTIVAL_DAY: &str = "Festival Day";
+pub static _FESTIVAL_DAY__OBSERVED_: &str = "Festival Day (observed)";
+pub static _FESTIVAL_MONDAY: &str = "Festival Monday";
+pub static _FESTIVAL_TUESDAY: &str = "Festival Tuesday";
+pub static _FESTIVAL_WEDNESDAY: &str = "Festival Wednesday";
+pub static _FIFA_WORLD_CUP_2022_VICTORY_DAY: &str = "FIFA World Cup 2022 Victory Day";
 pub static _FIFTH_DAY_OF_LUNAR_NEW_YEAR: &str = "Fifth Day of Lunar New Year";
+pub static _FIJI_DAY: &str = "Fiji Day";
+pub static _FINAL_DEPARTURE_OF_R_M_S__ST_HELENA: &str = "Final Departure of R.M.S. St Helena";
+pub static _FINDING_OF_THE_TRUE_CROSS: &str = "Finding of the True Cross";
 pub static _FINDING_OF_TRUE_CROSS: &str = "Finding of True Cross";
 pub static _FIRST_DAY_OF_RAMADAN: &str = "First Day of Ramadan";
 pub static _FIRST_DAY_OF_RAMADAN__ESTIMATED_: &str = "First Day of Ramadan (estimated)";
-pub static _FIRST_DAY_OF_RAMADAN__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str =
-    "First Day of Ramadan (estimated); Sultan Hassanal Bolkiah's Birthday";
+pub static _FIRST_DAY_OF_RAMADAN__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str = "First Day of Ramadan (estimated); Sultan Hassanal Bolkiah's Birthday";
 pub static _FIRST_DAY_OF_RAMADAN__OBSERVED_: &str = "First Day of Ramadan (observed)";
-pub static _FIRST_DAY_OF_RAMADAN__OBSERVED__ESTIMATED_: &str =
-    "First Day of Ramadan (observed, estimated)";
+pub static _FIRST_DAY_OF_RAMADAN__OBSERVED__ESTIMATED_: &str = "First Day of Ramadan (observed, estimated)";
 pub static _FIRST_DAY_OF_SUMMER: &str = "First Day of Summer";
 pub static _FIRST_DAY_OF_SUMMER__MAUNDY_THURSDAY: &str = "First Day of Summer; Maundy Thursday";
 pub static _FIRST_PRESIDENT_DAY: &str = "First President Day";
 pub static _FIRST_PRESIDENT_DAY__OBSERVED_: &str = "First President Day (observed)";
+pub static _FIRST_SERMON_OF_LORD_BUDDHA: &str = "First Sermon of Lord Buddha";
 pub static _FISHERMAN_S_DAY: &str = "Fisherman's Day";
 pub static _FLAG_AND_INDEPENDENCE_DAY: &str = "Flag and Independence Day";
 pub static _FLAG_AND_INDEPENDENCE_DAY__OBSERVED_: &str = "Flag and Independence Day (observed)";
 pub static _FLAG_DAY_AND_UNIVERSITY_DAY: &str = "Flag Day and University Day";
+pub static _FLORA_DUFFY_DAY: &str = "Flora Duffy Day";
 pub static _FOUNDATION_DAY: &str = "Foundation Day";
+pub static _FOUNDATION_DAY__OBSERVED_: &str = "Foundation Day (observed)";
 pub static _FOUNDERS__DAY: &str = "Founders' Day";
 pub static _FOUNDERS__DAY__OBSERVED_: &str = "Founders' Day (observed)";
 pub static _FOUNDER_S_DAY: &str = "Founder's Day";
@@ -1385,22 +1503,25 @@ pub static _FOUNDER_S_DAY__OBSERVED_: &str = "Founder's Day (observed)";
 pub static _FOUNDING_DAY_HOLIDAY: &str = "Founding Day Holiday";
 pub static _FOUNDING_DAY_HOLIDAY__OBSERVED_: &str = "Founding Day Holiday (observed)";
 pub static _FOUNDING_DAY_OF_THE_REPUBLIC_OF_CHINA: &str = "Founding Day of the Republic of China";
-pub static _FOUNDING_DAY_OF_THE_REPUBLIC_OF_CHINA__OBSERVED_: &str =
-    "Founding Day of the Republic of China (observed)";
+pub static _FOUNDING_DAY_OF_THE_REPUBLIC_OF_CHINA__OBSERVED_: &str = "Founding Day of the Republic of China (observed)";
 pub static _FOURTH_DAY_OF_LUNAR_NEW_YEAR: &str = "Fourth Day of Lunar New Year";
 pub static _FREEDOM_AND_DEMOCRACY_DAY: &str = "Freedom and Democracy Day";
 pub static _FREEDOM_AND_DEMOCRACY_DAY__MAWLID: &str = "Freedom and Democracy Day; Mawlid";
 pub static _FREEDOM_AND_DEMOCRACY_DAY__OBSERVED_: &str = "Freedom and Democracy Day (observed)";
 pub static _FREEDOM_DAY: &str = "Freedom Day";
 pub static _FREEDOM_DAY__OBSERVED_: &str = "Freedom Day (observed)";
-pub static _FUNERAL_OF_HER_MAJESTY_QUEEN_ELIZABETH_II: &str =
-    "Funeral of Her Majesty Queen Elizabeth II";
+pub static _FSM_VETERANS_OF_FOREIGN_WARS_DAY: &str = "FSM Veterans of Foreign Wars Day";
+pub static _FSM_VETERANS_OF_FOREIGN_WARS_DAY__OBSERVED_: &str = "FSM Veterans of Foreign Wars Day (observed)";
+pub static _FULPATI: &str = "Fulpati";
+pub static _FUNERAL_OF_HER_MAJESTY_QUEEN_ELIZABETH_II: &str = "Funeral of Her Majesty Queen Elizabeth II";
 pub static _FUNERAL_OF_IDRISS_D_BY_ITNO: &str = "Funeral of Idriss Déby Itno";
 pub static _FUNERAL_OF_KENNETH_KAUNDA: &str = "Funeral of Kenneth Kaunda";
 pub static _FUNERAL_OF_RUPIAH_BANDA: &str = "Funeral of Rupiah Banda";
-pub static _FUNERAL_OF_THE_FORMER_PRESIDENT_FRANCE_ALBERT_REN_: &str =
-    "Funeral of the Former President France Albert René";
+pub static _FUNERAL_OF_THE_FORMER_PRESIDENT_FRANCE_ALBERT_REN_: &str = "Funeral of the Former President France Albert René";
+pub static _GAI_TIHAR: &str = "Gai Tihar";
+pub static _GAI_TIHAR__LAXMI_POOJA: &str = "Gai Tihar; Laxmi Pooja";
 pub static _GANDHI_JAYANTI: &str = "Gandhi Jayanti";
+pub static _GANESH_CHATURTHI: &str = "Ganesh Chaturthi";
 pub static _GARIFUNA_SETTLEMENT_DAY: &str = "Garifuna Settlement Day";
 pub static _GARIFUNA_SETTLEMENT_DAY__OBSERVED_: &str = "Garifuna Settlement Day (observed)";
 pub static _GENERAL_ELECTIONS: &str = "General elections";
@@ -1408,42 +1529,55 @@ pub static _GENERAL_ELECTIONS_AND_REFERENDUM: &str = "General elections and refe
 pub static _GENERAL_ELECTION_ADDITIONAL_HOLIDAY: &str = "General election additional holiday";
 pub static _GENERAL_ELECTION_DAY: &str = "General Election Day";
 pub static _GENERAL_ELECTION_DAY__PRESIDENT_S_DAY: &str = "General Election Day; President's Day";
-pub static _GENERAL_ELECTION_DAY__PRESIDENT_S_DAY_HOLIDAY: &str =
-    "General Election Day; President's Day Holiday";
-pub static _GENERAL_LATVIAN_SONG_AND_DANCE_FESTIVAL_CLOSING_DAY: &str =
-    "General Latvian Song and Dance Festival closing day";
+pub static _GENERAL_ELECTION_DAY__PRESIDENT_S_DAY_HOLIDAY: &str = "General Election Day; President's Day Holiday";
+pub static _GENERAL_LATVIAN_SONG_AND_DANCE_FESTIVAL_CLOSING_DAY: &str = "General Latvian Song and Dance Festival closing day";
+pub static _GENERAL_PRAYER_DAY: &str = "General Prayer Day";
+pub static _GENGHIS_KHAN_S_BIRTHDAY: &str = "Genghis Khan's Birthday";
+pub static _GENGHIS_KHAN_S_BIRTHDAY__REPUBLIC_DAY: &str = "Genghis Khan's Birthday; Republic Day";
 pub static _GENOCIDE_MEMORIAL_DAY: &str = "Genocide Memorial Day";
+pub static _GENOCIDE_REMEMBRANCE_DAY: &str = "Genocide Remembrance Day";
 pub static _GEORGE_PRICE_DAY: &str = "George Price Day";
 pub static _GEORGE_PRICE_DAY__OBSERVED_: &str = "George Price Day (observed)";
 pub static _GERMAN_UNITY_DAY: &str = "German Unity Day";
+pub static _GHATASTHAPANA: &str = "Ghatasthapana";
+pub static _GIBRALTAR_NATIONAL_DAY: &str = "Gibraltar National Day";
+pub static _GIBRALTAR_NATIONAL_DAY__OBSERVED_: &str = "Gibraltar National Day (observed)";
+pub static _GIRMIT_DAY: &str = "Girmit Day";
 pub static _GLORIFYING_MOTHER_OF_GOD: &str = "Glorifying Mother of God";
+pub static _GLORIOUS_JULY_REVOLUTION_DAY: &str = "Glorious July Revolution Day";
+pub static _GOBARDHAN_POOJA__MHA_POOJA: &str = "Gobardhan Pooja; Mha Pooja";
 pub static _GOLDEN_JUBILEE_OF_ELIZABETH_II: &str = "Golden Jubilee of Elizabeth II";
 pub static _GOOD_FRIDAY: &str = "Good Friday";
 pub static _GOOD_FRIDAY__HOLI: &str = "Good Friday; Holi";
 pub static _GOOD_FRIDAY__HUMAN_RIGHTS_DAY: &str = "Good Friday; Human Rights Day";
 pub static _GOOD_FRIDAY__INDEPENDENCE_DAY: &str = "Good Friday; Independence Day";
+pub static _GOOD_FRIDAY__INTERNATIONAL_WORKERS__DAY: &str = "Good Friday; International Workers' Day";
 pub static _GOOD_FRIDAY__JUAN_SANTAMAR_A_DAY: &str = "Good Friday; Juan Santamaría Day";
 pub static _GOOD_FRIDAY__KING_S_BIRTHDAY: &str = "Good Friday; King's Birthday";
 pub static _GOOD_FRIDAY__LABOR_DAY: &str = "Good Friday; Labor Day";
-pub static _GOOD_FRIDAY__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Good Friday; Labor Day and International Workers' Solidarity Day";
+pub static _GOOD_FRIDAY__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Good Friday; Labor Day and International Workers' Solidarity Day";
+pub static _GOOD_FRIDAY__MEDIN_FULL_MOON_POYA_DAY: &str = "Good Friday; Medin Full Moon Poya Day";
+pub static _GOOD_FRIDAY__MEMORIAL_DAY_OF_GENOCIDE_PERPETRATED_AGAINST_THE_TUTSI_IN_1994: &str = "Good Friday; Memorial Day of Genocide perpetrated against the Tutsi in 1994";
+pub static _GOOD_FRIDAY__NATIONAL_HEALTH_DAY: &str = "Good Friday; National Health Day";
 pub static _GOOD_FRIDAY__NATIONAL_UNITY_DAY: &str = "Good Friday; National Unity Day";
+pub static _GOOD_FRIDAY__OBSERVED___SPIRITUAL_BAPTIST_LIBERATION_DAY__OBSERVED_: &str = "Good Friday (observed); Spiritual Baptist Liberation Day (observed)";
 pub static _GOOD_FRIDAY__PANAMERICAN_DAY: &str = "Good Friday; Panamerican Day";
-pub static _GOOD_FRIDAY__PEACE_AND_NATIONAL_RECONCILIATION_DAY: &str =
-    "Good Friday; Peace and National Reconciliation Day";
-pub static _GOOD_FRIDAY__SOUTHERN_AFRICA_LIBERATION_DAY: &str =
-    "Good Friday; Southern Africa Liberation Day";
-pub static _GOOD_FRIDAY__THE_SHEIKH_ABEID_AMANI_KARUME_DAY: &str =
-    "Good Friday; The Sheikh Abeid Amani Karume Day";
+pub static _GOOD_FRIDAY__PEACE_AND_NATIONAL_RECONCILIATION_DAY: &str = "Good Friday; Peace and National Reconciliation Day";
+pub static _GOOD_FRIDAY__PROPHET_S_BIRTHDAY: &str = "Good Friday; Prophet's Birthday";
+pub static _GOOD_FRIDAY__QUEEN_S_BIRTHDAY: &str = "Good Friday; Queen's Birthday";
+pub static _GOOD_FRIDAY__SINHALA_AND_TAMIL_NEW_YEAR: &str = "Good Friday; Sinhala and Tamil New Year";
+pub static _GOOD_FRIDAY__SOUTHERN_AFRICA_LIBERATION_DAY: &str = "Good Friday; Southern Africa Liberation Day";
+pub static _GOOD_FRIDAY__SPIRITUAL_BAPTIST_LIBERATION_DAY: &str = "Good Friday; Spiritual Baptist Liberation Day";
+pub static _GOOD_FRIDAY__THE_SHEIKH_ABEID_AMANI_KARUME_DAY: &str = "Good Friday; The Sheikh Abeid Amani Karume Day";
 pub static _GOOD_FRIDAY__TIRADENTES__DAY: &str = "Good Friday; Tiradentes' Day";
-pub static _GOOD_FRIDAY__VETERANS_DAY_AND_THE_FALLEN_IN_THE_MALVINAS_WAR: &str =
-    "Good Friday; Veterans Day and the Fallen in the Malvinas War";
-pub static _GOOD_FRIDAY__WORKERS__DAY: &str = "Good Friday; Workers' Day";
+pub static _GOOD_FRIDAY__VETERAN_S_DAY_AND_THE_FALLEN_IN_THE_MALVINAS_WAR: &str = "Good Friday; Veteran's Day and the Fallen in the Malvinas War";
 pub static _GOSPEL_DAY: &str = "Gospel Day";
-pub static _GRAND_CHIEF_SIR_MICHAEL_SOMARE_REMEMBRANCE_DAY: &str =
-    "Grand Chief Sir Michael Somare Remembrance Day";
-pub static _GRAND_CHIEF_SIR_MICHAEL_SOMARE_REMEMBRANCE_DAY__OBSERVED_: &str =
-    "Grand Chief Sir Michael Somare Remembrance Day (observed)";
+pub static _GRAND_CHIEF_SIR_MICHAEL_SOMARE_REMEMBRANCE_DAY: &str = "Grand Chief Sir Michael Somare Remembrance Day";
+pub static _GRAND_CHIEF_SIR_MICHAEL_SOMARE_REMEMBRANCE_DAY__OBSERVED_: &str = "Grand Chief Sir Michael Somare Remembrance Day (observed)";
+pub static _GRAND_MAGAL_OF_TOUBA: &str = "Grand Magal of Touba";
+pub static _GRAND_MAGAL_OF_TOUBA__ESTIMATED_: &str = "Grand Magal of Touba (estimated)";
+pub static _GRAND_MAGAL_OF_TOUBA__ESTIMATED___INDEPENDENCE_DAY: &str = "Grand Magal of Touba (estimated); Independence Day";
+pub static _GREAT_AL_FATEH_REVOLUTION_DAY: &str = "Great Al-Fateh Revolution Day";
 pub static _GREAT_MILITARY_PARADE_DAY: &str = "Great Military Parade Day";
 pub static _GREAT_PRAYER_DAY: &str = "Great Prayer Day";
 pub static _GREEK_INDEPENDENCE_DAY: &str = "Greek Independence Day";
@@ -1451,110 +1585,107 @@ pub static _GREEK_NATIONAL_DAY: &str = "Greek National Day";
 pub static _GREENERY_DAY: &str = "Greenery Day";
 pub static _GREEN_MARCH: &str = "Green March";
 pub static _GREEN_MONDAY: &str = "Green Monday";
+pub static _GREGORIAN_EASTER_SUNDAY: &str = "Gregorian Easter Sunday";
+pub static _GREGORIAN_EASTER_SUNDAY__INDEPENDENCE_DAY: &str = "Gregorian Easter Sunday; Independence Day";
+pub static _GREGORIAN_EASTER_SUNDAY__JULIAN_EASTER_SUNDAY: &str = "Gregorian Easter Sunday; Julian Easter Sunday";
 pub static _GUAM_DISCOVERY_DAY: &str = "Guam Discovery Day";
+pub static _GURU_NANAK_JAYANTI: &str = "Guru Nanak Jayanti";
+pub static _GYALPO_LHOSAR: &str = "Gyalpo Lhosar";
+pub static _GYALPO_LHOSAR__ID_UL_FITR__ESTIMATED_: &str = "Gyalpo Lhosar; Id-ul-Fitr (estimated)";
+pub static _GYALPO_LHOSAR__ID_UL_FITR__ESTIMATED___SONAM_LHOCHHAR: &str = "Gyalpo Lhosar; Id-ul-Fitr (estimated); Sonam Lhochhar";
+pub static _GYALPO_LHOSAR__NATIONAL_DEMOCRACY_DAY: &str = "Gyalpo Lhosar; National Democracy Day";
+pub static _GYALPO_LHOSAR__SONAM_LHOCHHAR: &str = "Gyalpo Lhosar; Sonam Lhochhar";
 pub static _HAJJ_DAY__ESTIMATED_: &str = "Hajj Day (estimated)";
 pub static _HAJJ_DAY__ESTIMATED___REPUBLIC_DAY: &str = "Hajj Day (estimated); Republic Day";
 pub static _HANGUL_DAY: &str = "Hangul Day";
+pub static _HEIR_TO_THE_THRONE_S_BIRTHDAY: &str = "Heir to the Throne's Birthday";
 pub static _HERITAGE_DAY: &str = "Heritage Day";
 pub static _HERITAGE_DAY__OBSERVED_: &str = "Heritage Day (observed)";
+pub static _HEROES_AND_FOREPARENTS_DAY: &str = "Heroes and Foreparents Day";
 pub static _HEROES_DAY: &str = "Heroes Day";
 pub static _HEROES__DAY: &str = "Heroes' Day";
 pub static _HEROES__DAY__OBSERVED_: &str = "Heroes' Day (observed)";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_MEMORIAL_DAY: &str =
-    "HM King Bhumibol Adulyadej Memorial Day";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_MEMORIAL_DAY__IN_LIEU_: &str =
-    "HM King Bhumibol Adulyadej Memorial Day (in lieu)";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_60TH_ANNIVERSARY_OF_ACCESSION_EVENT: &str =
-    "HM King Bhumibol Adulyadej's 60th Anniversary of Accession Event";
+pub static _HIJRI_NEW_YEAR: &str = "Hijri New Year";
+pub static _HIJRI_NEW_YEAR__ESTIMATED_: &str = "Hijri New Year (estimated)";
+pub static _HIJRI_NEW_YEAR__ESTIMATED___LIBERATION_DAY: &str = "Hijri New Year (estimated); Liberation Day";
+pub static _HIJRI_NEW_YEAR__INDEPENDENCE_DAY: &str = "Hijri New Year; Independence Day";
+pub static _HIJRI_NEW_YEAR__OBSERVED__ESTIMATED_: &str = "Hijri New Year (observed, estimated)";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_MEMORIAL_DAY: &str = "HM King Bhumibol Adulyadej Memorial Day";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_MEMORIAL_DAY__IN_LIEU_: &str = "HM King Bhumibol Adulyadej Memorial Day (in lieu)";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_60TH_ANNIVERSARY_OF_ACCESSION_EVENT: &str = "HM King Bhumibol Adulyadej's 60th Anniversary of Accession Event";
 pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_BIRTHDAY__IN_LIEU___NATIONAL_DAY__IN_LIEU___NATIONAL_FATHER_S_DAY__IN_LIEU_: &str = "HM King Bhumibol Adulyadej's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_BIRTHDAY__NATIONAL_DAY__NATIONAL_FATHER_S_DAY: &str =
-    "HM King Bhumibol Adulyadej's Birthday; National Day; National Father's Day";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_ROYAL_CREMATION_CEREMONY: &str =
-    "HM King Bhumibol Adulyadej's Royal Cremation Ceremony";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_MEMORIAL_DAY: &str =
-    "HM King Bhumibol Adulyadej the Great Memorial Day";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_MEMORIAL_DAY__IN_LIEU_: &str =
-    "HM King Bhumibol Adulyadej the Great Memorial Day (in lieu)";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_BIRTHDAY__NATIONAL_DAY__NATIONAL_FATHER_S_DAY: &str = "HM King Bhumibol Adulyadej's Birthday; National Day; National Father's Day";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_S_ROYAL_CREMATION_CEREMONY: &str = "HM King Bhumibol Adulyadej's Royal Cremation Ceremony";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_MEMORIAL_DAY: &str = "HM King Bhumibol Adulyadej the Great Memorial Day";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_MEMORIAL_DAY__IN_LIEU_: &str = "HM King Bhumibol Adulyadej the Great Memorial Day (in lieu)";
 pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_S_BIRTHDAY__IN_LIEU___NATIONAL_DAY__IN_LIEU___NATIONAL_FATHER_S_DAY__IN_LIEU_: &str = "HM King Bhumibol Adulyadej the Great's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)";
-pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_S_BIRTHDAY__NATIONAL_DAY__NATIONAL_FATHER_S_DAY:
-    &str = "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day";
+pub static _HM_KING_BHUMIBOL_ADULYADEJ_THE_GREAT_S_BIRTHDAY__NATIONAL_DAY__NATIONAL_FATHER_S_DAY: &str = "HM King Bhumibol Adulyadej the Great's Birthday; National Day; National Father's Day";
 pub static _HM_KING_CHULALONGKORN_MEMORIAL_DAY: &str = "HM King Chulalongkorn Memorial Day";
-pub static _HM_KING_CHULALONGKORN_MEMORIAL_DAY__IN_LIEU_: &str =
-    "HM King Chulalongkorn Memorial Day (in lieu)";
+pub static _HM_KING_CHULALONGKORN_MEMORIAL_DAY__IN_LIEU_: &str = "HM King Chulalongkorn Memorial Day (in lieu)";
 pub static _HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY: &str = "HM King Maha Vajiralongkorn's Birthday";
-pub static _HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY__IN_LIEU_: &str =
-    "HM King Maha Vajiralongkorn's Birthday (in lieu)";
-pub static _HM_KING_MAHA_VAJIRALONGKORN_S_CORONATION_CELEBRATIONS: &str =
-    "HM King Maha Vajiralongkorn's Coronation Celebrations";
+pub static _HM_KING_MAHA_VAJIRALONGKORN_S_BIRTHDAY__IN_LIEU_: &str = "HM King Maha Vajiralongkorn's Birthday (in lieu)";
+pub static _HM_KING_MAHA_VAJIRALONGKORN_S_CORONATION_CELEBRATIONS: &str = "HM King Maha Vajiralongkorn's Coronation Celebrations";
 pub static _HM_KING_NORODOM_SIHAMONI_S_BIRTHDAY: &str = "HM King Norodom Sihamoni's Birthday";
-pub static _HM_KING_NORODOM_SIHAMONI_S_BIRTHDAY__ROYAL_PLOUGHING_CEREMONY: &str =
-    "HM King Norodom Sihamoni's Birthday; Royal Ploughing Ceremony";
-pub static _HM_KING_NORODOM_SIHAMONI_S_BIRTHDAY__VISAKA_BOCHEA_DAY: &str =
-    "HM King Norodom Sihamoni's Birthday; Visaka Bochea Day";
-pub static _HM_KING_NORODOM_SIHAMONI_S_CORONATION_DAY: &str =
-    "HM King Norodom Sihamoni's Coronation Day";
+pub static _HM_KING_NORODOM_SIHAMONI_S_BIRTHDAY__ROYAL_PLOUGHING_CEREMONY: &str = "HM King Norodom Sihamoni's Birthday; Royal Ploughing Ceremony";
+pub static _HM_KING_NORODOM_SIHAMONI_S_BIRTHDAY__VISAKA_BOCHEA_DAY: &str = "HM King Norodom Sihamoni's Birthday; Visaka Bochea Day";
+pub static _HM_KING_NORODOM_SIHAMONI_S_CORONATION_DAY: &str = "HM King Norodom Sihamoni's Coronation Day";
 pub static _HM_KING_NORODOM_SIHANOUK_MOURNING_DAY: &str = "HM King Norodom Sihanouk Mourning Day";
-pub static _HM_KING_NORODOM_SIHANOUK_MOURNING_DAY__PCHUM_BEN_DAY: &str =
-    "HM King Norodom Sihanouk Mourning Day; Pchum Ben Day";
-pub static _HM_QUEEN_NORODOM_MONINEATH_SIHANOUK_THE_QUEEN_MOTHER_S_BIRTHDAY: &str =
-    "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday";
-pub static _HM_QUEEN_SIRIKIT_S_BIRTHDAY__IN_LIEU___NATIONAL_MOTHER_S_DAY__IN_LIEU_: &str =
-    "HM Queen Sirikit's Birthday (in lieu); National Mother's Day (in lieu)";
-pub static _HM_QUEEN_SIRIKIT_S_BIRTHDAY__NATIONAL_MOTHER_S_DAY: &str =
-    "HM Queen Sirikit's Birthday; National Mother's Day";
+pub static _HM_KING_NORODOM_SIHANOUK_MOURNING_DAY__PCHUM_BEN_DAY: &str = "HM King Norodom Sihanouk Mourning Day; Pchum Ben Day";
+pub static _HM_QUEEN_NORODOM_MONINEATH_SIHANOUK_THE_QUEEN_MOTHER_S_BIRTHDAY: &str = "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday";
+pub static _HM_QUEEN_SIRIKIT_S_BIRTHDAY__IN_LIEU___NATIONAL_MOTHER_S_DAY__IN_LIEU_: &str = "HM Queen Sirikit's Birthday (in lieu); National Mother's Day (in lieu)";
+pub static _HM_QUEEN_SIRIKIT_S_BIRTHDAY__NATIONAL_MOTHER_S_DAY: &str = "HM Queen Sirikit's Birthday; National Mother's Day";
 pub static _HM_QUEEN_SIRIKIT_THE_QUEEN_MOTHER_S_BIRTHDAY__IN_LIEU___NATIONAL_MOTHER_S_DAY__IN_LIEU_: &str = "HM Queen Sirikit The Queen Mother's Birthday (in lieu); National Mother's Day (in lieu)";
-pub static _HM_QUEEN_SIRIKIT_THE_QUEEN_MOTHER_S_BIRTHDAY__NATIONAL_MOTHER_S_DAY: &str =
-    "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day";
+pub static _HM_QUEEN_SIRIKIT_THE_QUEEN_MOTHER_S_BIRTHDAY__NATIONAL_MOTHER_S_DAY: &str = "HM Queen Sirikit The Queen Mother's Birthday; National Mother's Day";
 pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY: &str = "HM Queen Suthida's Birthday";
 pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY__IN_LIEU_: &str = "HM Queen Suthida's Birthday (in lieu)";
-pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY__IN_LIEU___VISAKHA_BUCHA__IN_LIEU_: &str =
-    "HM Queen Suthida's Birthday (in lieu); Visakha Bucha (in lieu)";
-pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY__VISAKHA_BUCHA: &str =
-    "HM Queen Suthida's Birthday; Visakha Bucha";
+pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY__IN_LIEU___VISAKHA_BUCHA__IN_LIEU_: &str = "HM Queen Suthida's Birthday (in lieu); Visakha Bucha (in lieu)";
+pub static _HM_QUEEN_SUTHIDA_S_BIRTHDAY__VISAKHA_BUCHA: &str = "HM Queen Suthida's Birthday; Visakha Bucha";
 pub static _HOLI: &str = "Holi";
 pub static _HOLIDAY_OF_SPRING_AND_LABOR: &str = "Holiday of Spring and Labor";
-pub static _HOLIDAY_OF_SVETITSKHOVLOBA__ROBE_OF_JESUS: &str =
-    "Holiday of Svetitskhovloba, Robe of Jesus";
+pub static _HOLIDAY_OF_SVETITSKHOVLOBA__ROBE_OF_JESUS: &str = "Holiday of Svetitskhovloba, Robe of Jesus";
+pub static _HOLI__OBSERVED_: &str = "Holi (observed)";
 pub static _HOLY_FRIDAY: &str = "Holy Friday";
 pub static _HOLY_SATURDAY: &str = "Holy Saturday";
 pub static _HOLY_SATURDAY__LABOR_DAY: &str = "Holy Saturday; Labor Day";
-pub static _HOLY_SATURDAY__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Holy Saturday; Labor Day and International Workers' Solidarity Day";
+pub static _HOLY_SATURDAY__LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Holy Saturday; Labor Day and International Workers' Solidarity Day";
 pub static _HOLY_SATURDAY__PANAMERICAN_DAY: &str = "Holy Saturday; Panamerican Day";
 pub static _HOLY_THURSDAY: &str = "Holy Thursday";
 pub static _HOLY_TRINITY_DAY: &str = "Holy Trinity Day";
 pub static _HOLY_TRINITY_DAY__OBSERVED_: &str = "Holy Trinity Day (observed)";
-pub static _HONG_KONG_SPECIAL_ADMINISTRATIVE_REGION_ESTABLISHMENT_DAY: &str =
-    "Hong Kong Special Administrative Region Establishment Day";
-pub static _HONG_KONG_SPECIAL_ADMINISTRATIVE_REGION_ESTABLISHMENT_DAY__OBSERVED_: &str =
-    "Hong Kong Special Administrative Region Establishment Day (observed)";
+pub static _HONG_KONG_S_A_R__ESTABLISHMENT_DAY: &str = "Hong Kong S.A.R. Establishment Day";
+pub static _HONG_KONG_S_A_R__ESTABLISHMENT_DAY__OBSERVED_: &str = "Hong Kong S.A.R. Establishment Day (observed)";
+pub static _HUMAN_RIGHTS_AND_PEACE_DAY: &str = "Human Rights and Peace Day";
+pub static _HUMAN_RIGHTS_AND_PEACE_DAY__OBSERVED_: &str = "Human Rights and Peace Day (observed)";
 pub static _HUMAN_RIGHTS_DAY: &str = "Human Rights Day";
 pub static _HUMAN_RIGHTS_DAY__OBSERVED_: &str = "Human Rights Day (observed)";
 pub static _HUNG_KINGS__COMMEMORATION_DAY: &str = "Hung Kings' Commemoration Day";
-pub static _HUNG_KINGS__COMMEMORATION_DAY__OBSERVED_: &str =
-    "Hung Kings' Commemoration Day (observed)";
+pub static _HUNG_KINGS__COMMEMORATION_DAY__OBSERVED_: &str = "Hung Kings' Commemoration Day (observed)";
+pub static _IBUMIN_EAROENI_DAY: &str = "Ibumin Earoeni Day";
+pub static _IBUMIN_EAROENI_DAY__OBSERVED_: &str = "Ibumin Earoeni Day (observed)";
+pub static _ID_UL_FITR: &str = "Id-ul-Fitr";
+pub static _ID_UL_FITR__ESTIMATED_: &str = "Id-ul-Fitr (estimated)";
+pub static _ID_UL_FITR__ESTIMATED___SONAM_LHOCHHAR: &str = "Id-ul-Fitr (estimated); Sonam Lhochhar";
+pub static _IL_FULL_MOON_POYA_DAY: &str = "Il Full Moon Poya Day";
 pub static _IMMACOLATA_CONCEZIONE: &str = "Immacolata Concezione";
 pub static _IMMACULATE_CONCEPTION: &str = "Immaculate Conception";
-pub static _IMMACULATE_CONCEPTION_DAY: &str = "Immaculate Conception Day";
 pub static _IMMACULATE_CONCEPTION__OBSERVED_: &str = "Immaculate Conception (observed)";
-pub static _INAUGURATION_CEREMONY_OF_PRESIDENT_ELECT_AND_VICE_PRESIDENT_ELECT: &str =
-    "Inauguration ceremony of President-elect and Vice President-elect";
+pub static _INAUGURATION_CEREMONY_OF_PRESIDENT_ELECT_AND_VICE_PRESIDENT_ELECT: &str = "Inauguration ceremony of President-elect and Vice President-elect";
 pub static _INAUGURATION_DAY: &str = "Inauguration Day";
+pub static _INAUGURATION_DAY__NEW_YEAR_S_DAY: &str = "Inauguration Day; New Year's Day";
 pub static _INDEPENDENCE_AND_REPUBLIC_DAY: &str = "Independence and Republic Day";
+pub static _INDEPENDENCE_AND_REPUBLIC_DAY__MAHA_SHIVARATRI: &str = "Independence and Republic Day; Maha Shivaratri";
+pub static _INDEPENDENCE_AND_REPUBLIC_DAY__OBSERVED_: &str = "Independence and Republic Day (observed)";
 pub static _INDEPENDENCE_AND_UNITY_DAY: &str = "Independence and Unity Day";
 pub static _INDEPENDENCE_DAY: &str = "Independence Day";
 pub static _INDEPENDENCE_DAY_HOLIDAY: &str = "Independence Day Holiday";
-pub static _INDEPENDENCE_DAY_OF_THE_REPUBLIC_OF_BELARUS__DAY_OF_THE_REPUBLIC_: &str =
-    "Independence Day of the Republic of Belarus (Day of the Republic)";
-pub static _INDEPENDENCE_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str =
-    "Independence Day; Islamic New Year (estimated)";
-pub static _INDEPENDENCE_DAY__ISRA__AND_MI_RAJ__ESTIMATED_: &str =
-    "Independence Day; Isra' and Mi'raj (estimated)";
+pub static _INDEPENDENCE_DAY_OF_THE_REPUBLIC_OF_BELARUS__DAY_OF_THE_REPUBLIC_: &str = "Independence Day of the Republic of Belarus (Day of the Republic)";
+pub static _INDEPENDENCE_DAY__ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Independence Day; Islamic New Year (estimated)";
+pub static _INDEPENDENCE_DAY__ISRA__AND_MI_RAJ__ESTIMATED_: &str = "Independence Day; Isra' and Mi'raj (estimated)";
+pub static _INDEPENDENCE_DAY__JANMASHTAMI: &str = "Independence Day; Janmashtami";
+pub static _INDEPENDENCE_DAY__JULIAN_EASTER_SUNDAY: &str = "Independence Day; Julian Easter Sunday";
 pub static _INDEPENDENCE_DAY__OBSERVED_: &str = "Independence Day (observed)";
-pub static _INDEPENDENCE_DAY__OROZO_AIT__ESTIMATED_: &str =
-    "Independence Day; Orozo Ait (estimated)";
-pub static _INDEPENDENCE_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Independence Day; Prophet's Birthday (estimated)";
+pub static _INDEPENDENCE_DAY__OROZO_AIT__ESTIMATED_: &str = "Independence Day; Orozo Ait (estimated)";
+pub static _INDEPENDENCE_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Independence Day; Prophet's Birthday (estimated)";
 pub static _INDEPENDENCE_MOVEMENT_DAY: &str = "Independence Movement Day";
 pub static _INDEPENDENCE_OF_CARTAGENA: &str = "Independence of Cartagena";
 pub static _INDEPENDENCE_OF_CARTAGENA__OBSERVED_: &str = "Independence of Cartagena (observed)";
@@ -1566,93 +1697,89 @@ pub static _INDEPENDENCE_RESTORATION_DAY: &str = "Independence Restoration Day";
 pub static _INDEPENDENCE__NATIONAL__DAY: &str = "Independence (National) Day";
 pub static _INDEPENDENCE__NATIONAL__DAY__OBSERVED_: &str = "Independence (National) Day (observed)";
 pub static _INDEPENDENT_CZECHOSLOVAK_STATE_DAY: &str = "Independent Czechoslovak State Day";
-pub static _INDEPENDENT_CZECH_STATE_RESTORATION_DAY: &str =
-    "Independent Czech State Restoration Day";
+pub static _INDEPENDENT_CZECH_STATE_RESTORATION_DAY__NEW_YEAR_S_DAY: &str = "Independent Czech State Restoration Day; New Year's Day";
+pub static _INDIAN_ARRIVAL_DAY: &str = "Indian Arrival Day";
+pub static _INDIAN_ARRIVAL_DAY__OBSERVED_: &str = "Indian Arrival Day (observed)";
 pub static _INDIGENOUS_PEOPLES__RESISTANCE_DAY: &str = "Indigenous Peoples' Resistance Day";
-pub static _INDIGENOUS_PEOPLES__RESISTANCE_DAY__OBSERVED_: &str =
-    "Indigenous Peoples' Resistance Day (observed)";
-pub static _INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY: &str =
-    "International Azerbaijanis Solidarity Day";
-pub static _INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY__OBSERVED_: &str =
-    "International Azerbaijanis Solidarity Day (observed)";
-pub static _INTERNATIONAL_CHILDREN_DAY: &str = "International Children Day";
+pub static _INDIGENOUS_PEOPLES__RESISTANCE_DAY__OBSERVED_: &str = "Indigenous Peoples' Resistance Day (observed)";
+pub static _INDIGENOUS_PEOPLE_DAY: &str = "Indigenous People Day";
+pub static _INTERNAL_AUTONOMY_DAY: &str = "Internal Autonomy Day";
+pub static _INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY: &str = "International Azerbaijanis Solidarity Day";
+pub static _INTERNATIONAL_AZERBAIJANIS_SOLIDARITY_DAY__OBSERVED_: &str = "International Azerbaijanis Solidarity Day (observed)";
 pub static _INTERNATIONAL_CHILDREN_S_DAY: &str = "International Children's Day";
-pub static _INTERNATIONAL_DAY_OF_WORKERS__SOLIDARITY: &str =
-    "International Day of Workers' Solidarity";
+pub static _INTERNATIONAL_DAY_OF_WORKERS__SOLIDARITY: &str = "International Day of Workers' Solidarity";
 pub static _INTERNATIONAL_FRATERNALISM_DAY: &str = "International Fraternalism Day";
-pub static _INTERNATIONAL_FRATERNALISM_DAY__OBSERVED_: &str =
-    "International Fraternalism Day (observed)";
+pub static _INTERNATIONAL_FRATERNALISM_DAY__OBSERVED_: &str = "International Fraternalism Day (observed)";
 pub static _INTERNATIONAL_HUMAN_RIGHTS_DAY: &str = "International Human Rights Day";
-pub static _INTERNATIONAL_HUMAN_RIGHTS_DAY__OBSERVED_: &str =
-    "International Human Rights Day (observed)";
+pub static _INTERNATIONAL_HUMAN_RIGHTS_DAY__OBSERVED_: &str = "International Human Rights Day (observed)";
 pub static _INTERNATIONAL_LABOR_DAY: &str = "International Labor Day";
 pub static _INTERNATIONAL_LABOR_DAY__IN_LIEU_: &str = "International Labor Day (in lieu)";
 pub static _INTERNATIONAL_LABOR_DAY__OBSERVED_: &str = "International Labor Day (observed)";
-pub static _INTERNATIONAL_LABOR_DAY__ORTHODOX_GOOD_FRIDAY: &str =
-    "International Labor Day; Orthodox Good Friday";
-pub static _INTERNATIONAL_LABOR_DAY__ROYAL_PLOUGHING_CEREMONY: &str =
-    "International Labor Day; Royal Ploughing Ceremony";
-pub static _INTERNATIONAL_LABOR_DAY__VISAKA_BOCHEA_DAY: &str =
-    "International Labor Day; Visaka Bochea Day";
+pub static _INTERNATIONAL_LABOR_DAY__ORTHODOX_GOOD_FRIDAY: &str = "International Labor Day; Orthodox Good Friday";
+pub static _INTERNATIONAL_LABOR_DAY__ROYAL_PLOUGHING_CEREMONY: &str = "International Labor Day; Royal Ploughing Ceremony";
+pub static _INTERNATIONAL_LABOR_DAY__VISAKA_BOCHEA_DAY: &str = "International Labor Day; Visaka Bochea Day";
+pub static _INTERNATIONAL_LABOUR_DAY: &str = "International Labour Day";
 pub static _INTERNATIONAL_MOTHER_S_LANGUAGE_DAY: &str = "International Mother's language Day";
+pub static _INTERNATIONAL_NEUTRALITY_DAY: &str = "International Neutrality Day";
+pub static _INTERNATIONAL_NEUTRALITY_DAY__OBSERVED_: &str = "International Neutrality Day (observed)";
 pub static _INTERNATIONAL_NEW_YEAR_DAY: &str = "International New Year Day";
+pub static _INTERNATIONAL_NOWRUZ_DAY: &str = "International Nowruz Day";
 pub static _INTERNATIONAL_TRADE_FAIR: &str = "International Trade Fair";
+pub static _INTERNATIONAL_TRADE_FAIR__OBSERVED_: &str = "International Trade Fair (observed)";
 pub static _INTERNATIONAL_WOMEN_S_DAY: &str = "International Women's Day";
+pub static _INTERNATIONAL_WOMEN_S_DAY__MAHA_SHIVARATRI: &str = "International Women's Day; Maha Shivaratri";
 pub static _INTERNATIONAL_WOMEN_S_DAY__OBSERVED_: &str = "International Women's Day (observed)";
-pub static _INTERNATIONAL_WOMEN_S_DAY__OBSERVED___MAWLID__ESTIMATED_: &str =
-    "International Women's Day (observed); Mawlid (estimated)";
+pub static _INTERNATIONAL_WOMEN_S_DAY__OBSERVED___MAWLID__ESTIMATED_: &str = "International Women's Day (observed); Mawlid (estimated)";
 pub static _INTERNATIONAL_WOMEN_S_RIGHTS_DAY: &str = "International Women's Rights Day";
-pub static _INTERNATIONAL_WOMEN_S_RIGHTS_DAY__IN_LIEU_: &str =
-    "International Women's Rights Day (in lieu)";
+pub static _INTERNATIONAL_WOMEN_S_RIGHTS_DAY__IN_LIEU_: &str = "International Women's Rights Day (in lieu)";
 pub static _INTERNATIONAL_WORKERS__DAY: &str = "International Workers' Day";
-pub static _INTERNATIONAL_WORKERS__DAY__MOTHER_S_DAY: &str =
-    "International Workers' Day; Mother's Day";
+pub static _INTERNATIONAL_WORKERS__DAY__MOTHER_S_DAY: &str = "International Workers' Day; Mother's Day";
 pub static _INTERNATIONAL_WORKERS__DAY__OBSERVED_: &str = "International Workers' Day (observed)";
-pub static _INTERNATIONAL_WORKERS__DAY__OBSERVED___ORTHODOX_EASTER_SUNDAY__OBSERVED_: &str =
-    "International Workers' Day (observed); Orthodox Easter Sunday (observed)";
-pub static _INTERNATIONAL_WORKERS__DAY__ORTHODOX_EASTER_SUNDAY: &str =
-    "International Workers' Day; Orthodox Easter Sunday";
-pub static _INTERNATIONAL_WORKERS__DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "International Workers' Day; Prophet's Birthday (estimated)";
+pub static _INTERNATIONAL_WORKERS__DAY__OBSERVED___ORTHODOX_EASTER_SUNDAY__OBSERVED_: &str = "International Workers' Day (observed); Orthodox Easter Sunday (observed)";
+pub static _INTERNATIONAL_WORKERS__DAY__OBSERVED___PROPHET_S_BIRTHDAY__OBSERVED_: &str = "International Workers' Day (observed); Prophet's Birthday (observed)";
+pub static _INTERNATIONAL_WORKERS__DAY__ORTHODOX_EASTER: &str = "International Workers' Day; Orthodox Easter";
+pub static _INTERNATIONAL_WORKERS__DAY__ORTHODOX_EASTER_SUNDAY: &str = "International Workers' Day; Orthodox Easter Sunday";
+pub static _INTERNATIONAL_WORKERS__DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "International Workers' Day; Prophet's Birthday (estimated)";
+pub static _INTERNATIONAL_WORKERS__DAY__VESAK_FULL_MOON_POYA_DAY: &str = "International Workers' Day; Vesak Full Moon Poya Day";
 pub static _INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "International Workers' Solidarity Day";
-pub static _INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_: &str =
-    "International Workers' Solidarity Day (observed)";
+pub static _INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_: &str = "International Workers' Solidarity Day (observed)";
 pub static _INTERNATIONAL_WORKER_S_DAY: &str = "International Worker's Day";
-pub static _INTERNATIONAL_WORKER_S_DAY__OBSERVED_: &str = "International Worker's Day (observed)";
+pub static _INVESTITURE_OF_CAPTAINS_REGENT: &str = "Investiture of Captains Regent";
 pub static _IQBAL_DAY: &str = "Iqbal Day";
-pub static _IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str =
-    "Iranian Oil Industry Nationalization Day";
+pub static _IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY: &str = "Iranian Oil Industry Nationalization Day";
+pub static _IRANIAN_OIL_INDUSTRY_NATIONALIZATION_DAY__MARTYRDOM_OF_ALI_AL_RIDA: &str = "Iranian Oil Industry Nationalization Day; Martyrdom of Ali al-Rida";
+pub static _ISLAMIC_EMIRATE_VICTORY_DAY: &str = "Islamic Emirate Victory Day";
 pub static _ISLAMIC_NEW_YEAR: &str = "Islamic New Year";
 pub static _ISLAMIC_NEW_YEAR__ESTIMATED_: &str = "Islamic New Year (estimated)";
-pub static _ISLAMIC_NEW_YEAR__ESTIMATED___LUNAR_NEW_YEAR__OBSERVED_: &str =
-    "Islamic New Year (estimated); Lunar New Year (observed)";
-pub static _ISLAMIC_NEW_YEAR__ESTIMATED___NATIONAL_DAY: &str =
-    "Islamic New Year (estimated); National Day";
-pub static _ISLAMIC_NEW_YEAR__ESTIMATED___REVOLUTION_DAY: &str =
-    "Islamic New Year (estimated); Revolution Day";
-pub static _ISLAMIC_NEW_YEAR__ESTIMATED___THRONE_DAY: &str =
-    "Islamic New Year (estimated); Throne Day";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___LUNAR_NEW_YEAR__OBSERVED_: &str = "Islamic New Year (estimated); Lunar New Year (observed)";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___MOTHER_S_DAY: &str = "Islamic New Year (estimated); Mother's Day";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___NATIONAL_DAY: &str = "Islamic New Year (estimated); National Day";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___NOWRUZ: &str = "Islamic New Year (estimated); Nowruz";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___REVOLUTION_DAY: &str = "Islamic New Year (estimated); Revolution Day";
+pub static _ISLAMIC_NEW_YEAR__ESTIMATED___THRONE_DAY: &str = "Islamic New Year (estimated); Throne Day";
+pub static _ISLAMIC_NEW_YEAR__NATIONAL_DAY: &str = "Islamic New Year; National Day";
 pub static _ISLAMIC_NEW_YEAR__OBSERVED_: &str = "Islamic New Year (observed)";
 pub static _ISLAMIC_NEW_YEAR__OBSERVED__ESTIMATED_: &str = "Islamic New Year (observed, estimated)";
-pub static _ISLAMIC_NEW_YEAR__OBSERVED___NATIONAL_DAY: &str =
-    "Islamic New Year (observed); National Day";
+pub static _ISLAMIC_NEW_YEAR__OBSERVED__ESTIMATED___JANUARY_25TH_REVOLUTION_AND_NATIONAL_POLICE_DAY__OBSERVED_: &str = "Islamic New Year (observed, estimated); January 25th Revolution and National Police Day (observed)";
+pub static _ISLAMIC_NEW_YEAR__OBSERVED___NATIONAL_DAY: &str = "Islamic New Year (observed); National Day";
 pub static _ISLAMIC_REPUBLIC_DAY: &str = "Islamic Republic Day";
-pub static _ISLAMIC_REPUBLIC_DAY__MARTYRDOM_OF_ALI__ESTIMATED_: &str =
-    "Islamic Republic Day; Martyrdom of Ali (estimated)";
 pub static _ISLAMIC_REVOLUTION_DAY: &str = "Islamic Revolution Day";
-pub static _ISLAMIC_REVOLUTION_DAY__MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED_: &str =
-    "Islamic Revolution Day; Martyrdom of Hasan al-Askari (estimated)";
 pub static _ISRA__AND_MI_RAJ: &str = "Isra' and Mi'raj";
 pub static _ISRA__AND_MI_RAJ__ESTIMATED_: &str = "Isra' and Mi'raj (estimated)";
-pub static _ISRA__AND_MI_RAJ__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Isra' and Mi'raj (estimated); Persian New Year";
-pub static _ISRA__AND_MI_RAJ__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str =
-    "Isra' and Mi'raj (estimated); Sultan Hassanal Bolkiah's Birthday";
+pub static _ISRA__AND_MI_RAJ__ESTIMATED___MAORE_DAY: &str = "Isra' and Mi'raj (estimated); Maore Day";
+pub static _ISRA__AND_MI_RAJ__ESTIMATED___SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str = "Isra' and Mi'raj (estimated); Sultan Hassanal Bolkiah's Birthday";
+pub static _ISRA__AND_MI_RAJ__NOWRUZ_HOLIDAY: &str = "Isra' and Mi'raj; Nowruz Holiday";
 pub static _ISRA__AND_MI_RAJ__OBSERVED_: &str = "Isra' and Mi'raj (observed)";
 pub static _ISRA__AND_MI_RAJ__OBSERVED__ESTIMATED_: &str = "Isra' and Mi'raj (observed, estimated)";
+pub static _JAGS_MCCARTNEY_DAY: &str = "JAGS McCartney Day";
+pub static _JAMES_RONALD_WEBSTER_DAY: &str = "James Ronald Webster Day";
+pub static _JAMES_RONALD_WEBSTER_DAY__OBSERVED_: &str = "James Ronald Webster Day (observed)";
 pub static _JAMHURI_DAY: &str = "Jamhuri Day";
 pub static _JAMHURI_DAY__OBSERVED_: &str = "Jamhuri Day (observed)";
-pub static _JANUARY_25TH_REVOLUTION_DAY: &str = "January 25th Revolution Day";
+pub static _JANAI_POORNIMA: &str = "Janai Poornima";
+pub static _JANMASHTAMI: &str = "Janmashtami";
+pub static _JANUARY_25TH_REVOLUTION_AND_NATIONAL_POLICE_DAY: &str = "January 25th Revolution and National Police Day";
+pub static _JANUARY_25TH_REVOLUTION_AND_NATIONAL_POLICE_DAY__OBSERVED_: &str = "January 25th Revolution and National Police Day (observed)";
 pub static _JAN_HUS_DAY: &str = "Jan Hus Day";
 pub static _JOHN_CHILEMBWE_DAY: &str = "John Chilembwe Day";
 pub static _JOHN_CHILEMBWE_DAY__OBSERVED_: &str = "John Chilembwe Day (observed)";
@@ -1662,30 +1789,40 @@ pub static _JUAN_PABLO_DUARTE_DAY: &str = "Juan Pablo Duarte Day";
 pub static _JUAN_SANTAMAR_A_DAY: &str = "Juan Santamaría Day";
 pub static _JUAN_SANTAMAR_A_DAY__MAUNDY_THURSDAY: &str = "Juan Santamaría Day; Maundy Thursday";
 pub static _JUAN_SANTAMAR_A_DAY__OBSERVED_: &str = "Juan Santamaría Day (observed)";
+pub static _JULIAN_EASTER_SUNDAY: &str = "Julian Easter Sunday";
+pub static _JULIAN_EASTER_SUNDAY__LABOR_DAY: &str = "Julian Easter Sunday; Labor Day";
+pub static _JULIAN_EASTER_SUNDAY__MARTYRS__DAY: &str = "Julian Easter Sunday; Martyrs' Day";
+pub static _JULY_14_REVOLUTION: &str = "July 14 Revolution";
+pub static _JULY_17_REVOLUTION: &str = "July 17 Revolution";
+pub static _JULY_22_REVOLUTION_DAY: &str = "July 22 Revolution Day";
+pub static _JULY_22_REVOLUTION_DAY__LAYLAT_AL_QADR__OBSERVED__ESTIMATED_: &str = "July 22 Revolution Day; Laylat al-Qadr (observed, estimated)";
+pub static _JULY_22_REVOLUTION_DAY__OBSERVED_: &str = "July 22 Revolution Day (observed)";
 pub static _JULY_23_REVOLUTION_DAY: &str = "July 23 Revolution Day";
+pub static _JULY_23_REVOLUTION_DAY__OBSERVED_: &str = "July 23 Revolution Day (observed)";
 pub static _JUNETEENTH_NATIONAL_INDEPENDENCE_DAY: &str = "Juneteenth National Independence Day";
-pub static _JUNETEENTH_NATIONAL_INDEPENDENCE_DAY__OBSERVED_: &str =
-    "Juneteenth National Independence Day (observed)";
+pub static _JUNETEENTH_NATIONAL_INDEPENDENCE_DAY__OBSERVED_: &str = "Juneteenth National Independence Day (observed)";
 pub static _JUNE_30_REVOLUTION_DAY: &str = "June 30 Revolution Day";
+pub static _JUNE_30_REVOLUTION_DAY__OBSERVED_: &str = "June 30 Revolution Day (observed)";
 pub static _JUNE_BANK_HOLIDAY: &str = "June Bank Holiday";
+pub static _J__J__ROBERTS_MEMORIAL_BIRTHDAY: &str = "J. J. Roberts Memorial Birthday";
 pub static _KADOOMENT_DAY: &str = "Kadooment Day";
 pub static _KAMUZU_DAY: &str = "Kamuzu Day";
 pub static _KAMUZU_DAY__OBSERVED_: &str = "Kamuzu Day (observed)";
 pub static _KASHMIR_SOLIDARITY_DAY: &str = "Kashmir Solidarity Day";
+pub static _KASHMIR_SOLIDARITY_DAY__PROPHET_S_BIRTHDAY: &str = "Kashmir Solidarity Day; Prophet's Birthday";
 pub static _KAZAKHSTAN_S_PEOPLE_SOLIDARITY_HOLIDAY: &str = "Kazakhstan's People Solidarity Holiday";
-pub static _KAZAKHSTAN_S_PEOPLE_SOLIDARITY_HOLIDAY__OBSERVED_: &str =
-    "Kazakhstan's People Solidarity Holiday (observed)";
+pub static _KAZAKHSTAN_S_PEOPLE_SOLIDARITY_HOLIDAY__OBSERVED_: &str = "Kazakhstan's People Solidarity Holiday (observed)";
 pub static _KENNETH_KAUNDA_DAY: &str = "Kenneth Kaunda Day";
 pub static _KENNETH_KAUNDA_DAY__OBSERVED_: &str = "Kenneth Kaunda Day (observed)";
 pub static _KENYATTA_DAY: &str = "Kenyatta Day";
 pub static _KENYATTA_DAY__OBSERVED_: &str = "Kenyatta Day (observed)";
 pub static _KHMER_NEW_YEAR_S_DAY: &str = "Khmer New Year's Day";
 pub static _KHMER_NEW_YEAR_S_REPLACEMENT_HOLIDAY: &str = "Khmer New Year's Replacement Holiday";
-pub static _KHORDAD_NATIONAL_UPRISING: &str = "Khordad National Uprising";
-pub static _KHORDAD_NATIONAL_UPRISING__MARTYRDOM_OF_ALI__ESTIMATED_: &str =
-    "Khordad National Uprising; Martyrdom of Ali (estimated)";
+pub static _KINGDOM_DAY: &str = "Kingdom Day";
+pub static _KING_CHARLES_III_S_CORONATION: &str = "King Charles III's Coronation";
 pub static _KING_S_BIRTHDAY: &str = "King's Birthday";
 pub static _KING_S_BIRTHDAY__OBSERVED_: &str = "King's Birthday (observed)";
+pub static _KING_S_BIRTHDAY__WHIT_MONDAY: &str = "King's Birthday; Whit Monday";
 pub static _KING_S_DAY: &str = "King's Day";
 pub static _KOREAN_NEW_YEAR: &str = "Korean New Year";
 pub static _KURMAN_AIT__ESTIMATED_: &str = "Kurman Ait (estimated)";
@@ -1693,18 +1830,19 @@ pub static _KURMAN_AIT__ESTIMATED___NEW_YEAR_S_EVE: &str = "Kurman Ait (estimate
 pub static _KWAME_NKRUMAH_MEMORIAL_DAY: &str = "Kwame Nkrumah Memorial Day";
 pub static _KWAME_NKRUMAH_MEMORIAL_DAY__OBSERVED_: &str = "Kwame Nkrumah Memorial Day (observed)";
 pub static _LABOR_DAY: &str = "Labor Day";
-pub static _LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str =
-    "Labor Day and International Workers' Solidarity Day";
-pub static _LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_: &str =
-    "Labor Day and International Workers' Solidarity Day (observed)";
+pub static _LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY: &str = "Labor Day and International Workers' Solidarity Day";
+pub static _LABOR_DAY_AND_INTERNATIONAL_WORKERS__SOLIDARITY_DAY__OBSERVED_: &str = "Labor Day and International Workers' Solidarity Day (observed)";
+pub static _LABOR_DAY__LABOR_DAY__OBSERVED_: &str = "Labor Day; Labor Day (observed)";
+pub static _LABOR_DAY__MARTYRS__DAY: &str = "Labor Day; Martyrs' Day";
 pub static _LABOR_DAY__MAWLID_AL_NABI__ESTIMATED_: &str = "Labor Day; Mawlid al-Nabi (estimated)";
 pub static _LABOR_DAY__OBSERVED_: &str = "Labor Day (observed)";
+pub static _LABOR_DAY__OBSERVED___PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "Labor Day (observed); Prophet's Birthday (observed, estimated)";
 pub static _LABOR_DAY__ORTHODOX_EASTER: &str = "Labor Day; Orthodox Easter";
-pub static _LABOR_DAY__PROPHET_MUHAMMAD_S_BIRTHDAY__ESTIMATED_: &str =
-    "Labor Day; Prophet Muhammad's Birthday (estimated)";
-pub static _LABOR_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Labor Day; Prophet's Birthday (estimated)";
-pub static _LABOR_DAY__SHAM_EL_NESSIM: &str = "Labor Day; Sham El Nessim";
+pub static _LABOR_DAY__ORTHODOX_GOOD_FRIDAY: &str = "Labor Day; Orthodox Good Friday";
+pub static _LABOR_DAY__PROPHET_MUHAMMAD_S_BIRTHDAY__ESTIMATED_: &str = "Labor Day; Prophet Muhammad's Birthday (estimated)";
+pub static _LABOR_DAY__PROPHET_S_BIRTHDAY: &str = "Labor Day; Prophet's Birthday";
+pub static _LABOR_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Labor Day; Prophet's Birthday (estimated)";
+pub static _LABOR_DAY__SPRING_FESTIVAL: &str = "Labor Day; Spring Festival";
 pub static _LABOR_DAY__VESAK_DAY: &str = "Labor Day; Vesak Day";
 pub static _LABOR_DAY__VESAK_DAY__ESTIMATED_: &str = "Labor Day; Vesak Day (estimated)";
 pub static _LABOR_THANKSGIVING_DAY: &str = "Labor Thanksgiving Day";
@@ -1713,6 +1851,7 @@ pub static _LABOUR_DAY: &str = "Labour Day";
 pub static _LABOUR_DAY_HOLIDAY: &str = "Labour Day Holiday";
 pub static _LABOUR_DAY__MAWLID__ESTIMATED_: &str = "Labour Day; Mawlid (estimated)";
 pub static _LABOUR_DAY__OBSERVED_: &str = "Labour Day (observed)";
+pub static _LABOUR_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Labour Day; Prophet's Birthday (estimated)";
 pub static _LADY_OF_ALTAGRACIA: &str = "Lady of Altagracia";
 pub static _LADY_OF_CAMARIN_DAY: &str = "Lady of Camarin Day";
 pub static _LAO_NATIONAL_DAY: &str = "Lao National Day";
@@ -1720,90 +1859,115 @@ pub static _LAO_NATIONAL_DAY__IN_LIEU_: &str = "Lao National Day (in lieu)";
 pub static _LAO_NEW_YEAR_S_DAY: &str = "Lao New Year's Day";
 pub static _LAO_NEW_YEAR_S_DAY__IN_LIEU_: &str = "Lao New Year's Day (in lieu)";
 pub static _LAO_NEW_YEAR_S_DAY__SPECIAL_: &str = "Lao New Year's Day (Special)";
-pub static _LATERAN_TREATY_DAY: &str = "Lateran Treaty Day";
+pub static _LAST_DAY_OF_THE_YEAR: &str = "Last Day of the Year";
+pub static _LAST_DAY_OF_YEAR: &str = "Last Day of Year";
 pub static _LATE_SUMMER_BANK_HOLIDAY: &str = "Late Summer Bank Holiday";
+pub static _LAVITY_STOUTT_S_BIRTHDAY: &str = "Lavity Stoutt's Birthday";
+pub static _LAXMI_POOJA: &str = "Laxmi Pooja";
+pub static _LAYLAT_AL_QADR: &str = "Laylat al-Qadr";
+pub static _LAYLAT_AL_QADR__ESTIMATED_: &str = "Laylat al-Qadr (estimated)";
+pub static _LAYLAT_AL_QADR__ESTIMATED___NATIONAL_DAY__OBSERVED_: &str = "Laylat al-Qadr (estimated); National Day (observed)";
+pub static _LAYLAT_AL_QADR__OBSERVED_: &str = "Laylat al-Qadr (observed)";
+pub static _LAYLAT_AL_QADR__OBSERVED__ESTIMATED_: &str = "Laylat al-Qadr (observed, estimated)";
 pub static _LEGISLATIVE_ELECTION_DAY: &str = "Legislative Election Day";
 pub static _LIBERATION_DAY: &str = "Liberation Day";
 pub static _LIBERATION_DAY_REUNIFICATION_DAY: &str = "Liberation Day/Reunification Day";
-pub static _LIBERATION_DAY_REUNIFICATION_DAY__OBSERVED_: &str =
-    "Liberation Day/Reunification Day (observed)";
+pub static _LIBERATION_DAY_REUNIFICATION_DAY__OBSERVED_: &str = "Liberation Day/Reunification Day (observed)";
 pub static _LIBERATION_DAY__GUAM_: &str = "Liberation Day (Guam)";
 pub static _LIBERATION_DAY__OBSERVED_: &str = "Liberation Day (observed)";
 pub static _LIBERATION_DAY__OBSERVED___VICTORY_DAY: &str = "Liberation Day (observed); Victory Day";
-pub static _LIBERATION_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Liberation Day; Prophet's Birthday (estimated)";
-pub static _LIBERATION_FROM_FASCISM_DAY: &str = "Liberation from Fascism Day";
+pub static _LIBERATION_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Liberation Day; Prophet's Birthday (estimated)";
 pub static _LIBERATION_MOVEMENT_DAY: &str = "Liberation Movement Day";
 pub static _LIBERTY_DAY: &str = "Liberty Day";
 pub static _LOCAL_ELECTION_DAY: &str = "Local Election Day";
 pub static _LOCAL_ELECTION_VICTORY_DAY: &str = "Local Election Victory Day";
 pub static _LOCAL_GOVERNMENT_ELECTIONS: &str = "Local government elections";
+pub static _LORD_BUDDHA_S_PARINIRVANA: &str = "Lord Buddha's Parinirvana";
+pub static _LOSAR: &str = "Losar";
 pub static _LOS_SANTOS_UPRISING_DAY: &str = "Los Santos Uprising Day";
+pub static _LOS_SANTOS_UPRISING_DAY__OBSERVED_: &str = "Los Santos Uprising Day (observed)";
 pub static _LUNAR_NEW_YEAR: &str = "Lunar New Year";
-pub static _LUNAR_NEW_YEAR_S_DAY: &str = "Lunar New Year's Day";
 pub static _LUNAR_NEW_YEAR_S_EVE: &str = "Lunar New Year's Eve";
 pub static _LUNAR_NEW_YEAR__ESTIMATED_: &str = "Lunar New Year (estimated)";
 pub static _LUNAR_NEW_YEAR__OBSERVED_: &str = "Lunar New Year (observed)";
 pub static _LUNED__DELL_ANGELO: &str = "Lunedì dell'Angelo";
-pub static _LUSAKA_MAYORAL_AND_OTHER_LOCAL_GOVERNMENT_ELECTIONS: &str =
-    "Lusaka mayoral and other local government elections";
+pub static _LUSAKA_MAYORAL_AND_OTHER_LOCAL_GOVERNMENT_ELECTIONS: &str = "Lusaka mayoral and other local government elections";
+pub static _MACAO_S_A_R__ESTABLISHMENT_DAY: &str = "Macao S.A.R. Establishment Day";
+pub static _MACEDONIAN_REVOLUTIONARY_STRUGGLE_DAY: &str = "Macedonian Revolutionary Struggle Day";
+pub static _MACEDONIAN_REVOLUTIONARY_STRUGGLE_DAY__OBSERVED_: &str = "Macedonian Revolutionary Struggle Day (observed)";
 pub static _MADARAKA_DAY: &str = "Madaraka Day";
 pub static _MADARAKA_DAY__OBSERVED_: &str = "Madaraka Day (observed)";
+pub static _MAGHE_SANKRANTI: &str = "Maghe Sankranti";
+pub static _MAHAVIR_JAYANTI: &str = "Mahavir Jayanti";
+pub static _MAHAVIR_JAYANTI__PROPHET_S_BIRTHDAY: &str = "Mahavir Jayanti; Prophet's Birthday";
+pub static _MAHA_ASHTAMI: &str = "Maha Ashtami";
+pub static _MAHA_ASHTAMI__MAHA_NAVAMI: &str = "Maha Ashtami; Maha Navami";
+pub static _MAHA_NAVAMI: &str = "Maha Navami";
+pub static _MAHA_SHIVARATRI: &str = "Maha Shivaratri";
+pub static _MAHA_SHIVARATRI__NATIONAL_DEMOCRACY_DAY: &str = "Maha Shivaratri; National Democracy Day";
+pub static _MAHA_SIVARATHRI_DAY: &str = "Maha Sivarathri Day";
 pub static _MAJORITY_RULE_DAY: &str = "Majority Rule Day";
 pub static _MAJORITY_RULE_DAY__OBSERVED_: &str = "Majority Rule Day (observed)";
-pub static _MAKAR_SANKRANTI___PONGAL: &str = "Makar Sankranti / Pongal";
 pub static _MAKHA_BUCHA: &str = "Makha Bucha";
 pub static _MAKHA_BUCHA__IN_LIEU_: &str = "Makha Bucha (in lieu)";
 pub static _MALAYSIA_DAY: &str = "Malaysia Day";
 pub static _MALAYSIA_DAY__OBSERVED_: &str = "Malaysia Day (observed)";
-pub static _MALAYSIA_DAY__PROPHET_MUHAMMAD_S_BIRTHDAY: &str =
-    "Malaysia Day; Prophet Muhammad's Birthday";
+pub static _MALAYSIA_DAY__PROPHET_MUHAMMAD_S_BIRTHDAY: &str = "Malaysia Day; Prophet Muhammad's Birthday";
+pub static _MANGAIA_GOSPEL_DAY: &str = "Mangaia Gospel Day";
+pub static _MANGAIA_GOSPEL_DAY__OBSERVED_: &str = "Mangaia Gospel Day (observed)";
+pub static _MANIHIKI_GOSPEL_DAY: &str = "Manihiki Gospel Day";
+pub static _MANIHIKI_GOSPEL_DAY__OBSERVED_: &str = "Manihiki Gospel Day (observed)";
 pub static _MANIT_DAY: &str = "Manit Day";
 pub static _MANU_A_ISLANDS_CESSION_DAY: &str = "Manu'a Islands Cession Day";
 pub static _MANU_A_ISLANDS_CESSION_DAY__OBSERVED_: &str = "Manu'a Islands Cession Day (observed)";
+pub static _MAORE_DAY: &str = "Maore Day";
 pub static _MARINE_DAY: &str = "Marine Day";
 pub static _MARTIN_LUTHER_KING_JR__DAY: &str = "Martin Luther King Jr. Day";
+pub static _MARTYRDOM_OF_ALI_AL_RIDA: &str = "Martyrdom of Ali al-Rida";
 pub static _MARTYRDOM_OF_ALI_AL_RIDA__ESTIMATED_: &str = "Martyrdom of Ali al-Rida (estimated)";
-pub static _MARTYRDOM_OF_ALI__ESTIMATED_: &str = "Martyrdom of Ali (estimated)";
-pub static _MARTYRDOM_OF_ALI__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Martyrdom of Ali (estimated); Persian New Year";
+pub static _MARTYRDOM_OF_FATIMA: &str = "Martyrdom of Fatima";
 pub static _MARTYRDOM_OF_FATIMA__ESTIMATED_: &str = "Martyrdom of Fatima (estimated)";
-pub static _MARTYRDOM_OF_FATIMA__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Martyrdom of Fatima (estimated); Persian New Year";
-pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED_: &str =
-    "Martyrdom of Hasan al-Askari (estimated)";
-pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED___NATURE_S_DAY: &str =
-    "Martyrdom of Hasan al-Askari (estimated); Nature's Day";
-pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Martyrdom of Hasan al-Askari (estimated); Persian New Year";
-pub static _MARTYRDOM_OF_JA_FAR_AL_SADIQ__ESTIMATED_: &str =
-    "Martyrdom of Ja'far al-Sadiq (estimated)";
-pub static _MARTYRDOM_OF_JA_FAR_AL_SADIQ__ESTIMATED___NATURE_S_DAY: &str =
-    "Martyrdom of Ja'far al-Sadiq (estimated); Nature's Day";
-pub static _MARTYRDOM_OF_JA_FAR_AL_SADIQ__ESTIMATED___PERSIAN_NEW_YEAR: &str =
-    "Martyrdom of Ja'far al-Sadiq (estimated); Persian New Year";
+pub static _MARTYRDOM_OF_FATIMA__NOWRUZ_HOLIDAY: &str = "Martyrdom of Fatima; Nowruz Holiday";
+pub static _MARTYRDOM_OF_HASAN_AL_ASKARI: &str = "Martyrdom of Hasan al-Askari";
+pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED_: &str = "Martyrdom of Hasan al-Askari (estimated)";
+pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED___NATURE_S_DAY: &str = "Martyrdom of Hasan al-Askari (estimated); Nature's Day";
+pub static _MARTYRDOM_OF_HASAN_AL_ASKARI__ESTIMATED___NOWRUZ_HOLIDAY: &str = "Martyrdom of Hasan al-Askari (estimated); Nowruz Holiday";
+pub static _MARTYRDOM_OF_IMAM_ALI: &str = "Martyrdom of Imam Ali";
+pub static _MARTYRDOM_OF_IMAM_ALI__ESTIMATED_: &str = "Martyrdom of Imam Ali (estimated)";
+pub static _MARTYRDOM_OF_IMAM_ALI__NATURE_S_DAY: &str = "Martyrdom of Imam Ali; Nature's Day";
+pub static _MARTYRDOM_OF_IMAM_ALI__NOWRUZ_HOLIDAY: &str = "Martyrdom of Imam Ali; Nowruz Holiday";
+pub static _MARTYRDOM_OF_IMAM_JA_FAR_AL_SADIQ: &str = "Martyrdom of Imam Ja'far al-Sadiq";
+pub static _MARTYRDOM_OF_IMAM_JA_FAR_AL_SADIQ__ESTIMATED_: &str = "Martyrdom of Imam Ja'far al-Sadiq (estimated)";
+pub static _MARTYRDOM_OF_IMAM_JA_FAR_AL_SADIQ__ESTIMATED___NATURE_S_DAY: &str = "Martyrdom of Imam Ja'far al-Sadiq (estimated); Nature's Day";
+pub static _MARTYRDOM_OF_IMAM_JA_FAR_AL_SADIQ__ESTIMATED___NOWRUZ_HOLIDAY: &str = "Martyrdom of Imam Ja'far al-Sadiq (estimated); Nowruz Holiday";
 pub static _MARTYRS_DAY: &str = "Martyrs Day";
 pub static _MARTYRS_DAY__OBSERVED_: &str = "Martyrs Day (observed)";
 pub static _MARTYRS_OF_COLONIAL_REPRESSION_DAY: &str = "Martyrs of Colonial Repression Day";
 pub static _MARTYRS__DAY: &str = "Martyrs' Day";
 pub static _MARTYRS__DAY__OBSERVED_: &str = "Martyrs' Day (observed)";
+pub static _MARTYRS__DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Martyrs' Day; Prophet's Birthday (estimated)";
+pub static _MARTYR_S_DAY: &str = "Martyr's Day";
+pub static _MARY_PRINCE_DAY: &str = "Mary Prince Day";
 pub static _MASHUJAA_DAY: &str = "Mashujaa Day";
 pub static _MASHUJAA_DAY__OBSERVED_: &str = "Mashujaa Day (observed)";
 pub static _MATARIKI: &str = "Matariki";
+pub static _MAT_RI_I: &str = "Matāri'i";
+pub static _MAUKE_GOSPEL_DAY: &str = "Mauke Gospel Day";
+pub static _MAUKE_GOSPEL_DAY__MITIARO_GOSPEL_DAY__OBSERVED_: &str = "Mauke Gospel Day; Mitiaro Gospel Day (observed)";
+pub static _MAUKE_GOSPEL_DAY__OBSERVED_: &str = "Mauke Gospel Day (observed)";
 pub static _MAUNDY_THURSDAY: &str = "Maundy Thursday";
+pub static _MAUNDY_THURSDAY__NATIONAL_DAY_OF_REMEMBRANCE_FOR_TRUTH_AND_JUSTICE: &str = "Maundy Thursday; National Day of Remembrance for Truth and Justice";
 pub static _MAUNDY_THURSDAY__PANAMERICAN_DAY: &str = "Maundy Thursday; Panamerican Day";
+pub static _MAUNDY_THURSDAY__VETERAN_S_DAY_AND_THE_FALLEN_IN_THE_MALVINAS_WAR: &str = "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War";
 pub static _MAWLID: &str = "Mawlid";
 pub static _MAWLID_AL_NABI__ESTIMATED_: &str = "Mawlid al-Nabi (estimated)";
 pub static _MAWLID__ESTIMATED_: &str = "Mawlid (estimated)";
 pub static _MAWLID__ESTIMATED___NATIONAL_DAY: &str = "Mawlid (estimated); National Day";
-pub static _MAWLID__ESTIMATED___OBSERVED_: &str = "Mawlid (estimated) (observed)";
-pub static _MAWLID__ESTIMATED___OBSERVED___NATIONAL_DAY__OBSERVED_: &str =
-    "Mawlid (estimated) (observed); National Day (observed)";
-pub static _MAWLID__ESTIMATED___PALM_SUNDAY: &str = "Mawlid (estimated); Palm Sunday";
 pub static _MAWLID__ESTIMATED___YOUTH_DAY: &str = "Mawlid (estimated); Youth Day";
 pub static _MAWLID__OBSERVED_: &str = "Mawlid (observed)";
-pub static _MAWLID__PROCLAMATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str =
-    "Mawlid; Proclamation of Independence Day (observed)";
+pub static _MAWLID__OBSERVED__ESTIMATED_: &str = "Mawlid (observed, estimated)";
+pub static _MAWLID__OBSERVED__ESTIMATED___NATIONAL_DAY__OBSERVED_: &str = "Mawlid (observed, estimated); National Day (observed)";
+pub static _MAWLID__PROCLAMATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str = "Mawlid; Proclamation of Independence Day (observed)";
 pub static _MAWLID__REVOLUTION_DAY: &str = "Mawlid; Revolution Day";
 pub static _MAY_BANK_HOLIDAY: &str = "May Bank Holiday";
 pub static _MAY_DAY: &str = "May Day";
@@ -1811,23 +1975,33 @@ pub static _MAY_DAY_BANK_HOLIDAY: &str = "May Day Bank Holiday";
 pub static _MAY_DAY__OBSERVED_: &str = "May Day (observed)";
 pub static _MAY_DAY__SUNDAY: &str = "May Day; Sunday";
 pub static _MAY_REVOLUTION_DAY: &str = "May Revolution Day";
+pub static _MAZINGIRA_DAY: &str = "Mazingira Day";
+pub static _MAZINGIRA_DAY__OBSERVED_: &str = "Mazingira Day (observed)";
 pub static _MEAK_BOCHEA_DAY: &str = "Meak Bochea Day";
+pub static _MEDIN_FULL_MOON_POYA_DAY: &str = "Medin Full Moon Poya Day";
+pub static _MEDIN_FULL_MOON_POYA_DAY__PROPHET_S_BIRTHDAY: &str = "Medin Full Moon Poya Day; Prophet's Birthday";
 pub static _MEETING_OF_TWO_WORLDS__DAY: &str = "Meeting of Two Worlds' Day";
 pub static _MEMORIAL_DAY: &str = "Memorial Day";
+pub static _MEMORIAL_DAY_OF_GENOCIDE_PERPETRATED_AGAINST_THE_TUTSI_IN_1994: &str = "Memorial Day of Genocide perpetrated against the Tutsi in 1994";
+pub static _MEMORIAL_DAY__OBSERVED_: &str = "Memorial Day (observed)";
 pub static _MEMORIAL_SERVICE_FOR_KENNETH_KAUNDA: &str = "Memorial service for Kenneth Kaunda";
-pub static _MEMORY_S_NATIONAL_DAY_FOR_THE_TRUTH_AND_JUSTICE: &str =
-    "Memory's National Day for the Truth and Justice";
+pub static _MICRONESIAN_CULTURE_AND_TRADITION_DAY: &str = "Micronesian Culture and Tradition Day";
+pub static _MICRONESIAN_CULTURE_AND_TRADITION_DAY__OBSERVED_: &str = "Micronesian Culture and Tradition Day (observed)";
 pub static _MIDSUMMER_DAY: &str = "Midsummer Day";
 pub static _MIDSUMMER_EVE: &str = "Midsummer Eve";
 pub static _MID_AUTUMN_FESTIVAL: &str = "Mid-Autumn Festival";
 pub static _MID_AUTUMN_FESTIVAL__NATIONAL_DAY: &str = "Mid-Autumn Festival; National Day";
 pub static _MID_AUTUMN_FESTIVAL__OBSERVED_: &str = "Mid-Autumn Festival (observed)";
+pub static _MID_WINTER_DAY: &str = "Mid-winter Day";
+pub static _MID_WINTER_DAY__OBSERVED_: &str = "Mid-winter Day (observed)";
 pub static _MILLENNIUM_CELEBRATIONS: &str = "Millennium Celebrations";
+pub static _MISSIONARY_DAY: &str = "Missionary Day";
+pub static _MITIARO_GOSPEL_DAY: &str = "Mitiaro Gospel Day";
+pub static _MI_CAREME: &str = "Mi-Careme";
 pub static _MOI_DAY: &str = "Moi Day";
 pub static _MOI_DAY__OBSERVED_: &str = "Moi Day (observed)";
 pub static _MOJAHEDIN_S_VICTORY_DAY: &str = "Mojahedin's Victory Day";
-pub static _MOJAHEDIN_S_VICTORY_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Mojahedin's Victory Day; Prophet's Birthday (estimated)";
+pub static _MOJAHEDIN_S_VICTORY_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Mojahedin's Victory Day; Prophet's Birthday (estimated)";
 pub static _MONDAY_BEFORE_ASH_WEDNESDAY: &str = "Monday before Ash Wednesday";
 pub static _MONDAY_OF_CARNIVAL: &str = "Monday of Carnival";
 pub static _MORAZAN_S_DAY: &str = "Morazan's Day";
@@ -1836,70 +2010,90 @@ pub static _MOSHOESHOE_S_DAY: &str = "Moshoeshoe's Day";
 pub static _MOTHER_S_DAY: &str = "Mother's Day";
 pub static _MOTHER_S_DAY__OBSERVED_: &str = "Mother's Day (observed)";
 pub static _MOTHER_TERESA_BEATIFICATION_DAY: &str = "Mother Teresa Beatification Day";
-pub static _MOTHER_TERESA_BEATIFICATION_DAY__OBSERVED_: &str =
-    "Mother Teresa Beatification Day (observed)";
+pub static _MOTHER_TERESA_BEATIFICATION_DAY__OBSERVED_: &str = "Mother Teresa Beatification Day (observed)";
 pub static _MOTHER_TERESA_CANONIZATION_DAY: &str = "Mother Teresa Canonization Day";
-pub static _MOTHER_TERESA_CANONIZATION_DAY__OBSERVED_: &str =
-    "Mother Teresa Canonization Day (observed)";
+pub static _MOTHER_TERESA_CANONIZATION_DAY__OBSERVED_: &str = "Mother Teresa Canonization Day (observed)";
 pub static _MOUNTAIN_DAY: &str = "Mountain Day";
+pub static _MOURNING_THE_DEATH_OF_HER_MAJESTY_THE_QUEEN_ELIZABETH_II: &str = "Mourning the Death of Her Majesty The Queen Elizabeth II";
 pub static _MUNICIPAL_ELECTIONS: &str = "Municipal elections";
+pub static _NAME_DAY_OF_THE_HOLY_FATHER: &str = "Name Day of the Holy Father";
+pub static _NAME_DAY_OF_THE_HOLY_FATHER__SAINT_JOSEPH_S_DAY: &str = "Name Day of the Holy Father; Saint Joseph's Day";
 pub static _NATALE: &str = "Natale";
-pub static _NATIONAL_AND_PROVINCIAL_GOVERNMENT_ELECTIONS: &str =
-    "National and provincial government elections";
+pub static _NATIONAL_AND_PROVINCIAL_GOVERNMENT_ELECTIONS: &str = "National and provincial government elections";
 pub static _NATIONAL_ANTHEM_AND_FLAG_DAY: &str = "National Anthem and Flag Day";
 pub static _NATIONAL_ASSEMBLY_ELECTION_DAY: &str = "National Assembly Election Day";
+pub static _NATIONAL_CENSUS_DAY_2010: &str = "National Census Day 2010";
 pub static _NATIONAL_CENSUS_DAY_2022: &str = "National Census Day 2022";
 pub static _NATIONAL_CHILDREN_S_DAY: &str = "National Children's Day";
 pub static _NATIONAL_CLEAN_UP_DAY: &str = "National Clean Up Day";
+pub static _NATIONAL_CONCORD_DAY: &str = "National Concord Day";
+pub static _NATIONAL_CONCORD_DAY__OBSERVED_: &str = "National Concord Day (observed)";
 pub static _NATIONAL_DAY: &str = "National Day";
 pub static _NATIONAL_DAY_HOLIDAY: &str = "National Day Holiday";
 pub static _NATIONAL_DAY_HOLIDAY__OBSERVED_: &str = "National Day Holiday (observed)";
 pub static _NATIONAL_DAY_OF_COMMUNITY_SERVICE: &str = "National Day of Community Service";
-pub static _NATIONAL_DAY_OF_COMMUNITY_SERVICE__OBSERVED_: &str =
-    "National Day of Community Service (observed)";
+pub static _NATIONAL_DAY_OF_COMMUNITY_SERVICE__OBSERVED_: &str = "National Day of Community Service (observed)";
 pub static _NATIONAL_DAY_OF_DEMOCRACY: &str = "National Day of Democracy";
 pub static _NATIONAL_DAY_OF_INDIGENOUS_PEOPLES: &str = "National Day of Indigenous Peoples";
 pub static _NATIONAL_DAY_OF_MOURNING: &str = "National Day of Mourning";
-pub static _NATIONAL_DAY_OF_MOURNING_FOR_QUEEN_ELIZABETH_II: &str =
-    "National Day of Mourning for Queen Elizabeth II";
-pub static _NATIONAL_DAY_OF_MOURNING_FOR_SIR_MICHAEL_SOMARE: &str =
-    "National Day of Mourning for Sir Michael Somare";
+pub static _NATIONAL_DAY_OF_MOURNING_FOR_QUEEN_ELIZABETH_II: &str = "National Day of Mourning for Queen Elizabeth II";
+pub static _NATIONAL_DAY_OF_MOURNING_FOR_SIR_MICHAEL_SOMARE: &str = "National Day of Mourning for Sir Michael Somare";
+pub static _NATIONAL_DAY_OF_PATRIOTISM_AND_COMMEMORATION_OF_THE_DEATH_OF_PRESIDENT_PIERRE_NKURUNZIZA: &str = "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza";
+pub static _NATIONAL_DAY_OF_PATRIOTISM_AND_COMMEMORATION_OF_THE_DEATH_OF_PRESIDENT_PIERRE_NKURUNZIZA__OBSERVED_: &str = "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza (observed)";
+pub static _NATIONAL_DAY_OF_PRAYER_AND_THANKSGIVING: &str = "National Day of Prayer and Thanksgiving";
 pub static _NATIONAL_DAY_OF_REMEMBRANCE: &str = "National Day of Remembrance";
+pub static _NATIONAL_DAY_OF_REMEMBRANCE_FOR_TRUTH_AND_JUSTICE: &str = "National Day of Remembrance for Truth and Justice";
 pub static _NATIONAL_DAY_OF_SWEDEN: &str = "National Day of Sweden";
 pub static _NATIONAL_DAY_OF_SWEDEN__SUNDAY: &str = "National Day of Sweden; Sunday";
-pub static _NATIONAL_DAY_OF_SWEDEN__SUNDAY__WHIT_SUNDAY: &str =
-    "National Day of Sweden; Sunday; Whit Sunday";
+pub static _NATIONAL_DAY_OF_SWEDEN__SUNDAY__WHIT_SUNDAY: &str = "National Day of Sweden; Sunday; Whit Sunday";
+pub static _NATIONAL_DAY_OF_THANKSGIVING: &str = "National Day of Thanksgiving";
+pub static _NATIONAL_DAY_OF_THANKSGIVING__OBSERVED_: &str = "National Day of Thanksgiving (observed)";
+pub static _NATIONAL_DAY_OF_THE_PEOPLE_S_REPUBLIC_OF_CHINA: &str = "National Day of the People's Republic of China";
+pub static _NATIONAL_DAY_OF_THE_PEOPLE_S_REPUBLIC_OF_CHINA__THE_DAY_FOLLOWING_MID_AUTUMN_FESTIVAL: &str = "National Day of the People's Republic of China; The Day following Mid-Autumn Festival";
+pub static _NATIONAL_DAY_OF_THE_REPUBLIC_OF_MALI: &str = "National Day of the Republic of Mali";
 pub static _NATIONAL_DAY_OF_THE_THIRD_OF_MAY: &str = "National Day of the Third of May";
-pub static _NATIONAL_DAY_OF_ZUMBI_AND_BLACK_AWARENESS: &str =
-    "National Day of Zumbi and Black Awareness";
+pub static _NATIONAL_DAY_OF_ZUMBI_AND_BLACK_AWARENESS: &str = "National Day of Zumbi and Black Awareness";
 pub static _NATIONAL_DAY__ESTIMATED_: &str = "National Day (estimated)";
+pub static _NATIONAL_DAY__IN_HONOR_OF_UNAINE_: &str = "National Day (in honor of Unaine)";
+pub static _NATIONAL_DAY__IN_HONOR_OF_UNAINE___OBSERVED_: &str = "National Day (in honor of Unaine) (observed)";
+pub static _NATIONAL_DAY__IN_HONOR_OF_UNIMWANE_: &str = "National Day (in honor of Unimwane)";
 pub static _NATIONAL_DAY__OBSERVED_: &str = "National Day (observed)";
-pub static _NATIONAL_DAY__PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str =
-    "National Day; Prophet's Birthday (observed, estimated)";
-pub static _NATIONAL_DAY__THE_DAY_FOLLOWING_THE_CHINESE_MID_AUTUMN_FESTIVAL: &str =
-    "National Day; The day following the Chinese Mid-Autumn Festival";
+pub static _NATIONAL_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "National Day; Prophet's Birthday (estimated)";
+pub static _NATIONAL_DAY__PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "National Day; Prophet's Birthday (observed, estimated)";
+pub static _NATIONAL_DAY__THE_DAY_FOLLOWING_MID_AUTUMN_FESTIVAL: &str = "National Day; The Day following Mid-Autumn Festival";
+pub static _NATIONAL_DAY___INDEPENDENCE_ANNIVERSARY: &str = "National Day - Independence Anniversary";
+pub static _NATIONAL_DAY___INDEPENDENCE_ANNIVERSARY__OBSERVED_: &str = "National Day - Independence Anniversary (observed)";
+pub static _NATIONAL_DEMOCRACY_DAY: &str = "National Democracy Day";
 pub static _NATIONAL_DIGNITY_DAY: &str = "National Dignity Day";
+pub static _NATIONAL_ENVIRONMENTAL_SANITATION_DAY: &str = "National Environmental Sanitation Day";
+pub static _NATIONAL_ENVIRONMENTAL_SANITATION_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "National Environmental Sanitation Day; Prophet's Birthday (estimated)";
+pub static _NATIONAL_FESTIVAL_AND_PEOPLE_S_REVOLUTION_ANNIVERSARY: &str = "National Festival and People's Revolution Anniversary";
 pub static _NATIONAL_FLAG_DAY: &str = "National Flag Day";
 pub static _NATIONAL_FLAG_DAY__OBSERVED_: &str = "National Flag Day (observed)";
 pub static _NATIONAL_FOUNDATION_DAY: &str = "National Foundation Day";
-pub static _NATIONAL_FOUNDATION_DAY__THE_DAY_PRECEDING_CHUSEOK: &str =
-    "National Foundation Day; The day preceding Chuseok";
-pub static _NATIONAL_FOUNDATION_DAY__THE_SECOND_DAY_OF_CHUSEOK: &str =
-    "National Foundation Day; The second day of Chuseok";
+pub static _NATIONAL_FOUNDATION_DAY__THE_DAY_PRECEDING_CHUSEOK: &str = "National Foundation Day; The day preceding Chuseok";
+pub static _NATIONAL_FOUNDATION_DAY__THE_SECOND_DAY_OF_CHUSEOK: &str = "National Foundation Day; The second day of Chuseok";
+pub static _NATIONAL_FREEDOM_AND_INDEPENDENCE_DAY: &str = "National Freedom and Independence Day";
+pub static _NATIONAL_HEALTH_DAY: &str = "National Health Day";
+pub static _NATIONAL_HEALTH_DAY__OBSERVED_: &str = "National Health Day (observed)";
+pub static _NATIONAL_HERITAGE_DAY: &str = "National Heritage Day";
 pub static _NATIONAL_HEROES_AND_BENEFACTORS_DAY: &str = "National Heroes and Benefactors Day";
-pub static _NATIONAL_HEROES_AND_BENEFACTORS_DAY__OBSERVED_: &str =
-    "National Heroes and Benefactors Day (observed)";
+pub static _NATIONAL_HEROES_AND_BENEFACTORS_DAY__OBSERVED_: &str = "National Heroes and Benefactors Day (observed)";
+pub static _NATIONAL_HEROES_AND_HEROINES_DAY: &str = "National Heroes and Heroines Day";
+pub static _NATIONAL_HEROES_AND_HEROINES_DAY__OBSERVED_: &str = "National Heroes and Heroines Day (observed)";
 pub static _NATIONAL_HEROES_DAY: &str = "National Heroes Day";
 pub static _NATIONAL_HEROES_DAY__OBSERVED_: &str = "National Heroes Day (observed)";
 pub static _NATIONAL_HEROES__DAY: &str = "National Heroes' Day";
+pub static _NATIONAL_HEROES__DAY__OBSERVED_: &str = "National Heroes' Day (observed)";
+pub static _NATIONAL_HERO_LAURENT_D_SIR__KABILA_DAY: &str = "National Hero Laurent Désiré Kabila Day";
+pub static _NATIONAL_HERO_LAURENT_D_SIR__KABILA_DAY__NATIONAL_HERO_PATRICE_EMERY_LUMUMBA_DAY__OBSERVED_: &str = "National Hero Laurent Désiré Kabila Day; National Hero Patrice Emery Lumumba Day (observed)";
+pub static _NATIONAL_HERO_LAURENT_D_SIR__KABILA_DAY__OBSERVED_: &str = "National Hero Laurent Désiré Kabila Day (observed)";
+pub static _NATIONAL_HERO_PATRICE_EMERY_LUMUMBA_DAY: &str = "National Hero Patrice Emery Lumumba Day";
 pub static _NATIONAL_HOLIDAY: &str = "National Holiday";
 pub static _NATIONAL_INDEPENDENCE_DAY: &str = "National Independence Day";
-pub static _NATIONAL_INDEPENDENCE_DAY__NEW_YEAR_S_DAY: &str =
-    "National Independence Day; New Year's Day";
-pub static _NATIONAL_INDEPENDENCE_DAY__WATER_FESTIVAL: &str =
-    "National Independence Day; Water Festival";
-pub static _NATIONAL_INDEPENDENCE_DAY___100TH_ANNIVERSARY: &str =
-    "National Independence Day - 100th anniversary";
+pub static _NATIONAL_INDEPENDENCE_DAY__NEW_YEAR_S_DAY: &str = "National Independence Day; New Year's Day";
+pub static _NATIONAL_INDEPENDENCE_DAY__WATER_FESTIVAL: &str = "National Independence Day; Water Festival";
+pub static _NATIONAL_INDEPENDENCE_DAY___100TH_ANNIVERSARY: &str = "National Independence Day - 100th anniversary";
 pub static _NATIONAL_LABOR_DAY: &str = "National Labor Day";
 pub static _NATIONAL_LABOR_DAY__IN_LIEU_: &str = "National Labor Day (in lieu)";
 pub static _NATIONAL_LABOUR_DAY: &str = "National Labour Day";
@@ -1907,28 +2101,38 @@ pub static _NATIONAL_LABOUR_DAY__OBSERVED_: &str = "National Labour Day (observe
 pub static _NATIONAL_LANGUAGE_DAY: &str = "National Language Day";
 pub static _NATIONAL_LIBERATION_DAY: &str = "National Liberation Day";
 pub static _NATIONAL_LIBERATION_DAY__OBSERVED_: &str = "National Liberation Day (observed)";
+pub static _NATIONAL_MEMORIAL_DAY: &str = "National Memorial Day";
+pub static _NATIONAL_MEMORIAL_DAY__OBSERVED_: &str = "National Memorial Day (observed)";
 pub static _NATIONAL_MOURNING_DAY: &str = "National Mourning Day";
 pub static _NATIONAL_MOURNING_DAY__OBSERVED_: &str = "National Mourning Day (observed)";
-pub static _NATIONAL_POPULATION_AND_HOUSING_CENSUS_DAY: &str =
-    "National Population and Housing Census Day";
+pub static _NATIONAL_PEACE_DAY: &str = "National Peace Day";
+pub static _NATIONAL_POPULATION_AND_HOUSING_CENSUS: &str = "National Population and Housing Census";
+pub static _NATIONAL_POPULATION_AND_HOUSING_CENSUS_DAY: &str = "National Population and Housing Census Day";
 pub static _NATIONAL_PRAYER_DAY: &str = "National Prayer Day";
 pub static _NATIONAL_PRAYER_DAY__OBSERVED_: &str = "National Prayer Day (observed)";
 pub static _NATIONAL_REPENTANCE_DAY: &str = "National Repentance Day";
 pub static _NATIONAL_REPENTANCE_DAY__OBSERVED_: &str = "National Repentance Day (observed)";
-pub static _NATIONAL_SOVEREIGNTY_AND_CHILDREN_S_DAY: &str =
-    "National Sovereignty and Children's Day";
+pub static _NATIONAL_SOVEREIGNTY_AND_CHILDREN_S_DAY: &str = "National Sovereignty and Children's Day";
 pub static _NATIONAL_SOVEREIGNTY_DAY: &str = "National Sovereignty Day";
-pub static _NATIONAL_SOVEREIGNTY_DAY__OBSERVED_: &str = "National Sovereignty Day (observed)";
-pub static _NATIONAL_SYMBOLS_DAY: &str = "National Symbols Day";
+pub static _NATIONAL_SPIRITUAL_BAPTIST_DAY: &str = "National Spiritual Baptist Day";
+pub static _NATIONAL_SPIRITUAL_BAPTIST_DAY__WHIT_MONDAY: &str = "National Spiritual Baptist Day; Whit Monday";
+pub static _NATIONAL_SPORTS_DAY: &str = "National Sports Day";
+pub static _NATIONAL_TREE_GROWING_DAY: &str = "National Tree Growing Day";
+pub static _NATIONAL_UNIFICATION_AND_INTEGRATION_DAY: &str = "National Unification and Integration Day";
 pub static _NATIONAL_UNITY_DAY: &str = "National Unity Day";
+pub static _NATIONAL_UPRISING_DAY: &str = "National Uprising Day";
+pub static _NATIONAL_UPRISING_DAY__OBSERVED_: &str = "National Uprising Day (observed)";
 pub static _NATIONAL_WOMEN_S_DAY: &str = "National Women's Day";
 pub static _NATIONAL_WOMEN_S_DAY__OBSERVED_: &str = "National Women's Day (observed)";
+pub static _NATIONAL_WORKERS__DAY: &str = "National Workers' Day";
+pub static _NATIONAL_WORKERS__DAY__OBSERVED_: &str = "National Workers' Day (observed)";
 pub static _NATIONAL_YOUTH_DAY: &str = "National Youth Day";
 pub static _NATIONAL_YOUTH_DAY__OBSERVED_: &str = "National Youth Day (observed)";
 pub static _NATIVITY_OF_MARY: &str = "Nativity of Mary";
-pub static _NATIVITY_OF_MARY_DAY: &str = "Nativity of Mary Day";
 pub static _NATURE_S_DAY: &str = "Nature's Day";
 pub static _NAVY_DAY: &str = "Navy Day";
+pub static _NAWAM_FULL_MOON_POYA_DAY: &str = "Nawam Full Moon Poya Day";
+pub static _NEPALI_NEW_YEAR: &str = "Nepali New Year";
 pub static _NEW_YEAR_HOLIDAY: &str = "New Year Holiday";
 pub static _NEW_YEAR_HOLIDAYS: &str = "New Year Holidays";
 pub static _NEW_YEAR_HOLIDAY__OBSERVED_: &str = "New Year Holiday (observed)";
@@ -1936,12 +2140,16 @@ pub static _NEW_YEAR_S_DAY: &str = "New Year's Day";
 pub static _NEW_YEAR_S_DAY_HOLIDAY: &str = "New Year's Day Holiday";
 pub static _NEW_YEAR_S_DAY_HOLIDAY__OBSERVED_: &str = "New Year's Day Holiday (observed)";
 pub static _NEW_YEAR_S_DAY__IN_LIEU_: &str = "New Year's Day (in lieu)";
+pub static _NEW_YEAR_S_DAY__NEW_YEAR_S_DAY__OBSERVED_: &str = "New Year's Day; New Year's Day (observed)";
 pub static _NEW_YEAR_S_DAY__OBSERVED_: &str = "New Year's Day (observed)";
 pub static _NEW_YEAR_S_DAY__SUBSTITUTE_DAY_: &str = "New Year's Day (substitute day)";
 pub static _NEW_YEAR_S_DAY__SUNDAY: &str = "New Year's Day; Sunday";
 pub static _NEW_YEAR_S_EVE: &str = "New Year's Eve";
 pub static _NEW_YEAR_S_EVE__IN_LIEU_: &str = "New Year's Eve (in lieu)";
 pub static _NEW_YEAR_S_EVE__SUNDAY: &str = "New Year's Eve; Sunday";
+pub static _NEW_YEAR_S_HOLIDAY: &str = "New Year's Holiday";
+pub static _NEW_YEAR_S_HOLIDAY__OBSERVED_: &str = "New Year's Holiday (observed)";
+pub static _NIKINI_FULL_MOON_POYA_DAY: &str = "Nikini Full Moon Poya Day";
 pub static _NINOY_AQUINO_DAY: &str = "Ninoy Aquino Day";
 pub static _NJEGOS_DAY: &str = "Njegos Day";
 pub static _NJEGOS_DAY__OBSERVED_: &str = "Njegos Day (observed)";
@@ -1950,12 +2158,14 @@ pub static _NOORUZ_MAIRAMY__OROZO_AIT__ESTIMATED_: &str = "Nooruz Mairamy; Orozo
 pub static _NOWRUZ: &str = "Nowruz";
 pub static _NOWRUZ_DAY: &str = "Nowruz Day";
 pub static _NOWRUZ_DAY__OBSERVED_: &str = "Nowruz Day (observed)";
-pub static _NOWRUZ_HOLIDAY: &str = "Nowruz holiday";
-pub static _NOWRUZ_HOLIDAY__OBSERVED_: &str = "Nowruz holiday (observed)";
+pub static _NOWRUZ_HOLIDAY: &str = "Nowruz Holiday";
+pub static _NOWRUZ_HOLIDAY__OBSERVED_: &str = "Nowruz Holiday (observed)";
+pub static _NOWRUZ_HOLIDAY__TASUA: &str = "Nowruz Holiday; Tasua";
 pub static _NOWRUZ__OBSERVED_: &str = "Nowruz (observed)";
+pub static _NOWRUZ__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Nowruz; Prophet's Birthday (estimated)";
+pub static _NRM_LIBERATION_DAY: &str = "NRM Liberation Day";
 pub static _NUCLEAR_VICTIMS_REMEMBRANCE_DAY: &str = "Nuclear Victims Remembrance Day";
-pub static _NUCLEAR_VICTIMS_REMEMBRANCE_DAY_HOLIDAY: &str =
-    "Nuclear Victims Remembrance Day Holiday";
+pub static _NUCLEAR_VICTIMS_REMEMBRANCE_DAY_HOLIDAY: &str = "Nuclear Victims Remembrance Day Holiday";
 pub static _OCHI_DAY: &str = "Ochi Day";
 pub static _OCTOBER_BANK_HOLIDAY: &str = "October Bank Holiday";
 pub static _OCTOBER_REVOLUTION_DAY: &str = "October Revolution Day";
@@ -1966,203 +2176,250 @@ pub static _ORTHODOX_EASTER: &str = "Orthodox Easter";
 pub static _ORTHODOX_EASTER_SUNDAY: &str = "Orthodox Easter Sunday";
 pub static _ORTHODOX_EASTER_SUNDAY__OBSERVED_: &str = "Orthodox Easter Sunday (observed)";
 pub static _ORTHODOX_GOOD_FRIDAY: &str = "Orthodox Good Friday";
+pub static _ORTHODOX_HOLY_SATURDAY: &str = "Orthodox Holy Saturday";
 pub static _OUED_ED_DAHAB_DAY: &str = "Oued Ed-Dahab Day";
-pub static _OUED_ED_DAHAB_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str =
-    "Oued Ed-Dahab Day; Prophet's Birthday (estimated)";
+pub static _OUED_ED_DAHAB_DAY__PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Oued Ed-Dahab Day; Prophet's Birthday (estimated)";
 pub static _OUR_LADY_OF_APARECIDA: &str = "Our Lady of Aparecida";
 pub static _OUR_LADY_OF_MERCEDES_DAY: &str = "Our Lady of Mercedes Day";
+pub static _OUR_LADY_OF_MERITXELL: &str = "Our Lady of Meritxell";
 pub static _OUR_LADY_OF_MOUNT_CARMEL: &str = "Our Lady of Mount Carmel";
 pub static _PAKISTAN_DAY: &str = "Pakistan Day";
-pub static _PALM_SUNDAY: &str = "Palm Sunday";
+pub static _PALMERSTON_GOSPEL_DAY: &str = "Palmerston Gospel Day";
+pub static _PALMERSTON_GOSPEL_DAY__OBSERVED_: &str = "Palmerston Gospel Day (observed)";
 pub static _PANAMERICAN_DAY: &str = "Panamerican Day";
 pub static _PANCASILA_DAY: &str = "Pancasila Day";
 pub static _PANCASILA_DAY__VESAK_DAY__ESTIMATED_: &str = "Pancasila Day; Vesak Day (estimated)";
 pub static _PAN_AMERICAN_DAY: &str = "Pan American Day";
 pub static _PAN_AMERICAN_DAY__OBSERVED_: &str = "Pan American Day (observed)";
 pub static _PAPUA_NEW_GUINEA_REMEMBRANCE_DAY: &str = "Papua New Guinea Remembrance Day";
-pub static _PAPUA_NEW_GUINEA_REMEMBRANCE_DAY__OBSERVED_: &str =
-    "Papua New Guinea Remembrance Day (observed)";
+pub static _PAPUA_NEW_GUINEA_REMEMBRANCE_DAY__OBSERVED_: &str = "Papua New Guinea Remembrance Day (observed)";
+pub static _PARENTS__DAY: &str = "Parents' Day";
+pub static _PARENTS__DAY__OBSERVED_: &str = "Parents' Day (observed)";
 pub static _PARIS_PEACE_AGREEMENT_S_DAY: &str = "Paris Peace Agreement's Day";
 pub static _PARLIAMENTARY_ELECTION_DAY: &str = "Parliamentary Election Day";
 pub static _PASQUA_DI_RESURREZIONE: &str = "Pasqua di Resurrezione";
-pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_JOS__DE_SAN_MARTIN: &str =
-    "Pass to the Immortality of General Don José de San Martin";
-pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_JOS__DE_SAN_MARTIN__OBSERVED_: &str =
-    "Pass to the Immortality of General Don José de San Martin (observed)";
-pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_MANUEL_BELGRANO: &str =
-    "Pass to the Immortality of General Don Manuel Belgrano";
-pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_MART_N_MIGUEL_DE_G_EMES: &str =
-    "Pass to the Immortality of General Don Martín Miguel de Güemes";
-pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_MART_N_MIGUEL_DE_G_EMES__OBSERVED_: &str =
-    "Pass to the Immortality of General Don Martín Miguel de Güemes (observed)";
+pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_JOS__DE_SAN_MART_N: &str = "Pass to the Immortality of General Don José de San Martín";
+pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_MANUEL_BELGRANO: &str = "Pass to the Immortality of General Don Manuel Belgrano";
+pub static _PASS_TO_THE_IMMORTALITY_OF_GENERAL_DON_MART_N_MIGUEL_DE_G_EMES: &str = "Pass to the Immortality of General Don Martín Miguel de Güemes";
 pub static _PATRIOTS_DAY: &str = "Patriots Day";
-pub static _PATRIOTS__DAY: &str = "Patriots' Day";
 pub static _PCHUM_BEN_DAY: &str = "Pchum Ben Day";
+pub static _PEACE_AGREEMENT_DAY: &str = "Peace Agreement Day";
 pub static _PEACE_AND_NATIONAL_RECONCILIATION_DAY: &str = "Peace and National Reconciliation Day";
 pub static _PEACE_AND_RECONCILIATION_DAY: &str = "Peace and Reconciliation Day";
-pub static _PEACE_AND_RECONCILIATION_DAY__OBSERVED_: &str =
-    "Peace and Reconciliation Day (observed)";
+pub static _PEACE_AND_RECONCILIATION_DAY__OBSERVED_: &str = "Peace and Reconciliation Day (observed)";
 pub static _PEACE_DAY_IN_CAMBODIA: &str = "Peace Day in Cambodia";
 pub static _PEACE_MEMORIAL_DAY: &str = "Peace Memorial Day";
 pub static _PEACE_MEMORIAL_DAY__OBSERVED_: &str = "Peace Memorial Day (observed)";
-pub static _PEASANTS_DAY: &str = "Peasants Day";
+pub static _PEASANTS__DAY: &str = "Peasants' Day";
+pub static _PEASANTS__DAY__OBSERVED_: &str = "Peasants' Day (observed)";
+pub static _PEAT_CUTTING_DAY: &str = "Peat Cutting Day";
+pub static _PENIAMINA_GOSPEL_DAY: &str = "Peniamina Gospel Day";
+pub static _PENRHYN_GOSPEL_DAY: &str = "Penrhyn Gospel Day";
+pub static _PENRHYN_GOSPEL_DAY__OBSERVED_: &str = "Penrhyn Gospel Day (observed)";
 pub static _PENTECOST: &str = "Pentecost";
-pub static _PERSIAN_NEW_YEAR: &str = "Persian New Year";
-pub static _PERSIAN_NEW_YEAR__TASUA__ESTIMATED_: &str = "Persian New Year; Tasua (estimated)";
+pub static _PEOPLE_S_AUTHORITY_DAY: &str = "People's Authority Day";
+pub static _PEOPLE_WAR_S_DAY: &str = "People War's Day";
+pub static _PERUVIAN_AIR_FORCE_DAY: &str = "Peruvian Air Force Day";
 pub static _PESACH: &str = "Pesach";
 pub static _PHYSICAL_EDUCATION_DAY: &str = "Physical Education Day";
+pub static _PIDJIGUITI_DAY: &str = "Pidjiguiti Day";
+pub static _PITCAIRN_DAY: &str = "Pitcairn Day";
 pub static _PLATINUM_JUBILEE_OF_ELIZABETH_II: &str = "Platinum Jubilee of Elizabeth II";
-pub static _PLATINUM_JUBILEE_OF_ELIZABETH_II__TT_BANK_HOLIDAY: &str =
-    "Platinum Jubilee of Elizabeth II; TT Bank Holiday";
+pub static _PLATINUM_JUBILEE_OF_ELIZABETH_II__TT_BANK_HOLIDAY: &str = "Platinum Jubilee of Elizabeth II; TT Bank Holiday";
 pub static _PLURINATIONAL_STATE_FOUNDATION_DAY: &str = "Plurinational State Foundation Day";
-pub static _PLURINATIONAL_STATE_FOUNDATION_DAY__OBSERVED_: &str =
-    "Plurinational State Foundation Day (observed)";
+pub static _PLURINATIONAL_STATE_FOUNDATION_DAY__OBSERVED_: &str = "Plurinational State Foundation Day (observed)";
 pub static _POLICE_DAY: &str = "Police Day";
 pub static _POLLING_DAY: &str = "Polling Day";
 pub static _POPULAR_CONSULTATION_DAY: &str = "Popular Consultation Day";
-pub static _POST_HURRICANE_MARIA_THANKSGIVING_CELEBRATIONS: &str =
-    "Post-Hurricane Maria Thanksgiving Celebrations";
-pub static _PRESEREN_S_DAY: &str = "Preseren's Day";
+pub static _PORTUGUESE_WELCOME_170TH_ANNIVERSARY: &str = "Portuguese Welcome 170th Anniversary";
+pub static _POSON_FULL_MOON_POYA_DAY: &str = "Poson Full Moon Poya Day";
+pub static _POSSESSION_DAY: &str = "Possession Day";
+pub static _POSSESSION_DAY__OBSERVED_: &str = "Possession Day (observed)";
+pub static _POST_HURRICANE_MARIA_THANKSGIVING_CELEBRATIONS: &str = "Post-Hurricane Maria Thanksgiving Celebrations";
 pub static _PRESIDENTIAL_ELECTIONS: &str = "Presidential elections";
 pub static _PRESIDENTIAL_ELECTION_DAY: &str = "Presidential Election Day";
 pub static _PRESIDENTIAL_INAUGURATION: &str = "Presidential inauguration";
 pub static _PRESIDENTIAL_INAUGURATION_DAY: &str = "Presidential Inauguration Day";
+pub static _PRESIDENTS_DAY: &str = "Presidents Day";
+pub static _PRESIDENTS_DAY__OBSERVED_: &str = "Presidents Day (observed)";
 pub static _PRESIDENTS__DAY: &str = "Presidents' Day";
-pub static _PRESIDENT_MOI_CELEBRATION_OF_LIFE_DAY: &str = "President Moi Celebration of Life Day";
-pub static _PRESIDENT_NDADAYE_S_DAY: &str = "President Ndadaye's Day";
-pub static _PRESIDENT_NDADAYE_S_DAY__OBSERVED_: &str = "President Ndadaye's Day (observed)";
-pub static _PRESIDENT_NKURUNZIZA_DAY: &str = "President Nkurunziza Day";
-pub static _PRESIDENT_NKURUNZIZA_DAY__OBSERVED_: &str = "President Nkurunziza Day (observed)";
-pub static _PRESIDENT_NTARYAMIRA_DAY: &str = "President Ntaryamira Day";
-pub static _PRESIDENT_NTARYAMIRA_DAY__OBSERVED_: &str = "President Ntaryamira Day (observed)";
+pub static _PRESIDENT_MOI_MEMORIAL_DAY: &str = "President Moi Memorial Day";
 pub static _PRESIDENT_S_DAY: &str = "President's Day";
 pub static _PRESIDENT_S_DAY_HOLIDAY: &str = "President's Day Holiday";
 pub static _PRESIDENT_S_DAY__OBSERVED_: &str = "President's Day (observed)";
-pub static _PRINCE_LOUIS_RWAGASORE_DAY: &str = "Prince Louis Rwagasore Day";
-pub static _PRINCE_LOUIS_RWAGASORE_DAY__OBSERVED_: &str = "Prince Louis Rwagasore Day (observed)";
+pub static _PRE_EREN_S_DAY__THE_SLOVENIAN_CULTURAL_HOLIDAY: &str = "Prešeren's Day, the Slovenian Cultural Holiday";
 pub static _PRINCE_S_DAY: &str = "Prince's Day";
 pub static _PRINCE_S_DAY__OBSERVED_: &str = "Prince's Day (observed)";
+pub static _PRITHVI_JAYANTI: &str = "Prithvi Jayanti";
 pub static _PROCLAMATION_OF_INDEPENDENCE_DAY: &str = "Proclamation of Independence Day";
-pub static _PROCLAMATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str =
-    "Proclamation of Independence Day (observed)";
+pub static _PROCLAMATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str = "Proclamation of Independence Day (observed)";
+pub static _PROPHET_MOHAMMED_S_BIRTHDAY: &str = "Prophet Mohammed's Birthday";
+pub static _PROPHET_MOHAMMED_S_BIRTHDAY__ESTIMATED_: &str = "Prophet Mohammed's Birthday (estimated)";
+pub static _PROPHET_MOHAMMED_S_BIRTHDAY__OBSERVED_: &str = "Prophet Mohammed's Birthday (observed)";
+pub static _PROPHET_MOHAMMED_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "Prophet Mohammed's Birthday (observed, estimated)";
 pub static _PROPHET_MUHAMMAD_S_BIRTHDAY: &str = "Prophet Muhammad's Birthday";
-pub static _PROPHET_MUHAMMAD_S_BIRTHDAY__ESTIMATED_: &str =
-    "Prophet Muhammad's Birthday (estimated)";
+pub static _PROPHET_MUHAMMAD_S_BIRTHDAY__ESTIMATED_: &str = "Prophet Muhammad's Birthday (estimated)";
 pub static _PROPHET_MUHAMMAD_S_BIRTHDAY__OBSERVED_: &str = "Prophet Muhammad's Birthday (observed)";
-pub static _PROPHET_MUHAMMAD_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str =
-    "Prophet Muhammad's Birthday (observed, estimated)";
+pub static _PROPHET_MUHAMMAD_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "Prophet Muhammad's Birthday (observed, estimated)";
+pub static _PROPHET_S_BAPTISM: &str = "Prophet's Baptism";
+pub static _PROPHET_S_BAPTISM__ESTIMATED_: &str = "Prophet's Baptism (estimated)";
 pub static _PROPHET_S_BIRTHDAY: &str = "Prophet's Birthday";
 pub static _PROPHET_S_BIRTHDAY__ESTIMATED_: &str = "Prophet's Birthday (estimated)";
-pub static _PROPHET_S_BIRTHDAY__ESTIMATED___WORKERS__DAY: &str =
-    "Prophet's Birthday (estimated); Workers' Day";
-pub static _PROPHET_S_BIRTHDAY__ESTIMATED___WORKER_S_DAY: &str =
-    "Prophet's Birthday (estimated); Worker's Day";
+pub static _PROPHET_S_BIRTHDAY__ESTIMATED___WHIT_MONDAY: &str = "Prophet's Birthday (estimated); Whit Monday";
 pub static _PROPHET_S_BIRTHDAY__OBSERVED_: &str = "Prophet's Birthday (observed)";
-pub static _PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str =
-    "Prophet's Birthday (observed, estimated)";
+pub static _PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED_: &str = "Prophet's Birthday (observed, estimated)";
+pub static _PROPHET_S_BIRTHDAY__OBSERVED__ESTIMATED___REPUBLIC_DAY: &str = "Prophet's Birthday (observed, estimated); Republic Day";
+pub static _PROPHET_S_BIRTHDAY__TAMIL_THAI_PONGAL_DAY: &str = "Prophet's Birthday; Tamil Thai Pongal Day";
+pub static _PROPHET_S_BIRTHDAY__VAP_FULL_MOON_POYA_DAY: &str = "Prophet's Birthday; Vap Full Moon Poya Day";
+pub static _PUBLIC_HEALTH_HOLIDAY: &str = "Public Health Holiday";
 pub static _PUBLIC_HOLIDAY: &str = "Public Holiday";
 pub static _PUBLIC_HOLIDAY_BY_PRESIDENTIAL_DECREE: &str = "Public holiday by presidential decree";
 pub static _PUBLIC_HOLIDAY_FOR_ELECTIONS: &str = "Public Holiday for Elections";
+pub static _PUBLIC_HOLIDAY_FOR_PRESIDENTIAL_ELECTION_PREPARATION: &str = "Public holiday for Presidential election preparation";
+pub static _PUKAPUKA_GOSPEL_DAY: &str = "Pukapuka Gospel Day";
+pub static _PUKAPUKA_GOSPEL_DAY__OBSERVED_: &str = "Pukapuka Gospel Day (observed)";
+pub static _QATAR_NATIONAL_DAY: &str = "Qatar National Day";
 pub static _QUAID_E_AZAM_DAY: &str = "Quaid-e-Azam Day";
 pub static _QUEEN_ELIZABETH_II_MEMORIAL_DAY: &str = "Queen Elizabeth II Memorial Day";
+pub static _QUEEN_ELIZABETH_II_S_DIAMOND_JUBILEE: &str = "Queen Elizabeth II's Diamond Jubilee";
+pub static _QUEEN_ELIZABETH_II_S_FUNERAL: &str = "Queen Elizabeth II's Funeral";
+pub static _QUEEN_ELIZABETH_II_S_PLATINUM_JUBILEE: &str = "Queen Elizabeth II's Platinum Jubilee";
+pub static _QUEEN_ELIZABETH_II_S_STATE_FUNERAL: &str = "Queen Elizabeth II's State Funeral";
 pub static _QUEEN_S_BIRTHDAY: &str = "Queen's Birthday";
+pub static _QUEEN_S_BIRTHDAY__OBSERVED_: &str = "Queen's Birthday (observed)";
+pub static _QUEEN_S_BIRTHDAY__WHIT_MONDAY: &str = "Queen's Birthday; Whit Monday";
 pub static _QUEEN_S_DAY: &str = "Queen's Day";
 pub static _QUEEN_S_DIAMOND_JUBILEE: &str = "Queen's Diamond Jubilee";
 pub static _QUEEN_S_GOLDEN_JUBILEE: &str = "Queen's Golden Jubilee";
 pub static _QUEEN_S_PLATINUM_JUBILEE: &str = "Queen's Platinum Jubilee";
 pub static _QUEEN_S_PLATINUM_JUBILEE_BANK_HOLIDAY: &str = "Queen's Platinum Jubilee Bank Holiday";
 pub static _RADUNITSA__DAY_OF_REJOICING_: &str = "Radunitsa (Day of Rejoicing)";
-pub static _RADUNITSA__DAY_OF_REJOICING___VICTORY_DAY: &str =
-    "Radunitsa (Day of Rejoicing); Victory Day";
+pub static _RADUNITSA__DAY_OF_REJOICING___VICTORY_DAY: &str = "Radunitsa (Day of Rejoicing); Victory Day";
+pub static _RAKAHANGA_GOSPEL_DAY: &str = "Rakahanga Gospel Day";
+pub static _RAKAHANGA_GOSPEL_DAY__OBSERVED_: &str = "Rakahanga Gospel Day (observed)";
+pub static _RAM_NAVAMI: &str = "Ram Navami";
 pub static _RANDOL_FAWKES_LABOUR_DAY: &str = "Randol Fawkes Labour Day";
+pub static _RAROTONGA_GOSPEL_DAY: &str = "Rarotonga Gospel Day";
+pub static _RAROTONGA_GOSPEL_DAY__OBSERVED_: &str = "Rarotonga Gospel Day (observed)";
+pub static _RATU_SIR_LALA_SUKUNA_DAY: &str = "Ratu Sir Lala Sukuna Day";
 pub static _RECONCILIATION_DAY: &str = "Reconciliation Day";
 pub static _RECONCILIATION_DAY__WHIT_MONDAY: &str = "Reconciliation Day; Whit Monday";
+pub static _REFERENDUM_DAY: &str = "Referendum Day";
 pub static _REFORMATION_DAY: &str = "Reformation Day";
+pub static _REGIONAL_ELECTION_DAY: &str = "Regional Election Day";
 pub static _REMEMBRANCE_DAY: &str = "Remembrance Day";
+pub static _REMEMBRANCE_DAY__OBSERVED_: &str = "Remembrance Day (observed)";
+pub static _RENAISSANCE_DAY: &str = "Renaissance Day";
 pub static _REPUBLIC_DAY: &str = "Republic Day";
 pub static _REPUBLIC_DAY__OBSERVED_: &str = "Republic Day (observed)";
+pub static _REPUBLIC_HOLIDAY: &str = "Republic Holiday";
 pub static _REPUBLIC_OF_LATVIA_PROCLAMATION_DAY: &str = "Republic of Latvia Proclamation Day";
-pub static _REPUBLIC_OF_LATVIA_PROCLAMATION_DAY__OBSERVED_: &str =
-    "Republic of Latvia Proclamation Day (observed)";
+pub static _REPUBLIC_OF_LATVIA_PROCLAMATION_DAY__OBSERVED_: &str = "Republic of Latvia Proclamation Day (observed)";
 pub static _REPUBLIC_OF_MOLDOVA_INDEPENDENCE_DAY: &str = "Republic of Moldova Independence Day";
 pub static _REPUBLIC_PROCLAMATION_DAY: &str = "Republic Proclamation Day";
+pub static _RESISTANCE_AND_LIBERATION_DAY: &str = "Resistance and Liberation Day";
 pub static _RESPECT_FOR_CULTURAL_DIVERSITY_DAY: &str = "Respect for Cultural Diversity Day";
-pub static _RESPECT_FOR_CULTURAL_DIVERSITY_DAY__OBSERVED_: &str =
-    "Respect for Cultural Diversity Day (observed)";
 pub static _RESPECT_FOR_THE_AGED_DAY: &str = "Respect for the Aged Day";
 pub static _RESTORATION_DAY: &str = "Restoration Day";
 pub static _RESTORATION_OF_INDEPENDENCE_DAY: &str = "Restoration of Independence Day";
-pub static _RESTORATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str =
-    "Restoration of Independence Day (observed)";
+pub static _RESTORATION_OF_INDEPENDENCE_DAY__OBSERVED_: &str = "Restoration of Independence Day (observed)";
+pub static _REVOLUTION_AND_ARMED_FORCES_DAY: &str = "Revolution and Armed Forces Day";
+pub static _REVOLUTION_AND_ARMED_FORCES_DAY__OBSERVED_: &str = "Revolution and Armed Forces Day (observed)";
 pub static _REVOLUTION_AND_YOUTH_DAY: &str = "Revolution and Youth Day";
 pub static _REVOLUTION_DAY: &str = "Revolution Day";
 pub static _REVOLUTION_DAY__OBSERVED_: &str = "Revolution Day (observed)";
 pub static _RIZAL_DAY: &str = "Rizal Day";
-pub static _ROBERT_GABRIEL_MUGABE_NATIONAL_YOUTH_DAY: &str =
-    "Robert Gabriel Mugabe National Youth Day";
-pub static _ROBERT_GABRIEL_MUGABE_NATIONAL_YOUTH_DAY__OBSERVED_: &str =
-    "Robert Gabriel Mugabe National Youth Day (observed)";
+pub static _ROBERT_GABRIEL_MUGABE_NATIONAL_YOUTH_DAY: &str = "Robert Gabriel Mugabe National Youth Day";
+pub static _ROBERT_GABRIEL_MUGABE_NATIONAL_YOUTH_DAY__OBSERVED_: &str = "Robert Gabriel Mugabe National Youth Day (observed)";
+pub static _RONPHOS_HANDOVER: &str = "RONPHOS Handover";
+pub static _RONPHOS_HANDOVER__OBSERVED_: &str = "RONPHOS Handover (observed)";
 pub static _ROSE_OF_LIMA_DAY: &str = "Rose of Lima Day";
 pub static _ROSH_HASHANAH: &str = "Rosh Hashanah";
 pub static _ROYAL_PLOUGHING_CEREMONY: &str = "Royal Ploughing Ceremony";
-pub static _ROYAL_WEDDING_OF_CROWN_PRINCE_AL_MUHTADEE_BILLAH_AND_CROWN_PRINCESS_SARAH_OF_BRUNEI:
-    &str = "Royal Wedding of Crown Prince Al-Muhtadee Billah and Crown Princess Sarah of Brunei";
+pub static _ROYAL_WEDDING_OF_CROWN_PRINCE_AL_MUHTADEE_BILLAH_AND_CROWN_PRINCESS_SARAH_OF_BRUNEI: &str = "Royal Wedding of Crown Prince Al-Muhtadee Billah and Crown Princess Sarah of Brunei";
+pub static _ROYAL_WEDDING_OF_PRINCE_WILLIAM___KATE_MIDDLETON: &str = "Royal Wedding of Prince William & Kate Middleton";
 pub static _RUSSIA_DAY: &str = "Russia Day";
 pub static _SACRED_HEART__OBSERVED_: &str = "Sacred Heart (observed)";
-pub static _SACRED_HEART__OBSERVED___SAINT_PETER_AND_SAINT_PAUL__OBSERVED_: &str =
-    "Sacred Heart (observed); Saint Peter and Saint Paul (observed)";
+pub static _SACRED_HEART__OBSERVED___SAINT_PETER_AND_SAINT_PAUL_S_DAY__OBSERVED_: &str = "Sacred Heart (observed); Saint Peter and Saint Paul's Day (observed)";
 pub static _SAINTS_CYRIL_AND_METHODIUS_DAY: &str = "Saints Cyril and Methodius Day";
+pub static _SAINTS_CYRIL_AND_METHODIUS_DAY__OBSERVED_: &str = "Saints Cyril and Methodius Day (observed)";
+pub static _SAINTS_PETER_AND_PAUL_DAY: &str = "Saints Peter and Paul Day";
+pub static _SAINTS_PETER_AND_PAUL_S_DAY: &str = "Saints Peter and Paul's Day";
 pub static _SAINT_ANDREW_S_DAY: &str = "Saint Andrew's Day";
 pub static _SAINT_BRIGID_S_DAY: &str = "Saint Brigid's Day";
-pub static _SAINT_CHARLES_BORROMEO_DAY: &str = "Saint Charles Borromeo Day";
 pub static _SAINT_CLEMENT_OF_OHRID_DAY: &str = "Saint Clement of Ohrid Day";
+pub static _SAINT_CLEMENT_OF_OHRID_DAY__OBSERVED_: &str = "Saint Clement of Ohrid Day (observed)";
 pub static _SAINT_DEVOTE_S_DAY: &str = "Saint Devote's Day";
 pub static _SAINT_GEORGE_S_CAYE_DAY: &str = "Saint George's Caye Day";
 pub static _SAINT_GEORGE_S_CAYE_DAY__OBSERVED_: &str = "Saint George's Caye Day (observed)";
 pub static _SAINT_GEORGE_S_DAY: &str = "Saint George's Day";
-pub static _SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY_: &str =
-    "Saint George's Day (Day of the Bulgarian Army)";
-pub static _SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY___OBSERVED_: &str =
-    "Saint George's Day (Day of the Bulgarian Army) (observed)";
+pub static _SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY_: &str = "Saint George's Day (Day of the Bulgarian Army)";
+pub static _SAINT_GEORGE_S_DAY__DAY_OF_THE_BULGARIAN_ARMY___OBSERVED_: &str = "Saint George's Day (Day of the Bulgarian Army) (observed)";
 pub static _SAINT_JOHN_THE_BAPTIST: &str = "Saint John the Baptist";
+pub static _SAINT_JOHN_THE_EVANGELIST_S_DAY: &str = "Saint John the Evangelist's Day";
 pub static _SAINT_JOSEPH_S_DAY: &str = "Saint Joseph's Day";
 pub static _SAINT_JOSEPH_S_DAY__OBSERVED_: &str = "Saint Joseph's Day (observed)";
 pub static _SAINT_JOSEPH_THE_WORKER_S_DAY: &str = "Saint Joseph the Worker's Day";
+pub static _SAINT_MARINUS__DAY__ANNIVERSARY_OF_THE_FOUNDING_OF_THE_REPUBLIC: &str = "Saint Marinus' Day, Anniversary of the Founding of the Republic";
+pub static _SAINT_MARON_S_DAY: &str = "Saint Maron's Day";
+pub static _SAINT_OLAF_S_DAY: &str = "Saint Olaf's Day";
 pub static _SAINT_PATRICK_S_DAY: &str = "Saint Patrick's Day";
-pub static _SAINT_PETER_AND_SAINT_PAUL: &str = "Saint Peter and Saint Paul";
+pub static _SAINT_PATRICK_S_DAY__OBSERVED_: &str = "Saint Patrick's Day (observed)";
 pub static _SAINT_PETER_AND_SAINT_PAUL_S_DAY: &str = "Saint Peter and Saint Paul's Day";
-pub static _SAINT_PETER_AND_SAINT_PAUL__OBSERVED_: &str = "Saint Peter and Saint Paul (observed)";
+pub static _SAINT_PETER_AND_SAINT_PAUL_S_DAY__OBSERVED_: &str = "Saint Peter and Saint Paul's Day (observed)";
 pub static _SAINT_STEPHEN_S_DAY: &str = "Saint Stephen's Day";
+pub static _SAINT_URSULA_S_DAY: &str = "Saint Ursula's Day";
+pub static _SAINT_URSULA_S_DAY__OBSERVED_: &str = "Saint Ursula's Day (observed)";
 pub static _SANTO_STEFANO: &str = "Santo Stefano";
 pub static _SECOND_DAY_OF_CHRISTMAS: &str = "Second Day of Christmas";
 pub static _SECOND_DAY_OF_CHRISTMAS__SUNDAY: &str = "Second Day of Christmas; Sunday";
 pub static _SECOND_DAY_OF_LUNAR_NEW_YEAR: &str = "Second Day of Lunar New Year";
+pub static _SECOND_REPUBLIC_DAY: &str = "Second Republic Day";
 pub static _SENIOR_CITIZENS_DAY: &str = "Senior Citizens Day";
 pub static _SENIOR_CITIZENS_DAY__OBSERVED_: &str = "Senior Citizens Day (observed)";
 pub static _SEPARATION_DAY: &str = "Separation Day";
+pub static _SEPARATION_DAY__OBSERVED_: &str = "Separation Day (observed)";
 pub static _SETTE_GIUGNO: &str = "Sette Giugno";
 pub static _SEVENTH_DAY_OF_PESACH: &str = "Seventh day of Pesach";
 pub static _SG50_PUBLIC_HOLIDAY: &str = "SG50 Public Holiday";
-pub static _SHAM_EL_NESSIM: &str = "Sham El Nessim";
-pub static _SHAM_EL_NESSIM__SINAI_LIBERATION_DAY: &str = "Sham El Nessim; Sinai Liberation Day";
+pub static _SHACKLETON_DAY: &str = "Shackleton Day";
+pub static _SHACKLETON_DAY__OBSERVED_: &str = "Shackleton Day (observed)";
 pub static _SHAVUOT: &str = "Shavuot";
-pub static _SHEIKH_MUJIBUR_RAHMAN_S_BIRTHDAY_AND_CHILDREN_S_DAY: &str =
-    "Sheikh Mujibur Rahman's Birthday and Children's Day";
+pub static _SHEIKH_MUJIBUR_RAHMAN_S_BIRTHDAY_AND_CHILDREN_S_DAY: &str = "Sheikh Mujibur Rahman's Birthday and Children's Day";
 pub static _SHOWA_DAY: &str = "Showa Day";
+pub static _SHOW_DAY: &str = "Show Day";
+pub static _SHREE_KRISHNA_JANMASHTAMI: &str = "Shree Krishna Janmashtami";
 pub static _SHROVE_MONDAY: &str = "Shrove Monday";
 pub static _SIMCHAT_TORAH___SHEMINI_ATZERET: &str = "Simchat Torah / Shemini Atzeret";
 pub static _SINAI_LIBERATION_DAY: &str = "Sinai Liberation Day";
+pub static _SINAI_LIBERATION_DAY__OBSERVED_: &str = "Sinai Liberation Day (observed)";
+pub static _SINAI_LIBERATION_DAY__SPRING_FESTIVAL: &str = "Sinai Liberation Day; Spring Festival";
+pub static _SINHALA_AND_TAMIL_NEW_YEAR: &str = "Sinhala and Tamil New Year";
+pub static _SINT_MAARTEN_DAY: &str = "Sint Maarten Day";
+pub static _SIR_HAMMER_DEROBURT_DAY: &str = "Sir Hammer DeRoburt Day";
+pub static _SIR_HAMMER_DEROBURT_DAY__OBSERVED_: &str = "Sir Hammer DeRoburt Day (observed)";
 pub static _SIR_SERETSE_KHAMA_DAY: &str = "Sir Seretse Khama Day";
 pub static _SIR_SERETSE_KHAMA_DAY__OBSERVED_: &str = "Sir Seretse Khama Day (observed)";
+pub static _SIR_VERE_CORNWALL_BIRD_SNR__DAY: &str = "Sir Vere Cornwall Bird Snr. Day";
+pub static _SIR_VERE_CORNWALL_BIRD_SNR__DAY__OBSERVED_: &str = "Sir Vere Cornwall Bird Snr. Day (observed)";
 pub static _SIXTH_DAY_OF_LUNAR_NEW_YEAR: &str = "Sixth Day of Lunar New Year";
 pub static _SLOVAK_NATIONAL_UPRISING_ANNIVERSARY: &str = "Slovak National Uprising Anniversary";
-pub static _SOLEMNITY_OF_MARY_DAY: &str = "Solemnity of Mary Day";
+pub static _SOLEMNITY_OF_HOLY_TRINITY: &str = "Solemnity of Holy Trinity";
+pub static _SOLEMNITY_OF_MARY__MOTHER_OF_GOD: &str = "Solemnity of Mary, Mother of God";
+pub static _SOLEMNITY_OF_PENTECOST: &str = "Solemnity of Pentecost";
 pub static _SOLIDARITY_DAY: &str = "Solidarity Day";
+pub static _SOMERS_DAY: &str = "Somers Day";
+pub static _SONAM_LHOCHHAR: &str = "Sonam Lhochhar";
 pub static _SONGKRAN_FESTIVAL: &str = "Songkran Festival";
 pub static _SONGKRAN_FESTIVAL__IN_LIEU_: &str = "Songkran Festival (in lieu)";
 pub static _SOUTHERN_AFRICA_LIBERATION_DAY: &str = "Southern Africa Liberation Day";
+pub static _SOVEREIGN_S_BIRTHDAY: &str = "Sovereign's Birthday";
 pub static _SPECIAL_IN_LIEU_HOLIDAY: &str = "Special In Lieu Holiday";
+pub static _SPECIAL_KING_S_CORONATION_BANK_HOLIDAY: &str = "Special King's Coronation Bank Holiday";
 pub static _SPECIAL_PUBLIC_HOLIDAY: &str = "Special Public Holiday";
+pub static _SPIRITUAL_BAPTIST_LIBERATION_DAY: &str = "Spiritual Baptist Liberation Day";
+pub static _SPIRITUAL_BAPTIST_LIBERATION_DAY__OBSERVED_: &str = "Spiritual Baptist Liberation Day (observed)";
+pub static _SPLA_DAY: &str = "SPLA Day";
 pub static _SPORTS_DAY: &str = "Sports Day";
 pub static _SPRING_BANK_HOLIDAY: &str = "Spring Bank Holiday";
 pub static _SPRING_DAY: &str = "Spring Day";
@@ -2170,88 +2427,116 @@ pub static _SPRING_FESTIVAL: &str = "Spring Festival";
 pub static _SPRING_FESTIVAL__OBSERVED_: &str = "Spring Festival (observed)";
 pub static _STATEHOOD_DAY: &str = "Statehood Day";
 pub static _STATEHOOD_DAY__OBSERVED_: &str = "Statehood Day (observed)";
+pub static _STATE_FLAG_DAY: &str = "State Flag Day";
+pub static _STATE_FLAG_DAY__OBSERVED_: &str = "State Flag Day (observed)";
 pub static _STATE_FOUNDATION_DAY: &str = "State Foundation Day";
-pub static _STATE_FUNERAL_FOR_FORMER_PRESIDENT_MWAI_KIBAKI: &str =
-    "State Funeral for Former President Mwai Kibaki";
+pub static _STATE_FUNERAL_FOR_FORMER_PRESIDENT_MWAI_KIBAKI: &str = "State Funeral for Former President Mwai Kibaki";
+pub static _STATE_FUNERAL_OF_HONOURABLE_RALPH_T__O_NEAL: &str = "State Funeral of Honourable Ralph T. O'Neal";
 pub static _STATE_FUNERAL_OF_QUEEN_ELIZABETH_II: &str = "State Funeral of Queen Elizabeth II";
 pub static _STATE_FUNERAL_OF_SIR_MEKERE_MORAUTA: &str = "State Funeral of Sir Mekere Morauta";
 pub static _STATE_FUNERAL_OF_SIR_RABBIE_NAMALIU: &str = "State Funeral of Sir Rabbie Namaliu";
+pub static _STATE_FUNERAL_OF_THE_LATE_THE_HONOURABLE_CHARLESWORTH_T__SAMUEL: &str = "State Funeral of the late The Honourable Charlesworth T. Samuel";
+pub static _STATE_FUNERAL_OF_THE_LATE_THE_HONOURABLE_SIR_GEORGE_HERBERT_WALTER: &str = "State Funeral of the late The Honourable Sir George Herbert Walter";
 pub static _STATE_FUNERAL_OF__AKILISI_POHIVA: &str = "State Funeral of 'Akilisi Pohiva";
 pub static _STRUGGLE_FOR_FREEDOM_AND_DEMOCRACY_DAY: &str = "Struggle for Freedom and Democracy Day";
+pub static _STRUGGLE_FOR_FREEDOM_AND_DEMOCRACY_DAY_AND_INTERNATIONAL_STUDENTS__DAY: &str = "Struggle for Freedom and Democracy Day and International Students' Day";
 pub static _SUBSTITUTE_HOLIDAY: &str = "Substitute Holiday";
 pub static _SUKKOT: &str = "Sukkot";
 pub static _SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY: &str = "Sultan Hassanal Bolkiah's Birthday";
-pub static _SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY__OBSERVED_: &str =
-    "Sultan Hassanal Bolkiah's Birthday (observed)";
-pub static _SULTAN_HASSANAL_BOLKIAH_S_GOLDEN_JUBILEE: &str =
-    "Sultan Hassanal Bolkiah's Golden Jubilee";
+pub static _SULTAN_HASSANAL_BOLKIAH_S_BIRTHDAY__OBSERVED_: &str = "Sultan Hassanal Bolkiah's Birthday (observed)";
+pub static _SULTAN_HASSANAL_BOLKIAH_S_GOLDEN_JUBILEE: &str = "Sultan Hassanal Bolkiah's Golden Jubilee";
+pub static _SULTAN_S_ACCESSION_DAY: &str = "Sultan's Accession Day";
 pub static _SUMMER_BANK_HOLIDAY: &str = "Summer Bank Holiday";
 pub static _SUMMER_DAY: &str = "Summer Day";
 pub static _SUMMER_DAY__OBSERVED_: &str = "Summer Day (observed)";
 pub static _SUNDAY: &str = "Sunday";
 pub static _SUNDAY__WHIT_SUNDAY: &str = "Sunday; Whit Sunday";
+pub static _S_O_TOM__DAY: &str = "São Tomé Day";
+pub static _S_O_TOM__DAY__OBSERVED_: &str = "São Tomé Day (observed)";
+pub static _TAIWAN_RESTORATION_AND_GUNINGTOU_VICTORY_MEMORIAL_DAY: &str = "Taiwan Restoration and Guningtou Victory Memorial Day";
+pub static _TAKAI_COMMISSION_HOLIDAY: &str = "Takai Commission Holiday";
+pub static _TAKAI_COMMISSION_HOLIDAY__OBSERVED_: &str = "Takai Commission Holiday (observed)";
+pub static _TAMIL_THAI_PONGAL_DAY: &str = "Tamil Thai Pongal Day";
+pub static _TAMU_LHOCHHAR: &str = "Tamu Lhochhar";
 pub static _TANZANIA_GENERAL_ELECTION_DAY: &str = "Tanzania General Election Day";
+pub static _TASUA: &str = "Tasua";
 pub static _TASUA__ESTIMATED_: &str = "Tasua (estimated)";
 pub static _TEACHERS_AND_INSTRUCTORS_DAY: &str = "Teachers and Instructors Day";
-pub static _TEACHERS_AND_INSTRUCTORS_DAY__OBSERVED_: &str =
-    "Teachers and Instructors Day (observed)";
+pub static _TEACHERS_AND_INSTRUCTORS_DAY__OBSERVED_: &str = "Teachers and Instructors Day (observed)";
 pub static _TEMPORARY_PUBLIC_HOLIDAY: &str = "Temporary Public Holiday";
+pub static _TERCENTENARY_HOLIDAY: &str = "Tercentenary Holiday";
+pub static _TERRITORY_DAY: &str = "Territory Day";
+pub static _TERRITORY_DAY__OBSERVED_: &str = "Territory Day (observed)";
+pub static _THAIPUSAM: &str = "Thaipusam";
 pub static _THAI_ELECTION_DAY: &str = "Thai Election Day";
 pub static _THAI_ELECTION_DAY__IN_LIEU_: &str = "Thai Election Day (in lieu)";
-pub static _THANKSGIVING: &str = "Thanksgiving";
 pub static _THANKSGIVING_DAY: &str = "Thanksgiving Day";
-pub static _THE_70TH_ANNIVERSARY_DAY_OF_THE_VICTORY_OF_THE_CHINESE_PEOPLE_S_WAR_OF_RESISTANCE_AGAINST_JAPANESE_AGGRESSION: &str = "The 70th anniversary day of the victory of the Chinese people's war of resistance against Japanese aggression";
+pub static _THANKSGIVING_DAY__OBSERVED_: &str = "Thanksgiving Day (observed)";
 pub static _THE_BATTLE_OF_PICHINCHA: &str = "The Battle of Pichincha";
 pub static _THE_BATTLE_OF_PICHINCHA__OBSERVED_: &str = "The Battle of Pichincha (observed)";
-pub static _THE_BIRTHDAY_OF_THE_BUDDHA: &str = "The Birthday of the Buddha";
-pub static _THE_BIRTHDAY_OF_THE_BUDDHA__OBSERVED_: &str = "The Birthday of the Buddha (observed)";
+pub static _THE_BUDDHA_S_BIRTHDAY: &str = "The Buddha's Birthday";
+pub static _THE_BUDDHA_S_BIRTHDAY__OBSERVED_: &str = "The Buddha's Birthday (observed)";
+pub static _THE_CORONATION_OF_HIS_MAJESTY_KING_CHARLES_III: &str = "The Coronation of His Majesty King Charles III";
 pub static _THE_DAY_AFTER_NEW_YEAR_S_DAY: &str = "The Day After New Year's Day";
 pub static _THE_DAY_FOLLOWING_GOOD_FRIDAY: &str = "The day following Good Friday";
-pub static _THE_DAY_FOLLOWING_THE_CHINESE_MID_AUTUMN_FESTIVAL: &str =
-    "The day following the Chinese Mid-Autumn Festival";
-pub static _THE_DAY_MALDIVES_EMBRACED_ISLAM__ESTIMATED_: &str =
-    "The Day Maldives Embraced Islam (estimated)";
+pub static _THE_DAY_FOLLOWING_GOOD_FRIDAY__TOMB_SWEEPING_DAY: &str = "The day following Good Friday; Tomb-Sweeping Day";
+pub static _THE_DAY_FOLLOWING_MID_AUTUMN_FESTIVAL: &str = "The Day following Mid-Autumn Festival";
+pub static _THE_DAY_MALDIVES_EMBRACED_ISLAM__ESTIMATED_: &str = "The Day Maldives Embraced Islam (estimated)";
 pub static _THE_DAY_PRECEDING_CHUSEOK: &str = "The day preceding Chuseok";
 pub static _THE_DAY_PRECEDING_KOREAN_NEW_YEAR: &str = "The day preceding Korean New Year";
-pub static _THE_DAY_PRECEDING_LUNAR_NEW_YEAR_S_DAY: &str = "The day preceding Lunar New Year's Day";
-pub static _THE_FIRST_DAY_OF_JANUARY: &str = "The first day of January";
-pub static _THE_FIRST_DAY_OF_JANUARY__OBSERVED_: &str = "The first day of January (observed)";
+pub static _THE_DUKE_OF_EDINBURGH_S_VISIT: &str = "The Duke of Edinburgh's Visit";
 pub static _THE_FIRST_WEEKDAY_AFTER_CHRISTMAS_DAY: &str = "The first weekday after Christmas Day";
-pub static _THE_FIRST_WEEKDAY_AFTER_CHRISTMAS_DAY__OBSERVED_: &str =
-    "The first weekday after Christmas Day (observed)";
-pub static _THE_FOURTH_DAY_OF_LUNAR_NEW_YEAR: &str = "The fourth day of Lunar New Year";
-pub static _THE_MWALIMU_NYERERE_DAY: &str = "The Mwalimu Nyerere Day";
-pub static _THE_SECOND_DAY_FOLLOWING_THE_CHINESE_MID_AUTUMN_FESTIVAL: &str =
-    "The second day following the Chinese Mid-Autumn Festival";
+pub static _THE_FIRST_WEEKDAY_AFTER_CHRISTMAS_DAY__OBSERVED_: &str = "The first weekday after Christmas Day (observed)";
+pub static _THE_FOURTH_DAY_OF_CHINESE_NEW_YEAR: &str = "The fourth day of Chinese New Year";
+pub static _THE_GREAT_MARCH_OF_1949_AND_RESTORATION_DAY: &str = "The Great March of 1949 and Restoration Day";
+pub static _THE_MWALIMU_NYERERE_DAY_AND_CLIMAX_OF_THE_UHURU_TORCH_RACE: &str = "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race";
+pub static _THE_MWALIMU_NYERERE_DAY_AND_CLIMAX_OF_THE_UHURU_TORCH_RACE__OBSERVED_: &str = "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race (observed)";
+pub static _THE_QUEEN_S_BIRTHDAY: &str = "The Queen's Birthday";
+pub static _THE_QUEEN_S_BIRTHDAY__OBSERVED_: &str = "The Queen's Birthday (observed)";
+pub static _THE_QUEEN_S_PLATINUM_JUBILEE: &str = "The Queen's Platinum Jubilee";
+pub static _THE_SECOND_DAY_FOLLOWING_MID_AUTUMN_FESTIVAL: &str = "The Second Day following Mid-Autumn Festival";
+pub static _THE_SECOND_DAY_OF_CHINESE_NEW_YEAR: &str = "The second day of Chinese New Year";
 pub static _THE_SECOND_DAY_OF_CHUSEOK: &str = "The second day of Chuseok";
 pub static _THE_SECOND_DAY_OF_KOREAN_NEW_YEAR: &str = "The second day of Korean New Year";
-pub static _THE_SECOND_DAY_OF_LUNAR_NEW_YEAR: &str = "The second day of Lunar New Year";
 pub static _THE_SHEIKH_ABEID_AMANI_KARUME_DAY: &str = "The Sheikh Abeid Amani Karume Day";
-pub static _THE_THIRD_DAY_OF_LUNAR_NEW_YEAR: &str = "The third day of Lunar New Year";
-pub static _THE_VISIT_OF_HER_MAJESTY_QUEEN_ELIZABETH_II: &str =
-    "The visit of Her Majesty Queen Elizabeth II";
-pub static _THE_VISIT_OF_HIS_MAJESTY_KING_CHARLES_III_AND_QUEEN_CAMILLA: &str =
-    "The visit of His Majesty King Charles III and Queen Camilla";
+pub static _THE_SHEIKH_ABEID_AMANI_KARUME_DAY__OBSERVED_: &str = "The Sheikh Abeid Amani Karume Day (observed)";
+pub static _THE_THIRD_DAY_OF_CHINESE_NEW_YEAR: &str = "The third day of Chinese New Year";
+pub static _THE_VISIT_OF_HER_MAJESTY_QUEEN_ELIZABETH_II: &str = "The visit of Her Majesty Queen Elizabeth II";
+pub static _THE_VISIT_OF_HIS_MAJESTY_KING_CHARLES_III_AND_QUEEN_CAMILLA: &str = "The visit of His Majesty King Charles III and Queen Camilla";
 pub static _THIRD_DAY_OF_LUNAR_NEW_YEAR: &str = "Third Day of Lunar New Year";
 pub static _THREE_KINGS_DAY: &str = "Three Kings Day";
 pub static _THRONE_DAY: &str = "Throne Day";
+pub static _TIHAR_HOLIDAY: &str = "Tihar Holiday";
 pub static _TIRADENTES__DAY: &str = "Tiradentes' Day";
+pub static _TISHREEN_LIBERATION_WAR_DAY: &str = "Tishreen Liberation War Day";
+pub static _TOKEHEGA_DAY: &str = "Tokehega Day";
 pub static _TOMB_SWEEPING_DAY: &str = "Tomb-Sweeping Day";
 pub static _TOMB_SWEEPING_DAY__OBSERVED_: &str = "Tomb-Sweeping Day (observed)";
 pub static _TONGA_RUGBY_PUBLIC_HOLIDAY: &str = "Tonga Rugby Public Holiday";
+pub static _TOOTHFISH_DAY: &str = "Toothfish Day";
+pub static _TOOTHFISH_DAY__OBSERVED_: &str = "Toothfish Day (observed)";
+pub static _TOOTHFISH__END_OF_SEASON__DAY: &str = "Toothfish (End of Season) Day";
+pub static _TOOTHFISH__END_OF_SEASON__DAY__OBSERVED_: &str = "Toothfish (End of Season) Day (observed)";
+pub static _TRADITIONAL_DAY_OF_OFFERING: &str = "Traditional Day of Offering";
 pub static _TRANSFER_DAY: &str = "Transfer Day";
 pub static _TREE_PLANTING_DAY: &str = "Tree Planting Day";
 pub static _TT_BANK_HOLIDAY: &str = "TT Bank Holiday";
-pub static _TUEN_NG_FESTIVAL: &str = "Tuen Ng Festival";
-pub static _TUEN_NG_FESTIVAL__OBSERVED_: &str = "Tuen Ng Festival (observed)";
+pub static _TUBMAN_ADMINISTRATION_GOODWILL_DAY: &str = "Tubman Administration Goodwill Day";
 pub static _TUESDAY_OF_CARNIVAL: &str = "Tuesday of Carnival";
 pub static _TUTTI_I_SANTI: &str = "Tutti i Santi";
+pub static _TUVALU_DAY: &str = "Tuvalu Day";
+pub static _TUVALU_DAY__OBSERVED_: &str = "Tuvalu Day (observed)";
 pub static _TYNWALD_DAY: &str = "Tynwald Day";
+pub static _UGADI: &str = "Ugadi";
+pub static _UGANDA_MARTYRS__DAY: &str = "Uganda Martyrs' Day";
+pub static _UK_ROYAL_WEDDING: &str = "UK Royal Wedding";
+pub static _UMUGANURA_DAY: &str = "Umuganura Day";
+pub static _UNDUVAP_FULL_MOON_POYA_DAY: &str = "Unduvap Full Moon Poya Day";
 pub static _UNIFICATION_DAY: &str = "Unification Day";
 pub static _UNIFICATION_DAY__OBSERVED_: &str = "Unification Day (observed)";
-pub static _UNIFICATION_OF_THE_ROMANIAN_PRINCIPALITIES_DAY: &str =
-    "Unification of the Romanian Principalities Day";
+pub static _UNIFICATION_OF_THE_ROMANIAN_PRINCIPALITIES_DAY: &str = "Unification of the Romanian Principalities Day";
 pub static _UNION_CELEBRATIONS: &str = "Union Celebrations";
+pub static _UNION_CELEBRATIONS__OBSERVED_: &str = "Union Celebrations (observed)";
 pub static _UNITED_NATIONS_DAY: &str = "United Nations Day";
 pub static _UNITED_NATIONS_DAY__OBSERVED_: &str = "United Nations Day (observed)";
 pub static _UNITY_DAY: &str = "Unity Day";
@@ -2259,53 +2544,62 @@ pub static _UNITY_DAY__OBSERVED_: &str = "Unity Day (observed)";
 pub static _UNIVERSAL_FRATERNIZATION_DAY: &str = "Universal Fraternization Day";
 pub static _UTAMADUNI_DAY: &str = "Utamaduni Day";
 pub static _UTAMADUNI_DAY__OBSERVED_: &str = "Utamaduni Day (observed)";
+pub static _VAP_FULL_MOON_POYA_DAY: &str = "Vap Full Moon Poya Day";
 pub static _VERNAL_EQUINOX_DAY: &str = "Vernal Equinox Day";
 pub static _VESAK_DAY: &str = "Vesak Day";
 pub static _VESAK_DAY__ESTIMATED_: &str = "Vesak Day (estimated)";
-pub static _VESAK_DAY__ESTIMATED___OBSERVED_: &str = "Vesak Day (estimated) (observed)";
 pub static _VESAK_DAY__OBSERVED_: &str = "Vesak Day (observed)";
 pub static _VESAK_DAY__OBSERVED__ESTIMATED_: &str = "Vesak Day (observed, estimated)";
+pub static _VESAK_FULL_MOON_POYA_DAY: &str = "Vesak Full Moon Poya Day";
 pub static _VETERANS_DAY: &str = "Veterans Day";
-pub static _VETERANS_DAY_AND_THE_FALLEN_IN_THE_MALVINAS_WAR: &str =
-    "Veterans Day and the Fallen in the Malvinas War";
 pub static _VETERANS_DAY__OBSERVED_: &str = "Veterans Day (observed)";
 pub static _VETERAN_S_DAY: &str = "Veteran's Day";
+pub static _VETERAN_S_DAY_AND_THE_FALLEN_IN_THE_MALVINAS_WAR: &str = "Veteran's Day and the Fallen in the Malvinas War";
 pub static _VICTORY_AND_HOMELAND_THANKSGIVING_DAY: &str = "Victory and Homeland Thanksgiving Day";
-pub static _VICTORY_AND_HOMELAND_THANKSGIVING_DAY_AND_CROATIAN_VETERANS_DAY: &str =
-    "Victory and Homeland Thanksgiving Day and Croatian Veterans Day";
+pub static _VICTORY_AND_HOMELAND_THANKSGIVING_DAY_AND_CROATIAN_VETERANS_DAY: &str = "Victory and Homeland Thanksgiving Day and Croatian Veterans Day";
 pub static _VICTORY_AND_PEACE_DAY: &str = "Victory and Peace Day";
 pub static _VICTORY_DAY: &str = "Victory Day";
-pub static _VICTORY_DAY_AND_COMMEMORATION_OF_THE_HEROES_FALLEN_FOR_INDEPENDENCE_OF_FATHERLAND:
-    &str = "Victory Day and Commemoration of the heroes fallen for Independence of Fatherland";
+pub static _VICTORY_DAY_AND_COMMEMORATION_OF_THE_HEROES_FALLEN_FOR_INDEPENDENCE_OF_FATHERLAND: &str = "Victory Day and Commemoration of the heroes fallen for Independence of Fatherland";
 pub static _VICTORY_DAY__OBSERVED_: &str = "Victory Day (observed)";
 pub static _VICTORY_OVER_FASCISM_DAY: &str = "Victory over Fascism Day";
 pub static _VICTORY_OVER_FASCISM_DAY__OBSERVED_: &str = "Victory over Fascism Day (observed)";
-pub static _VIRGIN_S_DAY: &str = "Virgin's Day";
+pub static _VICTOR_SCHOELCHER_DAY: &str = "Victor Schoelcher Day";
+pub static _VIRGIN_ISLANDS_DAY: &str = "Virgin Islands Day";
 pub static _VISAKA_BOCHEA_DAY: &str = "Visaka Bochea Day";
 pub static _VISAKHA_BUCHA: &str = "Visakha Bucha";
 pub static _VISAKHA_BUCHA__IN_LIEU_: &str = "Visakha Bucha (in lieu)";
+pub static _VISIT_OF_POPE_FRANCIS_TO_KENYA: &str = "Visit of Pope Francis to Kenya";
+pub static _VODOUN_FESTIVAL: &str = "Vodoun Festival";
 pub static _WAITANGI_DAY: &str = "Waitangi Day";
 pub static _WAITANGI_DAY__OBSERVED_: &str = "Waitangi Day (observed)";
-pub static _WAR_VETERANS_DAY: &str = "War Veterans Day";
+pub static _WAR_VETERAN_S_DAY: &str = "War Veteran's Day";
 pub static _WASHINGTON_S_BIRTHDAY: &str = "Washington's Birthday";
 pub static _WATER_FESTIVAL: &str = "Water Festival";
 pub static _WEDDING_OF_WILLIAM_AND_CATHERINE: &str = "Wedding of William and Catherine";
 pub static _WHITE_SUNDAY: &str = "White Sunday";
 pub static _WHITE_SUNDAY__LOTU_A_TAMAITI_: &str = "White Sunday (Lotu a Tamaiti)";
 pub static _WHIT_MONDAY: &str = "Whit Monday";
+pub static _WHIT_MONDAY__OBSERVED_: &str = "Whit Monday (observed)";
 pub static _WHIT_SUNDAY: &str = "Whit Sunday";
+pub static _WHIT_SUNDAY___LAND_S_AUTONOMY_DAY: &str = "Whit Sunday; Åland's Autonomy Day";
+pub static _WINTER_MIDTERM_BANK_HOLIDAY: &str = "Winter Midterm Bank Holiday";
+pub static _WINTER_SOLSTICE: &str = "Winter Solstice";
 pub static _WOMEN_S_DAY: &str = "Women's Day";
 pub static _WOMEN_S_DAY__OBSERVED_: &str = "Women's Day (observed)";
 pub static _WOMEN_S_RIGHTS_DAY: &str = "Women's Rights Day";
 pub static _WORKERS__DAY: &str = "Workers' Day";
 pub static _WORKERS__DAY__OBSERVED_: &str = "Workers' Day (observed)";
+pub static _WORKERS__MEMORIAL_DAY: &str = "Workers' Memorial Day";
+pub static _WORKERS__MEMORIAL_DAY__OBSERVED_: &str = "Workers' Memorial Day (observed)";
 pub static _WORKER_S_DAY: &str = "Worker's Day";
 pub static _WORKER_S_DAY__OBSERVED_: &str = "Worker's Day (observed)";
-pub static _WORLD_LABOR_DAY: &str = "World Labor Day";
 pub static _Y2K_CHANGEOVER: &str = "Y2K changeover";
 pub static _Y2K_CHANGEOVER__OBSERVED_: &str = "Y2K changeover (observed)";
 pub static _YOM_KIPPUR: &str = "Yom Kippur";
+pub static _YOUM_E_TAKBEER: &str = "Youm-e-Takbeer";
 pub static _YOUTH_DAY: &str = "Youth Day";
 pub static _YOUTH_DAY__OBSERVED_: &str = "Youth Day (observed)";
 pub static _ZANZIBAR_REVOLUTION_DAY: &str = "Zanzibar Revolution Day";
+pub static _ZANZIBAR_REVOLUTION_DAY__OBSERVED_: &str = "Zanzibar Revolution Day (observed)";
 pub static _ZIMBABWE_HEROES__DAY: &str = "Zimbabwe Heroes' Day";
+pub static __LAND_S_AUTONOMY_DAY: &str = "Åland's Autonomy Day";
